@@ -10,10 +10,10 @@
     - Darguul are deeply loyal to their clans or close allies
     - Muut and Atcha, or Duty and Honor, are highly valued in battle and life by the Darguul
 7. **Main Religions: **
-    - Dark Six
-    - Sovereign Host (especially Dol Dorn, Dol Arrah, and Balinor)
+    - [[Sovereign and the Six#^7c0522|Dark Six]]
+    - [[Sovereign and the Six|Sovereign Host]] (especially Dol Dorn, Dol Arrah, and Balinor)
 8. **House Headquarters: **
-    - Deneith (strong presence, no HQ)
+    - [[Deneith]] (strong presence, no HQ)
 9. **Last War Enemies:**
     - Cyre
     - Breland

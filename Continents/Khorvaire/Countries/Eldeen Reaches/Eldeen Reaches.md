@@ -4,12 +4,12 @@
 2. **Hallmarks: **Agriculture, animal husbandry, druidic magic
 3. **Ruler(s): **Wardens of the Wood
 4. **Characteristics:**
-   -. Druids, rangers, and Fey
+    - Druids, rangers, and Fey
 5. **Population:** 500,000 
     - 45% humans, 16% half-elves, 16% shifters, 7% gnomes, 7% halflings, 3% orcs, 3% elves, 3% other races
 6. **Main Religions: **Great Druid Oalian
 7. **House Headquarters: **
-    - Vadalis (Foalswood, near Varna)
+    - [[Vadalis]] (Foalswood, near Varna)
 8. **Last War Enemies: **
     - Aundair
 

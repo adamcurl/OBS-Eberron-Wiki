@@ -17,9 +17,9 @@
     - Full of Eberron dragonshards
     - Ruins from the Age of Demons
 7. **Main Religions: **
-    - (Lizardfolk) - Silver Flame/druidic blend
+    - (Lizardfolk) - [[Silver Flame#^8de871|Silver Flame]]/druidic blend
 8. **House Headquarters: **None
-    - House Tharashk has a strong presence
+    - [[Tharashk|House Tharashk]] has a strong presence
 9. **Last War Enemies: **
     - Q’barra wasn’t involved in the Last War, but many of its settlers are Cyran, who attack anyone who is from an enemy nation.
 

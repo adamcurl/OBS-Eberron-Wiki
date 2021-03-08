@@ -9,10 +9,10 @@
 6. **Characteristics:**
     - The people are independant and free-spirited
 7. **Main Religions: **
-    - Blood of Vol
-    - Sovereign Host (few)
+    - [[Blood of Vol]]
+    - [[Sovereign and the Six|Sovereign Host]] (few)
 8. **House Headquarters: **
-    - Phiarlan
+    - [[Phiarlan]]
 
 
 ## History

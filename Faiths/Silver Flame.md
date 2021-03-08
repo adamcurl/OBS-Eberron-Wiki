@@ -51,12 +51,12 @@
     * An extremist sect that seeks to eliminate every lycanthrope and “innately evil” monster, such as trolls, harpies, and ogres. They have a harsh and uncompassionate view of evil and show no mercy to those that are evil. They are intolerant, bigoted, and violent. To them, all evil is equal and deserves harsh punishment.
 
 
-* **Ghaash’kala**
+* **Ghaash’kala** ^5c99a0
 
     * A sect that predates the Church of the Silver Flame and humanity. The Ghaash’kala are mostly comprised of orcs, but other races can join. They worship the Binding Flame by keeping fiends and barbarians in the Demon Wastes. They view it as their duty to protect the rest of Khorvaire from these threats.
 
 
-* **Serpent Cults**
+* **Serpent Cults** ^8de871
 
     * The Serpent Cults honor the countless couatls that sacrificed themselves to create the Silver Flame. They are the oldest and most unknown sect of the Silver Flame. Instead of listening to the Voice or a Keeper, they listen to the voice of couatls that did not sacrifice themselves, but instead lived on to guide others.
 

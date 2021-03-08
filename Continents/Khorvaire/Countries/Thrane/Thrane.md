@@ -19,7 +19,7 @@
     - Corrupt priests
     - Each town has a small militia ready to fight the darkness
 8. **Main Religions: **
-    - Silver Flame
+    - [[Silver Flame]]
 9. **House Headquarters: **None
 10. **Last War Enemies: **
     - Aundair

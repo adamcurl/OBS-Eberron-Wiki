@@ -10,9 +10,9 @@
     - Proud of wealth
     - Talent and skills as forgers and warriors
 7. **Main Religions: **
-    - Sovereign Host (mostly Kol Korran)
+    - [[Sovereign and the Six|Sovereign Host]] (mostly Kol Korran)
 8. **House Headquarters: **
-    - Kundarak
+    - [[Kundarak]]
 
 ## History
 

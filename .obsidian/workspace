@@ -8,25 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Continents/Khorvaire/Countries/Zilargo/Zilargo.md",
-            "mode": "source"
-          }
-        },
-        "group": "3434b1ffe7d7f8e7"
-      },
-      {
-        "id": "faba6d203893fff4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Continents/Khorvaire/Countries/Zilargo/Zilargo.md",
-            "mode": "preview"
-          }
-        },
-        "group": "3434b1ffe7d7f8e7"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -82,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continents/Khorvaire/Countries/Zilargo/Zilargo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Continents/Khorvaire/Countries/Zilargo/Zilargo.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -121,13 +102,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Continents/Khorvaire/Countries/Zilargo/Zilargo.md",
+    "Continents/Khorvaire/Countries/Thronehold.md",
     "Continents/Khorvaire/Countries/Valenar/Valenar.md",
     "Continents/Khorvaire/Countries/Thrane/Thrane.md",
-    "Continents/Khorvaire/Countries/Thronehold.md",
     "Continents/Khorvaire/Countries/Talenta Plains/Talenta Plains.md",
     "Continents/Khorvaire/Countries/Shadow Marches/Shadow Marches.md",
     "Continents/Khorvaire/Countries/Q'barra/Q'barra.md",
+    "Faiths/Silver Flame.md",
     "Continents/Khorvaire/Countries/Mror Holds/Mror Holds.md",
     "Continents/Khorvaire/Countries/Lhazaar Principalities/Lhazaar Principalities.md",
     "Continents/Khorvaire/Countries/Karrnath/Karrnath.md"

@@ -14,7 +14,7 @@
 7. **Main Religions: **
     - Various spirits
 8. **House Headquarters: **
-    - Ghallanda
+    - [[Ghallanda]]
 9. **Last War Enemies:**
     - Cyre
     - Karrnath

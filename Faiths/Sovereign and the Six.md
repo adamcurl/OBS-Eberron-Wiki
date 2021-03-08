@@ -44,6 +44,9 @@
 
 ## Anti-Deities
 
+^7c0522
+
+
 * **The Devourer**
 
     * Governs the destructive power of nature, both pure elemental force and savagery in beasts.

@@ -19,12 +19,12 @@
     - Some support Prince Oargev, while others want to cling to the past
 8. **Main Religions: **
     - **Previous:**
-        - Sovereign Host
-        - Silver Flame
+        - [[Sovereign and the Six|Sovereign Host]]
+        - [[Silver Flame]]
     - **Current:**
         - Lord of Blades
 9. **House Headquarters: **
-    - **Previous: **Cannith
+    - **Previous: **[[Cannith]]
 10. **Last War Enemies:**
     - Darguun
     - Valenar

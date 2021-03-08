@@ -11,12 +11,12 @@
     - Stoic and grim
     - Strong military
 8. **Main Religions: **
-    - Sovereign Host
-    - Blood of Vol
+    - [[Sovereign and the Six]]
+    - [[Blood of Vol]]
 9. **House Headquarters: **
-    - Jorasco (Vedkyar Enclave - Vedykar, Karrnath)
-    - Cannith (Korth Enclave - Karrnath)
-    - Deneith (Sentinel Tower - Karrlakton, Karrnath)
+    - [[Jorasco]] (Vedkyar Enclave - Vedykar, Karrnath)
+    - [[Cannith]] (Korth Enclave - Karrnath)
+    - [[Deneith]] (Sentinel Tower - Karrlakton, Karrnath)
 
 ## History
 

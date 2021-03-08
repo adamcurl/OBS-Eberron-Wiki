@@ -9,8 +9,8 @@
 5. **Population: **500,000 
     - 20% gnoll, 19% orcs, 18% goblins, 5% shifters, 38% other races, including half-orcs, harpies, hill giants, humans, medusas, minotaurs, ogres, and trolls
 6. **Main Religions: **
-    - Dark Six
-7. **House Headquarters: **None, but works with House Tharashk
+    - [[Sovereign and the Six#^7c0522|Dark Six]]
+7. **House Headquarters: **None, but works with [[Tharashk|House Tharashk]]
 8. **Last War Enemies:**
     - Breland
 

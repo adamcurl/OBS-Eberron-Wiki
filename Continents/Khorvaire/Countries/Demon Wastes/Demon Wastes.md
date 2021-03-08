@@ -10,7 +10,7 @@
     - (Ghaash’kala) - noble orc defenders
     - (The Carrion Tribes) - human, half-orcs, and tiefling savages that worship demonic lords
 7. **Main Religions: **
-     - (Ghaash’kala) - Binding Flame (Kalok Shash)
+     - (Ghaash’kala) - [[Silver Flame#^5c99a0|Binding Flame]] (Kalok Shash)
      - (The Carrion Tribes) - archfiends
 8. **House Headquarters: **None
 

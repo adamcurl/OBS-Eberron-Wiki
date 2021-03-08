@@ -11,9 +11,9 @@
     - Scarred by the Daelkyr war
     - Many gateways to Xoriat are sealed here
 7. **Main Religions: **
-    - The Cults of the Dragon Below
+    - [[Cults of the Dragon Below]]
 8. **House Headquarters: **
-    - Tharashk
+    - [[Tharashk]]
 
 ## History
 

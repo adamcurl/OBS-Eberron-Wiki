@@ -17,12 +17,12 @@
     - Why use your hand when you could use mage hand? Why strain your muscles tugging on a bowstring when you could use a wand?
     - Don’t settle for common clothes and a squalid meal when you could wear glamerweave and drink the finest wine. If you’re a fighter, focus on finesse instead of crude strength. And never miss an opportunity for a clever quip.
 12. **Main Religions: **
-    - Sovereign Host
-    - Silver Flame
+    - [[Sovereign and the Six|Sovereign Host]]
+    - [[Silver Flame|Silver Flame]]
 13. **House Headquarters: **
-    - Cannith (Fairhaven)
-    - Orien (Passage)
-    - Lyrandar (Stormhome)
+    - [[Cannith]] (Fairhaven)
+    - [[Orien]] (Passage)
+    - [[Lyrandar]] (Stormhome)
 14. **Last War Enemies: **
     - Thrane took Thaliost from Aundair
     - The Eldeen Reaches succeeded from Aundair halfway through the war, taking one half of Aundair’s land and one fifth of its population
