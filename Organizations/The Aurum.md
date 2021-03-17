@@ -55,9 +55,9 @@ The Last War gave birth to the Shadow Cabinet. The war ignited the passions of C
 
 ## Locations
 
-- **Headquarters** - Krona Peak, Mror Holds
+- **Headquarters** - Krona Peak, [[Mror Holds]]
 - **Meeting Halls:**
-	1. Sharn, Breland
+	1. [[Sharn]], Breland
 
 ## Features
 

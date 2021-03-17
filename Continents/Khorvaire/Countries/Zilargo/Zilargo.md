@@ -13,9 +13,9 @@
     - Most consider the Library of Korranberg the finest repository of knowledge in Khorvaire.
     - The Korranberg Chronicle is the leading source of news in Khorvaire. Gnome chroniclers travel across Khorvaire in search of stories.
     - The major cities of Zilargo maintain temples and shrines dedicated to every religion. Most Zil explore a few faiths before settling on one; others practice multiple religions.
-7. **Main Religions: **A bit of everything
+7. **Main Religions: ** A bit of everything
 8. **House Headquarters: **
-    - Sivis
+    - [[Sivis]]
 9. **Last War Enemies:**
     - Darguun invaders constantly try and steal jewel miners from Zilargo
 10. **Last War Allies:**

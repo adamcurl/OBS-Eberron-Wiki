@@ -1,4 +1,5 @@
 #Faith
+[[Eberron]]
 ## Deities
 
 * **Arawai**

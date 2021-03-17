@@ -1,8 +1,8 @@
 #Crime
-* **Location: **Sharn
+* **Location: **[[Sharn]]
 * **Founder: **Sora Katra
 * **Established: **996 YK
-* **Current Leader: **Sora Katra - one of the leaders of Droaam
+* **Current Leader: **Sora Katra - one of the leaders of [[Droaam]]
 
 ## Features
 
@@ -25,7 +25,6 @@
 ## Perks
 
 1. Muscle and hitment for hire
-
 
 ## Costs
 

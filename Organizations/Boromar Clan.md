@@ -1,5 +1,5 @@
 #Crime
-* **Location:**  Sharn
+* **Location:**  [[Sharn]]
 * **Founder: **Boromar immigrants
 * **Established: **???
 * **Current Leader: **Saidan Boromar - married to Mala Boromar Jorasco
@@ -26,7 +26,7 @@
 * Shipping Co.
 * Employes bookkeepers, administrators, burglars, and con artists
 * Hires freelancers for physical violence
-    * Usually members of the Sharn Guard or agents of House Tarkanan
+    * Usually members of the Sharn Guard or agents of [[Tarkanan|House Tarkanan]]
 
 
 ## Allies
@@ -34,13 +34,10 @@
 1. [[Jorasco|House Jorasco]]
     * Boromar family gets free healing
     * Members get 10% discount
-
 2. Sharn Council
-
     * 4 seats on council
         * Ilyra Boromar, reports directly to the head of the syndicate
     * other council members fear the syndicate
-
 3. Sharn Watch
     * Bribes the guards
     * Keeps criminal anarchy from happening
@@ -50,7 +47,6 @@
 
 1. Daask
     * Violent theft and sabotage 
-
 2. Sharn Council
     * At least 3 members oppose them out of genuine concern
     * 2 more oppose them because they are in a rival organization
@@ -69,5 +65,4 @@
 ## Costs
 
 1. 15% of your assignment profits go to the Clan
-
 2. Targeted by Daask

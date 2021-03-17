@@ -2,13 +2,12 @@
 
 1. **Capital: **Fairhaven
 2. **Hallmarks: **Cheese, education, fashion, grains, wine, wizardry
-3. **Ruler(s): **Queen Aurala ir’Wynarn, heir to Galifar and Regent of the Brightest Realm
+3. **Ruler(s): ** [[Queen Aurala ir’Wynarn]], heir to Galifar and Regent of the Brightest Realm
 4. **Population: **2 million
     - 51% humans, 16% half-elves, 11% elves, 11% gnomes, 5% halflings, 3% shifter, 2% changelings, 1% other
 5. **Climate:** Temperate
 6. **Area: **560,000 sq. miles
-7. 
-**Languages:** Common, Draconic, Elf, Halfling
+7. **Languages:** Common, Draconic, Elf, Halfling
 8. **Founder:** Wrogar, fourth scion of King Jarot
 9. **National Motto:** “What we sow in effort, we harvest in good fortune.”
 10. **Major Cities: **Passage, Stormhome

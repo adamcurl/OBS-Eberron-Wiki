@@ -6,11 +6,24 @@
       {
         "id": "9d16dca9a75e2d90",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NPCs/Tirah the Shark.md",
+            "mode": "source"
+          }
+        },
+        "group": "1b535308b27c331d"
+      },
+      {
+        "id": "e606b6dbec03eef2",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "graph",
           "state": {}
-        }
+        },
+        "group": "1b535308b27c331d"
       }
     ],
     "direction": "vertical"
@@ -102,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Continents/Khorvaire/Countries/Thronehold.md",
-    "Continents/Khorvaire/Countries/Valenar/Valenar.md",
-    "Continents/Khorvaire/Countries/Thrane/Thrane.md",
-    "Continents/Khorvaire/Countries/Talenta Plains/Talenta Plains.md",
-    "Continents/Khorvaire/Countries/Shadow Marches/Shadow Marches.md",
-    "Continents/Khorvaire/Countries/Q'barra/Q'barra.md",
-    "Faiths/Silver Flame.md",
-    "Continents/Khorvaire/Countries/Mror Holds/Mror Holds.md",
-    "Continents/Khorvaire/Countries/Lhazaar Principalities/Lhazaar Principalities.md",
-    "Continents/Khorvaire/Countries/Karrnath/Karrnath.md"
+    "NPCs/Tirah the Shark.md",
+    "NPCs/Untitled.md",
+    "NPCs/Kreelo.md",
+    "Organizations/Untitled.md",
+    "Organizations/Royal Eyes.md",
+    "_templates/Organization.md",
+    "Organizations/The Aurum.md",
+    "Organizations/Daask.md",
+    "Organizations/Boromar Clan.md",
+    "_templates/Untitled.md"
   ]
 }

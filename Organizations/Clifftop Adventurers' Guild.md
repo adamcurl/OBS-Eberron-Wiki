@@ -1,5 +1,5 @@
 #AdventurersGuild
-* **Location: **Sharn - Upper Dura
+* **Location: **Sharn - [[Upper Dura]]
 * **Founder: **Shekkal Korranor (male dwarf)
 * **Established: **848 YK (150 years ago)
 * **Current Leader: **Sumara “Summer” Korranor (female dwarf)

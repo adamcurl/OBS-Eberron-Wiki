@@ -14,7 +14,7 @@
 
 
 *   **Unburdened.** A creature gains a flying speed equal to its walking speed, unless it already has a flying speed greater than or equal to its walking speed, in which case that speed increases by 10 feet.
-
+ ^05cb51
 
 *   **Gentle Thoughts. **A creature has advantage on Charisma (Persuasion) checks and disadvantage on Charisma (Intimidation) checks.
 

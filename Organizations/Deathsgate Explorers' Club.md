@@ -1,5 +1,5 @@
 #AdventurersGuild
-* **Location: **Sharn
+* **Location: **[[Sharn]]
 * **Founder: **???
 * **Established: **???
 * **Current Leader: ???**
