@@ -7,10 +7,11 @@
         "id": "9d16dca9a75e2d90",
         "type": "leaf",
         "dimension": 50,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/King Kaius ir'Wynarn I.md",
+            "file": "NPCs/Tarya d’Cannith.md",
             "mode": "source"
           }
         },
@@ -23,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/King Kaius ir'Wynarn I.md",
+            "file": "NPCs/Tarya d’Cannith.md",
             "mode": "preview"
           }
         },
@@ -83,12 +84,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/King Kaius ir'Wynarn I.md",
+                "file": "NPCs/Tarya d’Cannith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/King Kaius ir'Wynarn I.md"
+                "file": "NPCs/Tarya d’Cannith.md"
               }
             }
           }
@@ -123,17 +122,16 @@
     "width": 231.5,
     "collapsed": true
   },
-  "active": "9d16dca9a75e2d90",
   "lastOpenFiles": [
-    "NPCs/King Kaius ir'Wynarn I.md",
-    "NPCs/King Kaius ir'Wynarn III.md",
-    "NPCs/King Boranel ir’Wynarn.md",
-    "NPCs/Kievan ir’Talar.md",
-    "NPCs/Jaela Daran, Keeper of the Flame.md",
-    "NPCs/High Cardinal Krozen.md",
-    "NPCs/Haydith ir’Wynarn.md",
-    "NPCs/Dzarro Silvervein.md",
-    "NPCs/Captain Malik Otherro.md",
-    "NPCs/Aron “Sharpsword” Fainn.md"
+    "NPCs/Untitled.md",
+    "NPCs/Marshal Banarak Tithon.md",
+    "NPCs/Madra Sil Sarin.md",
+    "NPCs/Menya d’Cannith.md",
+    "Organizations/Untitled.md",
+    "NPCs/Meira.md",
+    "NPCs/Lord of Blades.md",
+    "NPCs/Queen Diani ir'Wynarn.md",
+    "NPCs/Queen Aurala ir’Wynarn.md",
+    "NPCs/Lieutenant Bara Mernu.md"
   ]
 }
