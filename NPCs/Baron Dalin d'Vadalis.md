@@ -11,6 +11,8 @@
 
 - **Personality:** 
 
+- **Occupation:** Leader of House Vadalis
+
 - **Hook:** 
 
 - **Location:** 
@@ -26,6 +28,7 @@ After his brother, Sasik d'Vadalis, renounced his claim to House Vadalis when he
 - Princess Corrine ir'Wynarn (neice)
 
 ## Affiliations
+- [[Vadalis|House Vadalis]]
 
 ## Stats
 - **AC:** 

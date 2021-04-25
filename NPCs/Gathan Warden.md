@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** 
+- **Allignment:** N
 
-- **Gender & Race:** 
+- **Gender & Race:** M human
 
 - **Age:** 
 
@@ -11,23 +11,23 @@
 
 - **Personality:** 
 
-- **Occupation:** Spy Master of the Royal Eyes
+- **Occupation:** 
 
 - **Hook:** 
 
-- **Location:** [[Fairhaven]], [[Aundair]]
+- **Location:** [[Eldeen Reaches]]
 
 ## Bio
 
 
 ## Relationships
-- [[Queen Aurala ir’Wynarn]] (Queen)
-- [[Prince Jurian ir’Wynarn]] (Elite Agent)
+- 
 
 ## Affiliations
-- [[Royal Eyes]] (Spy Master)
+-
 
 ## Stats
+ranger 9
 - **AC:** 
 - **HP:** 
 - **Speed:** 

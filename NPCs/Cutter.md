@@ -1,33 +1,33 @@
 ## Description
-- **Appearance:** 
+- **Appearance:** Cloaked
 
-- **Allignment:** 
+- **Allignment:** CN
 
-- **Gender & Race:** 
+- **Gender & Race:** F warforged
 
 - **Age:** 
 
-- **Agenda:** 
+- **Agenda:** Cutter believes that the warforged shall rise up and overthrow the “weak-fl eshed” races
 
 - **Personality:** 
 
-- **Occupation:** Spy Master of the Royal Eyes
+- **Occupation:** Agent of the [[Lord of Blades]]
 
 - **Hook:** 
 
-- **Location:** [[Fairhaven]], [[Aundair]]
+- **Location:** [[Sharn]], [[Breland]]
 
 ## Bio
 
 
 ## Relationships
-- [[Queen Aurala ir’Wynarn]] (Queen)
-- [[Prince Jurian ir’Wynarn]] (Elite Agent)
+- [[Lord of Blades]] - Agent
 
 ## Affiliations
-- [[Royal Eyes]] (Spy Master)
+-
 
 ## Stats
+barbarian 1
 - **AC:** 
 - **HP:** 
 - **Speed:** 

@@ -11,6 +11,8 @@
 
 - **Personality:** 
 
+- **Occupation:** Shark
+
 - **Hook:** 
 
 - **Location:** [[Fairhaven]], [[Aundair]]

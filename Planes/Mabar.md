@@ -18,10 +18,7 @@
 
 ## Moon: Sypheros
 
-
 ## Effects
-
-
 
 *   **Necrotic Power.** A creature has disadvantage on saving throws against necromancy spells. An undead creature has 2 extra hit points per Hit Die and advantage on saving throws against being turned or frightened.
 
@@ -32,7 +29,7 @@
 *   **Eternal Shadows. **There is no bright light in Mabar. Any object or effect that would usually create bright light only creates dim light.
  ^bc7d28
 
-*   **The Hunger of Mabar. **Mabar consumes the life force of living things. For every minute a living creature spends in Mabar, it takes 10d6 points of necrotic damage. If this damage reduces a creature to 0 hit points, it immediately dies and its body crumbles into ash. Natives of Mabar, creatures that have resistance or immunity to necrotic damage, and creatures under the effects of a death ward spell are immune to the effects of this property.
+*   **The Hunger of Mabar.** Mabar consumes the life force of living things. For every minute a living creature spends in Mabar, it takes 10d6 points of necrotic damage. If this damage reduces a creature to 0 hit points, it immediately dies and its body crumbles into ash. Natives of Mabar, creatures that have resistance or immunity to necrotic damage, and creatures under the effects of a death ward spell are immune to the effects of this property.
 
 
 *   **Standard Time. **Time passes at the same pace as on the Material Plane, and is consistent across its layers.

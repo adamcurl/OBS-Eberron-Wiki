@@ -6,24 +6,28 @@
       {
         "id": "9d16dca9a75e2d90",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Tirah the Shark.md",
+            "file": "NPCs/King Kaius ir'Wynarn I.md",
             "mode": "source"
           }
         },
-        "group": "1b535308b27c331d"
+        "group": "e76542433c4f1963"
       },
       {
-        "id": "e606b6dbec03eef2",
+        "id": "44a375cf45c52aae",
         "type": "leaf",
-        "active": true,
+        "dimension": 50,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NPCs/King Kaius ir'Wynarn I.md",
+            "mode": "preview"
+          }
         },
-        "group": "1b535308b27c331d"
+        "group": "e76542433c4f1963"
       }
     ],
     "direction": "vertical"
@@ -79,9 +83,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/King Kaius ir'Wynarn I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NPCs/King Kaius ir'Wynarn I.md"
+              }
             }
           }
         ],
@@ -114,16 +123,17 @@
     "width": 231.5,
     "collapsed": true
   },
+  "active": "9d16dca9a75e2d90",
   "lastOpenFiles": [
-    "NPCs/Tirah the Shark.md",
-    "NPCs/Untitled.md",
-    "NPCs/Kreelo.md",
-    "Organizations/Untitled.md",
-    "Organizations/Royal Eyes.md",
-    "_templates/Organization.md",
-    "Organizations/The Aurum.md",
-    "Organizations/Daask.md",
-    "Organizations/Boromar Clan.md",
-    "_templates/Untitled.md"
+    "NPCs/King Kaius ir'Wynarn I.md",
+    "NPCs/King Kaius ir'Wynarn III.md",
+    "NPCs/King Boranel ir’Wynarn.md",
+    "NPCs/Kievan ir’Talar.md",
+    "NPCs/Jaela Daran, Keeper of the Flame.md",
+    "NPCs/High Cardinal Krozen.md",
+    "NPCs/Haydith ir’Wynarn.md",
+    "NPCs/Dzarro Silvervein.md",
+    "NPCs/Captain Malik Otherro.md",
+    "NPCs/Aron “Sharpsword” Fainn.md"
   ]
 }

@@ -3,7 +3,7 @@
 
 - **Allignment:** 
 
-- **Gender & Race:** 
+- **Gender & Race:** M human
 
 - **Age:** 
 
@@ -11,21 +11,20 @@
 
 - **Personality:** 
 
-- **Occupation:** Spy Master of the Royal Eyes
+- **Occupation:** True King of Karrnath; Prisoner
 
 - **Hook:** 
 
-- **Location:** [[Fairhaven]], [[Aundair]]
+- **Location:** [[Dreadhold]], [[Lhazaar Principalities]]
 
 ## Bio
-
+King Kaius III assumed the throne of Karrnath in 991 YK, relieving his aunt and regent Moranna ir'Wynarn. He is the son of King Jaron ir'Wynarn.
 
 ## Relationships
-- [[Queen Aurala ir’Wynarn]] (Queen)
-- [[Prince Jurian ir’Wynarn]] (Elite Agent)
+- [[King Kaius ir'Wynarn I]] (great-grandfather)
 
 ## Affiliations
-- [[Royal Eyes]] (Spy Master)
+-
 
 ## Stats
 - **AC:** 

@@ -1,2 +1,2 @@
 [[Karrnath]]
-1. **Type:** City
+1. **Type:** Capital

@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** 
+- **Allignment:** LE
 
-- **Gender & Race:** 
+- **Gender & Race:** M warforged
 
 - **Age:** 
 
@@ -11,23 +11,23 @@
 
 - **Personality:** 
 
-- **Occupation:** Spy Master of the Royal Eyes
+- **Occupation:** 
 
 - **Hook:** 
 
-- **Location:** [[Fairhaven]], [[Aundair]]
+- **Location:** [[Sharn]], [[Breland]]
 
 ## Bio
 
 
 ## Relationships
-- [[Queen Aurala ir’Wynarn]] (Queen)
-- [[Prince Jurian ir’Wynarn]] (Elite Agent)
+- [[Cutter]] - underling
 
 ## Affiliations
-- [[Royal Eyes]] (Spy Master)
+- 
 
 ## Stats
+fighter 3
 - **AC:** 
 - **HP:** 
 - **Speed:** 

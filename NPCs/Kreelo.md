@@ -11,6 +11,8 @@
 
 - **Personality:** 
 
+- **Occupation:** Leader of the Dark Dagger Gang
+
 - **Hook:** 
 
 - **Location:** [[Fairhaven]], [[Aundair]]

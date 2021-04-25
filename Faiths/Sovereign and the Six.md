@@ -25,7 +25,6 @@
 
 * **Dol Dorn**
 
-
     * The Sovereign of Strength and Steel. He is the patron of the common soldier, and he guides the hands of anyone who holds a weapon. He embodies courage, strength, and martial skill.
 
 * **Kol Korran**

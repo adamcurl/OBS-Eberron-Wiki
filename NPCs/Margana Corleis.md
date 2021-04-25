@@ -11,7 +11,9 @@
 
 - **Personality:** Calm, tough-but-charming, deceptive, curious
 
-- **Hook:** "I sensed your presence long ago."
+- **Occupation:** Member of Arcane Congress and professor of divination at Arcanix
+
+- **Hook:** *"I sensed your presence long ago."*
 
 - **Location:** [[Fairhaven]], [[Aundair]] and [[Arcanix]], Aundair
 

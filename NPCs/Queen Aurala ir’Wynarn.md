@@ -11,7 +11,11 @@
 
 - **Personality:** Eloquent, Scheming, Ambitious, Powerful, Graceful
 
-- **Hook:** "My people have no interest in war. Aundair seeks peaceful relations with its old neighbors."
+- **Occupation:** Queen of Aundair
+
+- **Occupation:** Queen of Aundair
+
+- **Hook:** *"My people have no interest in war. Aundair seeks peaceful relations with its old neighbors."*
 
 - **Location:** [[Fairhaven]], [[Aundair]]
 

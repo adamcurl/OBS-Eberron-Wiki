@@ -11,6 +11,8 @@
 
 - **Personality:** 
 
+- **Occupation:** Husband of Queen Aurala
+
 - **Hook:** 
 
 - **Location:** [[Fairhaven]], [[Aundair]]
@@ -32,6 +34,7 @@ Despite this he remains a member of the family if not an official member of the 
 - Wrey ir'Wynarn (sister in-law)
 
 ## Affiliations
+- [[Vadalis|House Vadalis]]
 
 ## Stats
 - **AC:** 

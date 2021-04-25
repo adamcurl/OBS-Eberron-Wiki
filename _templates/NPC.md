@@ -11,6 +11,8 @@
 
 - **Personality:** 
 
+- **Occupation:** 
+
 - **Hook:** 
 
 - **Location:** 
@@ -22,7 +24,7 @@
 - 
 
 ## Affiliations
--
+- 
 
 ## Stats
 - **AC:** 

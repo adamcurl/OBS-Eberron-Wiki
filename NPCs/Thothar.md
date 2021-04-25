@@ -11,12 +11,14 @@
 
 - **Personality:** 
 
+- **Occupation:** Gladfly
+
 - **Hook:** 
 
 - **Location:** [[Fairhaven]], [[Aundair]]
 
 ## Bio
-Thothar is one of the city’s best-known gadfl ies, a soapbox orator who advocates nonviolent “revolution of the masses” and a democracy so laissez-faire that it borders on anarchy. The Royal Eyes keeps a close eye on him and arrests him periodically, but Thothar is careful not to explicitly advocate elimination of the crown or violence against any government apparatus.
+Thothar is one of the city’s best-known gadflies, a soapbox orator who advocates nonviolent “revolution of the masses” and a democracy so laissez-faire that it borders on anarchy. The Royal Eyes keeps a close eye on him and arrests him periodically, but Thothar is careful not to explicitly advocate elimination of the crown or violence against any government apparatus.
 
 Most Fairhaveners regard Thothar with a sympathetic ear, even if they realize that a consensus-driven society would never come to pass. But because Thothar moves in all circles of Fairhaven’s civic life, he’s one of the most well-informed residents of the city, capable of dishing out more rumor, gossip, and little-known fact than the nosiest courtier. He’s also an attentive student of magic, a knack he claims is a result of “a clear-headed revolution of the mind.”
 

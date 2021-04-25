@@ -43,3 +43,5 @@
 
 *   **Thieves of Life**
     *   The Thieves of Life are hermits that are determined to unlock their divinity within at and immortality any cost. They practice necromancy on others, while not becoming undead themselves.
+
+* **The Stillborn**

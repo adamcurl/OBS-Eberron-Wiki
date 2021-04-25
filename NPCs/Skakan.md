@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** 
+- **Allignment:** NE
 
-- **Gender & Race:** 
+- **Gender & Race:** M goblin
 
 - **Age:** 
 
@@ -11,23 +11,23 @@
 
 - **Personality:** 
 
-- **Occupation:** Spy Master of the Royal Eyes
+- **Occupation:** Runs the Rat's Market
 
 - **Hook:** 
 
-- **Location:** [[Fairhaven]], [[Aundair]]
+- **Location:** [[Sharn]], [[Breland]]
 
 ## Bio
-
+Skakan prefers to deal with actual customers, so the PCs have a better time gaining his help if they purchase something from his market.
 
 ## Relationships
-- [[Queen Aurala ir’Wynarn]] (Queen)
-- [[Prince Jurian ir’Wynarn]] (Elite Agent)
+- 
 
 ## Affiliations
-- [[Royal Eyes]] (Spy Master)
+- 
 
 ## Stats
+rogue 3
 - **AC:** 
 - **HP:** 
 - **Speed:** 

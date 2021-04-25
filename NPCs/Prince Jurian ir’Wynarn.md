@@ -11,7 +11,9 @@
 
 - **Personality:** 
 
-- **Hook:** 
+- **Occupation:** Prince in exile; Agent of the Royal Eyes
+
+- **Hook:** *"I don't engage in *that* type of dueling anymore."*
 
 - **Location:** [[Wroat]], [[Breland]]
 

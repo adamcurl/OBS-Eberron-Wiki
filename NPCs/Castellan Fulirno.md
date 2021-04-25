@@ -11,6 +11,8 @@
 
 - **Personality:** 
 
+- **Occupation:** Head of Aundair palace staff
+
 - **Hook:** 
 
 - **Location:** [[Fairhaven]], [[Aundair]]
