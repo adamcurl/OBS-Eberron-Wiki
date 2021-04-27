@@ -27,7 +27,7 @@
 
 
 *   **Primordial Matter.** It’s difficult to destroy or contaminate the matter of Lamannia. All nonmagical food and drink is purified and rendered free of poison and disease. In addition, natural materials such as wood and stone are tougher than their mundane counterparts. When trying to destroy objects made of Lamannian materials, increase the Armor Class suggested in chapter 8 of the Dungeon Master’s Guide by 3, and double the hit points of the object.
-
+ ^73bd15
 
 *   **Standard Time.** Time passes at the same pace as on the Material Plane, and is consistent across its layers.
 

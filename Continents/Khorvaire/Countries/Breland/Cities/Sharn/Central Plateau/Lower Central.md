@@ -1,5 +1,6 @@
 [[Central Plateau]]
 
+## About
 This district is peaceful and largely residential; it’s the safest and most pleasant of the lower wards. Goods and services are largely priced for those with a comfortable lifestyle, and the Sharn Watch is plentiful and well paid. The district of Boldrei’s Hearth has many reasonably priced inns (most run by House Ghallanda), and Olladra’s Kitchen has a wide assortment of taverns and restaurants. Myshan Gardens is a residential district that caters to affluent artists, while Vallia Towers has a large community of half-elves.
 
 ## Districts

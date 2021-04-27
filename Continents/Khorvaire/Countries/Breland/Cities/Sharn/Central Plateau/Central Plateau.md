@@ -4,7 +4,6 @@
 
 Looking for work or amusement in this quarter? Some of the things you can do here include:
 
-
 *   **Attend an auction.** The Aurora Gallery in Platinum Heights is the finest auction house in Sharn and specializes in auctions of exotic magic items and relics from Xen’drik. You never know what’s going to be available—or who will be bidding against you.
 
 
