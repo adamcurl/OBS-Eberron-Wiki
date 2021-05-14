@@ -1,11 +1,13 @@
 #AdventurersGuild
-* **Location: **Sharn - [[Upper Dura]]
-* **Founder: **Shekkal Korranor (male dwarf)
-* **Established: **848 YK (150 years ago)
-* **Current Leader: **Sumara “Summer” Korranor (female dwarf)
+* **Location:** [[Sharn]] - [[Upper Dura]]
+* **Founder:** Shekkal Korranor (male dwarf)
+* **Established:** 848 YK (150 years ago)
+* **Current Leader:** Sumara “Summer” Korranor (female dwarf)
+
+## Summary
+One hundred and fifty years ago, a dwarf named Shekkal Korranor established a guild for explorers and wanderers—a place where those with adventurous spirits could fi nd good company and support. Shekkal died in the Last War, but the Clifftop Adventurers’ Guild remains. Members tend to be 2nd- to 5th-level characters with good alignments, most of whom have spent some time in Xen’drik. There is a strong rivalry between the members of the Clifftop Adventurers’ Guild and Deathsgate Explorer’s Club, and characters that join Clifftop may have to deal with Deathsgate hooligans—either in Sharn or while adventuring in the wilds.
 
 ## Features
-
 1. Quiet library
 2. Comfortable inn
 3. Gymnasium

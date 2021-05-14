@@ -1,5 +1,11 @@
 [[Dura]]
 
+- **Population:** 17,400
+- **Social Class:** Middle Class
+- **Character:** Crowded and bustling. This is not a wealthy ward, but the people are surviving, and some are clearly doing quite well for themselves. While there are a few upscale businesses, the merchants are clearly used to dealing with adventurers and others of questionable character.
+- **Districts:** Garrison, temple district, shops (2), apartment homes (2), dwarf neighborhood, average residences, adventurer’s quarter
+- **Business:** Upscale if a bit on the worn side, with more shops catering to adventurers than in most other districts; gold piece limit: 40,000 gp
+
 ## About
 This ward is full of activity. Its people are prospering, but there’s an edge of desperation about them; many folk are on the lookout for opportunities to better themselves. Upper Dura has the general properties of a middle ward, with most goods and services priced for a modest or comfortable lifestyle. The merchants and artisans are accustomed to dealing with unusual individuals, and adventurers receive a warm welcome here.
 
@@ -20,40 +26,107 @@ The Highwater district is home to the wealthiest inhabitants of Dura and is the 
 
 ## Districts
 
-
 ### Clifftop
 This district caters to adventurers, with a wide array of businesses aimed at explorers and fortune hunters. It is the home base of the Clifftop Adventurer’s Guild.
 
+Clifftop is a curious blend of wealth and poverty. Most of the businesses in the district are serviceable, but not exceptional, providing for the needs of the adventurer who rarely has more than a few pieces of gold in his purse. It also provides services for the lucky explorer or privateer who has returned home with gold to spare, with commercial spellcasters, shops selling used wands and old mageworked weapons, and other exotic goods readily available. While similar in many ways to the Deathsgate district, Clifftop has a better and generally well-deserved reputation.
 
-#### The Clifftop Adventurer’s Guild
+The district provides a number of services adventurers may fi nd useful. A wide variety of hirelings can be found here, and all of them are used to putting up with the odd demands of adventurers. Likewise, as adventurers have a way of getting into trouble with the law, there are a considerable number of barristers and advocates in the district. The pawnshops of Clifftop offer 45% of value for almost any sorts of goods, except those that are obviously stolen; fences that deal in stolen goods must be found in the lower levels of Dura.
+
+**Desc:** The towers of this district are drab gray granite, but the crowds that fi ll the streets are quite colorful. People of all races and cultures can be seen. An Aundairian wizard compares notes with a kalashtar monk in the shade of a tavern, while across the street a Lhazaar privateer and a Valenar elf compare blades. Clifftop is a fairly dingy district—but it attracts an interesting crowd.
+
+#### Places of Interest
+- **Silver Flame shrine**
+- **Dol Dorn shrine**
+- **Dol Arrah shrine**
+- **Olladra shrine**
+
+##### The Augury
+This shop, located in the section of Clifftop known as the mystic market, features a circle of magewrights who possess the ability to cast divinatory spells, including augury, clairaudience/clairvoyance, detect magic, detect scrying, divination, identify, locate creature, locate object, and scrying.
+
+The master magewright of The Augury is a 334- year-old elf named [[Kestia]]. As it sells sending, locate, and alarm spells, The Augury cuts into the profi ts of a number of the dragonmarked houses, notably Tharashk, Sivis, and Kundarak. Some believe that Kestia uses blackmail to protect herself from the retribution of the houses, while others say that she appeases the houses with a share of her profi ts. She has refused to join the Esoteric Order of Aureon or the Guild of Starlight and Shadows, preferring to remain independent.
+
+##### [[Clifftop Adventurers' Guild]]
 An institution that provides adventurers with camaraderie and profitable work.
 
+One hundred and fifty years ago, a dwarf named Shekkal Korranor established a guild for explorers and wanderers—a place where those with adventurous spirits could fi nd good company and support. Shekkal died in the Last War, but the Clifftop Adventurers’ Guild remains. Members tend to be 2nd- to 5th-level characters with good alignments, most of whom have spent some time in Xen’drik. There is a strong rivalry between the members of the Clifftop Adventurers’ Guild and Deathsgate Explorer’s Club, and characters that join Clifftop may have to deal with Deathsgate hooligans—either in Sharn or while adventuring in the wilds.
 
-#### The Drunken Dragon
+##### The Dragon’s Hoard
+The Dragon’s Hoard sells a wide assortment of wondrous items. Members of the Clifftop Adventurers’ Guild receive a 5% discount off the normal market price for items purchased here.
+
+##### The Drunken Dragon
 A tavern frequented by members of the Clifftop Adventurer’s Guild. The food is modest, but it has the widest selection of exotic alcohol in Sharn.
 
+A bizarre assortment of odds and ends cover the walls of the Drunken Dragon tavern, including the trophies of a hundred expeditions to Xen’drik, the Demon Wastes, and other strange lands. Among the oldest pubs in Upper Dura, the Drunken Dragon is a long-time favorite of explorers, adventurers, and privateers. Slow service and poor food aside, the Drunken Dragon has one of the widest selections of exotic alcoholic beverages in Sharn. From Mror ale and Lhazaar mead to the orcish hrak of the Shadow Marches and fermented honey-milk brewed by the shifters of the Eldeen Reaches, if it’s strong and strange it can be found at the Drunken Dragon.
 
-#### The Esoteric Order of Aureon
+The Dragon has become one of the main places to hire adventurers; if a party has no specifi c agenda and simply hopes to fi nd work, it could do worse than to have a few drinks at the Drunken Dragon. The Dragon is a tavern as opposed to an inn, but it does have two private rooms that parties can use when discussing secret business or important deals.
+
+The Drunken Dragon is owned by [[Hascal d’Ghallanda]], a cheerful middle-aged halfling. Hascal began his life as an explorer, but gave up the trade after losing his lower left leg and his right eye in a particularly disastrous trip to Xen’drik, and returned to pick up the family business. He has an assortment of beautifully carved artifi cial limbs and colorful eye patches that correspond to his fl amboyant outfi ts. Hascal is an extremely knowledgeable and talented fellow who, given an opportunity, can spend hours talking about his adventures.
+
+Hascal possesses the Least Mark of Hospitality and has the power to cast refuge; while he generally saves this for personal protection, for enough gold he could be convinced to cast it on behalf of a group of favored customers. Though he no longer actively adventures, Hascal remains a member of the Clifftop Adventurers’ Guild. Members of the guild get a +1 circumstance bonus on all Knowledge (local) and Gather Information checks made in the Drunken Dragon.
+
+
+##### [[The Esoteric Order of Aureon]]
 The guildhall of one of Sharn’s most prestigious arcane orders. A reliable source for arcane spellcasting services.
 
+The larger of Sharn’s wizard circles, the Esoteric Order of Aureon has its headquarters in Clifftop. The Order’s tower is built of white marble, and glamers have been woven into the stone that cause the tower to shimmer and glow so that it seems as if it has been crafted of solid light.
 
-#### The Mystic Market
-A collection of shops specializing in different categories of magic items. Most merchandise is common or uncommon, but rare items are occasionally available.
+Not all members of the Order sell their services, but if a party seeks an arcane spellcaster in Clifftop, this is the place to visit. Generally, spells of up to 3rd level can be obtained at standard prices, and 4th-level spells may be available. However, the wizards of the Order may not have the spell a party seeks prepared; in such cases, a client must wait 24 hours to complete their purchase.
+
+
+##### House Sivis
+In addition to the local message station, House Sivis maintains an enclave in Clifftop devoted to the Speaker’s Guild. This enclave specializes in two things: the translation of texts and other materials recovered from Xen’drik, and legal services for adventurers in trouble. [[Josilian Kan d’Tarlian]] works out of this office, and is widely considered to be one of the best barristers in Sharn—though at a base price of 25 gp/day (and possibly more, depending on the nature of the case), he is certainly one of the most expensive.
+
+
+##### House Tharashk
+The House of Finding has a great interest in Xen’drik and the mineral wealth that can be found there, as well as an interest in the other dark lands of Eberron—Q’barra, the Demon Wastes, Khyber, and the Mournland. The Tharashk enclave in Clifftop is primarily concerned with exploration and prospecting. The house sells the services of guides, and many of its members have fi rsthand experience in Xen’drik and Khyber. In addition to the powers of their dragonmarks, these guides can provide invaluable information about the threats lurking in these regions. When the house plans expeditions to Xen’drik, these are usually arranged at the Clifftop enclave. Due to the rivalry with Tharashk and Deneith, the house often recruits adventurers to protect an expedition instead of hiring Deneith mercenaries.
+
+
+##### Kavv’s
+This little restaurant is one of the wellkept secrets of Sharn, and without a recommendation a character only knows about it if he can make a DC 16 Investigation/History/Persuassion check. The Kavv family emigrated from the city of Stormreach in Xen’drik, and the food is an intriguing blend of Khorvairian styles, using Xen’drik spices and vegetables most people have never encountered. Kavv’s is a small, intimate establishment, and despite the extremely high quality of the food, a typical meal averages 30 cp. [[Saza Kavv|Saza]] and [[Taji Kavv]] still have many friends and relatives in Stormreach, and if the party befriends the Kavvs these contacts could prove to be useful during trips to Xen’drik.
+
+
+##### Kurala’s House of Healing
+Explorers tend to need healing more than merchants and crafters, and [[Kurala d’Jorasco]] does a brisk business in Clifftop. In addition to possessing the Least Mark of Healing (lesser restoration), she is an adept of Boldrei and can perform magical healing for her clients, including remove curse and remove disease. While she runs her own business, Kurala is a respected member of House Jorasco and is often called in to help the healers in Dragon Towers. Kurala’s House includes three lesser healers—two 3rd-level adepts and a 4th-level expert with the Least Mark of Healing (cure light wounds)—and Kurala’s husband [[Janasar]], who specializes in the care and treatment of animals.
+
+##### The Mystic Market
+A collection of shops specializing in different categories of magic items. Most merchandise is common or uncommon, but rare items are occasionally available. 
+
+The white tower of the Esoteric Order of Aureon is surrounded by a host of lesser magic businesses. Most true wizards work with the Esoteric Order or the Guild of Starlight and Shadow, and the Mystic Market consists mainly of magewrights and adepts. Businesses in the market include:
+- **The Mithral Blade**, a smithy that produces steel and mithral weapons and armor with up to a +2 enhancement bonus
+- **Wise Wood**, a shop that buys and sells wands and staves
+- **The Moonlit Loom**, which sells magic clothing
+- **The Dragon’s Hoard**, which sells a wide assortment of minor wondrous items and does a brisk business in feather fall talismans
+- **Boldrei’s Tears**, sells potions
+- **Good Spirits**, sells potions and poisons
 
 
 ### Daggerwatch
 Daggerwatch holds garrisons for both the Sharn Watch and the Brelish army, along with business and residences for those who support the garrisons.
 
+Dura is easily the most dangerous quarter of the city, and during the Last War riots and other forms of unrest were a constant concern. Plus, the Race of the Eight Winds usually results in various forms of crime and vandalism. As a result, Daggerwatch has the largest concentration of the City Watch in Sharn. Many low-ranking city offi cials, including judges and tax collectors, make their homes in Dagger watch and rely on the presence of the Watch to protect them from vengeful citizens.
 
-#### The Gold & White
+**Desc:** This may be the cleanest and quietest district in Dura. The walls of the towers are heavily reinforced, as if to withstand siege weaponry. The streets are fi lled with guards of the Watch, both patrols and off-duty guards; it looks like a bad place to start a fight.
+
+
+##### Daggerwatch Garrison
+The eponymous garrison in the district is the home to over 600 members of the Sharn Watch. In addition to the regular offi - cers of the Watch, Daggerwatch Garrison houses the Goldwings and includes facilities for maintaining the unit’s 25 hippogriffs.
+
+
+##### The Gold & White
 This tavern offers fare of comfortable quality at modest prices. It caters to members of the Sharn Watch and Brelish veterans, but others will receive a cold welcome.
+
+
+##### Talain Garrison
+This fortress houses both the Sharn Watch and the elite Redcloak Battalion. While slightly smaller than the Daggerwatch Garrison, it is far more heavily fortifi ed and could withstand an extended siege.
 
 
 ### Highhold
 A district built by dwarves for dwarves, Highhold has strong Mror influences in its architecture. It’s a good place to find Mror goods and is home to talented smiths and brewers.
 
+**Desc:** The architecture is sturdy, functional stone, though the scale is slightly too small for most humans. While there is luxury to be found here, the citizens of Holdfast put work before play.
 
-#### Moraggan’s
+##### Moraggan’s
 A posh tavern specializing in strong Mror spirits. Food and drink are wealthy in quality and cost.
 
 
@@ -61,7 +134,7 @@ A posh tavern specializing in strong Mror spirits. Food and drink are wealthy in
 The finest residential district in Dura and the seat of House Vadalis, Highwater is largely comfortable in quality with a few wealthy estates.
 
 
-#### Pegasus Spire
+##### Pegasus Spire
 The seat of House Vadalis in Sharn is one of the few enclaves where pegasi are raised and trained. Native to Syrania, these celestial beasts can become stranded in Sharn; Vadalis heirs care for them and match them with virtuous companions.
 
 
@@ -69,64 +142,7 @@ The seat of House Vadalis in Sharn is one of the few enclaves where pegasi are r
 A relatively new temple district, with shrines and churches that have relocated from Fallen in Lower Dura. Hope’s Peak includes several monasteries and a sacred grove.
 
 
-#### The Citadel of the Sun
-A temple devoted to Dol Arrah, noteworthy for the three blessed griffons that reside there.
-
-
-### Overlook
-Overlook is noteworthy for its kalashtar community, which maintains a community center, a shrine devoted to the Path of Light, and a few restaurants serving Sarlonan cuisine.
-
-
-### Clifftop
-This district caters to adventurers, with a wide array of businesses aimed at explorers and fortune hunters. It is the home base of the Clifftop Adventurer’s Guild.
-
-
-#### The Clifftop Adventurer’s Guild
-An institution that provides adventurers with camaraderie and profitable work.
-
-
-#### The Drunken Dragon
-A tavern frequented by members of the Clifftop Adventurer’s Guild. The food is modest, but it has the widest selection of exotic alcohol in Sharn.
-
-
-#### The Esoteric Order of Aureon
-The guildhall of one of Sharn’s most prestigious arcane orders. A reliable source for arcane spellcasting services.
-
-
-#### The Mystic Market
-A collection of shops specializing in different categories of magic items. Most merchandise is common or uncommon, but rare items are occasionally available.
-
-
-### Daggerwatch
-Daggerwatch holds garrisons for both the Sharn Watch and the Brelish army, along with business and residences for those who support the garrisons.
-
-
-#### The Gold & White
-This tavern offers fare of comfortable quality at modest prices. It caters to members of the Sharn Watch and Brelish veterans, but others will receive a cold welcome.
-
-
-### Highhold
-A district built by dwarves for dwarves, Highhold has strong Mror influences in its architecture. It’s a good place to find Mror goods and is home to talented smiths and brewers.
-
-
-#### Moraggan’s
-A posh tavern specializing in strong Mror spirits. Food and drink are wealthy in quality and cost.
-
-
-### Highwater
-The finest residential district in Dura and the seat of House Vadalis, Highwater is largely comfortable in quality with a few wealthy estates.
-
-
-#### Pegasus Spire
-The seat of House Vadalis in Sharn is one of the few enclaves where pegasi are raised and trained. Native to Syrania, these celestial beasts can become stranded in Sharn; Vadalis heirs care for them and match them with virtuous companions.
-
-
-### Hope’s Peak
-
-A relatively new temple district, with shrines and churches that have relocated from Fallen in Lower Dura. Hope’s Peak includes several monasteries and a sacred grove.
-
-
-#### The Citadel of the Sun
+##### The Citadel of the Sun
 A temple devoted to Dol Arrah, noteworthy for the three blessed griffons that reside there.
 
 

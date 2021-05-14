@@ -17,3 +17,11 @@ Looking for work or amusement in this quarter? Some of the things you can do her
 
 
 *   **Engage in espionage.** Whether you work for your nation or get entangled in the schemes of the dragonmarked houses, Middle Central is home to a lot of powerful people who have a use for capable agents.
+
+## Sharn Watch
+- **Total:** 504 guards of the Watch
+- **Day Shift:** 152 on day shift (122 patrol, 30 stationed)
+- **Evening Shift:** 176 on evening shift (141 patrol, 35 stationed)
+- **Night Shift:** 176 on night shift (141 patrol, 35 stationed). 
+
+These guards are responsible for Northedge as well as the Central Plateau.
