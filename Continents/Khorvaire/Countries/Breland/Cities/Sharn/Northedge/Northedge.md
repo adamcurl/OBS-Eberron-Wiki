@@ -10,3 +10,11 @@ Northedge is the most peaceful quarter in Sharn. It does have a few taverns and 
 * **Settle down.** If you’re looking for a place to live in Sharn, Lower Northedge residences are of reasonable quality and price and offer more security than Lower Dura.
 * **Die in style.** The elves of Shae Lias are experts in funerary customs and embalming. In addition, the high priest of the Gates of Passage is capable of raising the dead.
 * **Find a patron.** Many eccentric nobles make their homes in Upper Northedge. A patron of the arts could take an interest in the career of a bard or an entertainer. A collector might keep capable adventurers on retainer with the understanding that they’ll deliver any Dhakaani artifacts they come across in their travels. You never know what benefits a patron will provide; at the very least, having a patron can provide you with an introduction to high society.
+
+## Sharn Watch
+- **Total:** 504 guards of the Watch
+- **Day Shift:** 152 on day shift (122 patrol, 30 stationed)
+- **Evening Shift:** 176 on evening shift (141 patrol, 35 stationed)
+- **Night Shift:** 176 on night shift (141 patrol, 35 stationed). 
+
+These guards are responsible for Northedge as well as the Central Plateau.

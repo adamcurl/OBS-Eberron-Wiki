@@ -6,26 +6,26 @@
       {
         "id": "224abf1a96ecf91f",
         "type": "leaf",
+        "dimension": 57.27762803234501,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Upper Dura.md",
+            "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Upper Tavick's.md",
             "mode": "source"
           }
-        },
-        "group": "120a1473b0324ffd"
+        }
       },
       {
-        "id": "d4a8a21d54de3d94",
+        "id": "de3672a74c111121",
         "type": "leaf",
+        "dimension": 42.72237196765499,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Upper Dura.md",
-            "mode": "preview"
+            "file": "NPCs/Ashaya d'Lyrandar.md",
+            "mode": "source"
           }
-        },
-        "group": "120a1473b0324ffd"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Upper Dura.md",
+                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Upper Tavick's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Upper Dura.md"
+                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Upper Tavick's.md"
               }
             }
           }
@@ -123,15 +123,15 @@
   },
   "active": "224abf1a96ecf91f",
   "lastOpenFiles": [
-    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Upper Dura.md",
-    "NPCs/Kurala d’Jorasco.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Upper Tavick's.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Tavick's Landing.md",
+    "NPCs/Ashaya d'Lyrandar.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Skyway.md",
     "NPCs/Untitled.md",
-    "NPCs/Saza Kavv.md",
-    "NPCs/Josilian Kan d’Tarlian.md",
-    "Organizations/The Esoteric Order of Aureon.md",
-    "NPCs/Hascal d’Ghallanda.md",
-    "Organizations/Untitled.md",
-    "Organizations/Clifftop Adventurers' Guild.md",
-    "Organizations/King's Citadel/King's Citadel.md"
+    "NPCs/Hass ir'Tain.md",
+    "NPCs/Celyria ir’Tain.md",
+    "NPCs/Kathya Morn.md",
+    "NPCs/Councilor Evix ir’Marasha.md",
+    "NPCs/Ravvan Mollac.md"
   ]
 }

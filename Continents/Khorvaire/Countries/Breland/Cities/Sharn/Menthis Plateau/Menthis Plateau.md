@@ -84,3 +84,9 @@ Any list of attractions that tries to summarize what Menthis Plateau has to offe
 
 
 * **See other cultures.** Den’iyas brings a touch of Zilargo to Sharn. You might find a clawfoot raptor running down the streets in Little Plains, or a Gatekeeper druid casting bones on Cassan Bridge.
+
+## Sharn Watch
+- **Total:** 450 guards of the Watch
+- **Day Shift:** 135 on day shift (108 patrol, 27 stationed)
+- **Evening Shift:** 158 on evening shift (126 patrol, 32 stationed)
+- **Night Shift:** 157 on night shift (125 patrol, 32 stationed)

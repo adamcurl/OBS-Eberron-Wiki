@@ -108,6 +108,9 @@ Dura is easily the most dangerous quarter of the city, and during the Last War r
 
 **Desc:** This may be the cleanest and quietest district in Dura. The walls of the towers are heavily reinforced, as if to withstand siege weaponry. The streets are fi lled with guards of the Watch, both patrols and off-duty guards; it looks like a bad place to start a fight.
 
+#### Places of Interest
+- **Dol Doron temple**
+- **Training grounds**
 
 ##### Daggerwatch Garrison
 The eponymous garrison in the district is the home to over 600 members of the Sharn Watch. In addition to the regular offi - cers of the Watch, Daggerwatch Garrison houses the Goldwings and includes facilities for maintaining the unit’s 25 hippogriffs.
@@ -126,28 +129,71 @@ A district built by dwarves for dwarves, Highhold has strong Mror influences in 
 
 **Desc:** The architecture is sturdy, functional stone, though the scale is slightly too small for most humans. While there is luxury to be found here, the citizens of Holdfast put work before play.
 
+#### Places of Interest
+
+##### Clebdecher’s Loom
+While most people think of dwarves as grim and stoic individuals, the merchant princes of the Mror Holds take great pride in their appearance and clothing. Run by [[Hellien Clamas Clebdecher]], Clebdecher’s Loom specializes in fine clothing in Mrorian and Zil styles. Clebdecher is one of the finest workers of glamerweave in the city, and many human lords and ladies come to Holdfast to avail themselves of her talents. As a result, there is usually a considerable wait for Hellian’s services; anyone preparing for an important event needs to plan ahead to purchase a Clebdecher gown or suit.
+
 ##### Moraggan’s
 A posh tavern specializing in strong Mror spirits. Food and drink are wealthy in quality and cost.
+
+The Mror spirits served at Moraggan’s might be the strongest drink in Sharn. However, Moraggan’s is a far cry from the rough and tumble saloon one might expect from a place with such a reputation. This posh, luxurious establishment has considerable security and a number of private, soundproofed rooms. Moraggan’s caters to Kundarak agents and other Mror merchants—traders and crafters who believe that strong drink and business negotiation go hand in hand.
 
 
 ### Highwater
 The finest residential district in Dura and the seat of House Vadalis, Highwater is largely comfortable in quality with a few wealthy estates.
 
+**Desc:** Quiet streets wind around townhouse towers in a relatively safe environment.
+
+#### Places of Interest
 
 ##### Pegasus Spire
 The seat of House Vadalis in Sharn is one of the few enclaves where pegasi are raised and trained. Native to Syrania, these celestial beasts can become stranded in Sharn; Vadalis heirs care for them and match them with virtuous companions.
 
+The Sharn Vadalis have always enjoyed participating in the Race of Eight Winds and the Highwater Wind Guard has always included members of the family. In addition to serving as the manor for the Vadalis family, Pegasus Spire provides the stable and training facilities for the pegasi used in the race.
 
 ### Hope’s Peak
 A relatively new temple district, with shrines and churches that have relocated from Fallen in Lower Dura. Hope’s Peak includes several monasteries and a sacred grove.
 
+**Desc:** Many of the towers in this district are built from blocks of white stone flecked with spots of gold, and when the sunlight falls on Hope’s Peak it seems to glow and burn.
+
+#### Places of Interest
+- **Sovereign Host temple**
+- **Silver flame temple**
+- **Dol Arrah temple**
+- **Aureon shrine**
+- **Boldrei shrine**
+- **Olladra shrine**
 
 ##### The Citadel of the Sun
-A temple devoted to Dol Arrah, noteworthy for the three blessed griffons that reside there.
+A temple devoted to Dol Arrah, noteworthy for the three blessed griffons that reside there. The tallest tower in Hope’s Peak is the Citadel of the Sun, a temple dedicated to Dol Arrah, the Sovereign lady of Sun and Sword. The stone of the tower has been enchanted to shine like gold, but it is still stone—something that has proven to be a grave disappointment to many a beggar who has sought to scrape a shaving from the wall. [[Aerela Tal]], a devoted priest who served with distinction in the war before retiring, maintains the temple. Aerela does not sell divine spells, but she may provide assistance in exchange for services; she is distressed by the darkness in Sharn, and would like to see light shed on the shadows of the city.
+
+This large and beautiful temple’s tower rises far above the other districts of Upper Dura. At the top lies a garden, where three golden griffons—halfcelestial creatures said to have been touched by the lady of the sun—reside. The griffons rarely stray from the tower, but an oracle has said that they will rise and fi ght at the time of Sharn’s greatest peril. Killing one of these creatures would be a heinous crime that would outrage the devotees of the goddess.
+
+##### Olladra’s Arms
+This restaurant, one of the brightest spots in Dura, is considered to be one of the fi nest restaurants in the city. In addition to a few private rooms, it features a vast central hall suitable for enormous parties or feasts. The menu consists of traditional Brelish cuisine, but choices are limited. The master chef, [[Halean Doss]], chooses a single menu each night. However, quantities are generous and the quality of the food is outstanding.
 
 
 ### Overlook
+Built with the fortune of the ir’Tain family, Overlook is one of the largest residential districts in Sharn. The remarkably bland stonework creates a vast, gray vista that can be disconcerting. The ir’Tains were interested in getting the most for their gold, however, and aesthetics were not a concern. While the townhouse apartments in Overlook are not as pleasant as those in Lower Northedge, they are inexpensive and far safer than the wards that lie below. Plus, the area offers breathtaking views of the Dagger River and the surrounding countryside.
+
 Overlook is noteworthy for its kalashtar community, which maintains a community center, a shrine devoted to the Path of Light, and a few restaurants serving Sarlonan cuisine.
 
+**Desc:** The spires of over a dozen identical towers rise to the sky. While the towers are drab gray granite, bits of color are scattered about—an occasional window of stained glass, a small hanging garden, a tapestry of Riedran design.
+
+#### Places of Interest
+- **Path of Light shrine**
+- **Exotic trades**
+
+##### The Gathering Light
+The Adarans and kalashtar are concentrated on the northern edge of Overlook. Adaran citizens have pooled their resources to rent a large hall, the Gathering Light, that serves as an anchor for the community. During the day, the hall functions as a school, where people come to study kalashtar martial arts and meditation techniques. In the evenings, the people gather to celebrate their heritage. Activities at the gatherings vary considerably. Some nights song, dance, or other forms of art play a dominate role, while other nights involve serious discussions of philosophy, metaphysics, or current events.
+
+[[Selkatari]] oversees martial training and monastic discipline at the Gathering Light, while [[Hanamelk]] serves as the resident scholar and sage. These two also work together to protect the community from crime and violence, using diplomacy when possible and force when reason fails.
+
+##### Hilatashka
+Hidden away in the shadows of one of the gray towers, the Hilatashka restaurant serves Adaran cuisine. Meals are reasonably priced, around 6 cp per person, but the quality is exceptional. Providing vegetarian fare that mostly consists of cold dishes and soups prepared with a range of subtle spices. Kalashtar have an exceptionally well-developed sense of taste, and it can take some time for members of other races to learn to appreciate the delicate blends of spices and herbs used in Adaran meals.
+
+##### The Shrine of il-Yannah
+The kalashtarconstructed shrine of il-Yannah, the Path of Light, occupies a small parapet at the top of a tall tower. From the breathtaking views to the Sarlonan incense that scents the air, the shrine radiates a calm, otherworldly peace. Tapestries with intricate, labyrinthine patterns cover the walls and fl oor, adding to the exotic nature of the place. The enlightened [[Havakhad]], a powerful psion whose frail body is beginning to fail, tends the shrine and rarely wanders far from this location. Havakhad gladly offers advice and spiritual guidance to any follower of the Light who comes to meditate at the shrine, and he sometimes uses precognition on behalf of those he considers to be champions.
 
 ## NPCs

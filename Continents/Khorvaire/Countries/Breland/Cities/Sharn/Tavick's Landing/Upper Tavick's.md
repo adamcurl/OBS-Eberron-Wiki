@@ -1,5 +1,11 @@
 [[Tavick's Landing]]
 
+- **Population:** 13,200
+- **Social Class:** Middle class (3 upper class districts)
+- **Character:** Everything an aristocrat needs— housing, luxuries, and servants.
+- **Districts:** Wealthy residential (2), fi ne shops, average residences, temple district, professionals (2)
+- **Business:** Expensive and luxurious goods; gold piece limit: 80,000 gp
+
 ## About
 
 This ward is effectively a self-contained city catering to the nobles that live there. It has fine housing, skilled services, a luxurious mercantile district, and even an entire district—Sunrise—designed for the servants of the nobles. The services and lodging in Sunrise accommodate those with poor or modest lifestyles, as opposed to the higher-priced goods found elsewhere in the ward.

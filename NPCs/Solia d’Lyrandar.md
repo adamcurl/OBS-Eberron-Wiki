@@ -18,10 +18,10 @@
 - **Location:** [[Middle Central]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Solia d’Lyrandar oversees the Sharn enclave and supervises the operations of all the smaller offi ces, as well.
+Solia d’Lyrandar oversees the Sharn enclave and supervises the operations of all the smaller offices, as well.
 
 ## Relationships
-- 
+- [[Dantian d’Lyrandar]] (nephew)
 
 ## Affiliations
 - [[Lyrandar]]

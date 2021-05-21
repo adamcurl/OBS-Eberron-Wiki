@@ -1,5 +1,11 @@
 [[Northedge]]
 
+- **Population:** 4,200
+- **Social Class:** Upper class
+- **Character:** Wealthy, but not ostentatious. Calm and peaceful.
+- **Districts:** Elf neighborhood, wealthy residential (2)
+- **Business:** Upscale and exotic elven craftwork; gold piece limit: 100,000 gp
+
 ## About
 Upper Northedge is the perfect place for the noble who can afford a manor in the clouds but wants to avoid the bustle of Upper Central. The districts of Crystal Bridge and Oak Towers are filled with spire-topped manors and grand estates. A host of rooftop parks and gardens provide lovely spaces to sit and reflect.
 
@@ -11,43 +17,61 @@ Other points of interest in Shae Lias include the Oaks, one of the finest restau
 ## Districts
 
 ### Crystal Bridge
-A peaceful residential district with many wealthy and aristocratic estates.
+A peaceful residential district with many wealthy and aristocratic estates. A number of dragonmarked heirs maintain private residences in Crystal Bridge or Oak Towers, along with Brelish aristocrats and merchant princes. Crystal Towers is a quiet, peaceful district, and many of its inhabitants employ private guards to ensure that it remains peaceful.
 
+**Desc:** Manors and mansions surround penthouse towers, the sheer size of these estates hinting at the wealth of the residents within. Walls and bridges are covered with thick panels of glass and crysteel, causing a brilliant kaleidoscope of color when sunlight strikes the towers.
+
+Notable inhabitants of Crystal Bridge include:
+[[Haras Kant]] is a wealthy Brelish aristocrat and a member of the Aurum. Like most members of the Aurum, he is interested in increasing his personal power and wealth, whatever the cost. Kant has a special interest in fabulous and magic gems, and adventurers that obtain unusual gemstones may attract his interest—which can be a dangerous thing.
+
+[[Ilia Merith]], a member of Sharn’s upper crust, is a noted philanthropist and a strong supporter of the arts, particularly song and poetry. Ilia might become a patron for a PC bard, or she could employ the party to recover a rare book of poetry that has been lost or stolen.
 
 ### Oak Towers
 A residential district where housing ranges from comfortable to aristocratic. Construction in Oak Towers uses materials and styles drawn from Aerenal, and the district is home to many of Sharn’s established elf and half-elf families.
 
+**Desc:** The smooth lines of elven architecture can be seen throughout this district, and most of the towers are formed of polished densewood. Manors and palatial estates line the wide avenues, and private gardens can be seen stretching out on walled balconies.
+
+#### Places of Interest
+
+##### Stormwind Keep
+This luxurious tower serves as the private estate of [[Dantian d’Lyrandar]]. Dantian, a trade minister for House Lyrandar, is second in infl uence to his aunt Solia. While [[Solia d’Lyrandar]] spends most of her time in the house enclave in Dragon Towers, Dantian prefers the luxury of Stormwind Keep. The house often uses Dantian’s estate when hosting gala events or entertaining important guests. Dantian himself is a diplomatic individual, but primarily interested in furthering the economic and political power of his house. He has little interest in dealing with adventurers or other members of the lower classes.
 
 ### Shae Lias
 This district is a bastion for the culture and traditions of the elves of Aerenal. It includes a variety of businesses specializing in Aereni goods, as well as a temple of the Undying Court.
 
+**Desc:** The district is filled with beautifully sculpted statues of long-dead elves. Densewood warriors stand guard at the gates of townhouses, while statues of priests and honored elders are spread throughout plazas and open-air orchards. The residents move quietly among these statues of the dead, carrying out their daily activities with silent grace.
 
-#### Gates of Passage
+#### Places of Interest
+- Onatar temple
+- Undying Court temple
+- Aureon shrine
+- Undying Court shrine
+
+##### Gates of Passage
 Built from Aereni densewood, this spire serves both as the embassy of Aerenal and a temple of the Undying Court. Aereni citizens who die in Sharn are interred in the temple crypts until their remains can be transported to Aerenal.
 
+[[Mayne Jhaelian]] and the other priests act as spiritual advisers and political ambassadors, performing in the interests of citizens of Aerenal. Jhaelian has ties to the Deathguard of Aerenal, and it is possible that he might ask adventurers to help resolve a situation involving the Blood of Vol or other undead menaces.
 
-#### Nightshade
-An apothecary dealing in exotic herbs and salves, Nightshade is also a tavern specializing in lightly poisoned beverages.
+##### The House of Repose
+The elves of Aerenal know more about caring for the dead than any other culture on Eberron, and the embalmers and crypt builders of the House of Repose have served many of the wealthiest families in Sharn. Many of the crypts, tombs, and shrines in the City of the Dead are the work of these elf artisans.
 
+##### Nightshade
+An apothecary dealing in exotic herbs and salves, Nightshade is also a tavern specializing in lightly poisoned beverages. Some of its patrons are necromancers or devout followers of the Undying Court, while others are jaded youths or thrill-seeking aristocrats. In addition to the traditional funerary dishes of Aerenal, Nightshade serves beverages tainted with weak poisons designed to bring the diner to the edge of death. It is unusual for a client to actually die; the servers are trained in resuscitation and keep antitoxin on hand. But accidents do happen.
 
-#### The Oaks
-A legendary restaurant that serves Aereni and Brelish cuisine. The quality is unmatched, as are the aristocratic prices. Head chef Maza Thadian has maintained the Oaks for over three hundred years, but after her recent appointment as city councilor for Upper Northedge she is often occupied with other matters.
+##### The Oaks
+Known as one of the finest restaurants in the city, the Oaks rests on one of the vast balconies of the Nowen Tower. Patrons dine in an elaborate, two-story open-air pavilion, surrounded by the living trees from which the restaurant takes its name.  A legendary restaurant that serves Aereni and Brelish cuisine. The quality is unmatched, as are the aristocratic prices. Head chef [[Councilor Maza Thadian]] has maintained the Oaks for over three hundred years, but after her recent appointment as city councilor for Upper Northedge she is often occupied with other matters. Maza is respected throughout the district for her wisdom and common sense. Today she leaves most of the restaurant work to her sons, Meryn and Malys; however, she can still be coaxed to perform her culinary miracles for special patrons.
 
+##### The Silver Bough
+Aerenal is known for its exotic woods, including bronzewood, darkwood, and livewood. The elves who can turn leaf and tree into arms and armor are known as woodshapers, and [[Tanar Mendyrian]] is one of the fi nest in Khorvaire. While he is best known for his darkwood bows, Tanar also produces leafweave, darkleaf, and bronzewood armor, and he takes commissions to shape melee weapons from the exotic woods. While most of his goods are merely of masterwork quality, Tanar can create weapons or armor with an enhancement bonus of up to +4. However, he takes great pride in these treasures and is careful about his clientele; anyone that wants an enchanted item must win Tanar’s respect (DC 25 Persuassion check; elves receive a +5 circumstance bonus) before the woodshaper accepts the commission.
 
-#### The Silver Bough
-This establishment deals in arms crafted in the Aereni tradition. This merchandise includes magic items, but woodshaper Tanar Mendyrian takes time to produce his wonders, and only a limited selection is available at any given time.
-
-
-#### The Winding Root
+##### The Winding Root
 A marketplace and gallery that showcases the work of elven artisans, including sculptures, textiles, and fine clothing.
 
+This gallery showcases the work of over a dozen elf artisans. Much of the work in the Winding Root is wooden sculpture, but the gallery also sells tapestries, jewelry, and even clothing. The goods sold at the Winding Root are of the highest quality, often representing years or even decades of work, and the prices refl ect their perfection. When someone needs to fi nd a gown or suit to wear to the Brelish Court, the Winding Root is a great place to visit—but the prices keep the gallery out of reach of all but the wealthiest citizens of Sharn.
 
-#### The Veil of Flesh
-This studio deals in Aereni body art and alteration, such as tattoos and cosmetic transmutation.
+If someone wants to sell her work in the Winding Root, she must speak to the owner, [[Jhaia Thesaelia]]. Jhaia is only interested in the work of elven artisans, and items must have been produced with a minimum Craft skill check of DC 30. Her initial attitude is indifferent, and at this level she charges a 20% commission to sell an item. If she is friendly toward the artist, she drops her commission to 15%; if helpful, the cost is reduced to 10%.
 
+##### The Veil of Flesh
+This studio deals in Aereni body art and alteration, such as tattoos and cosmetic transmutation. This includes traditional tattoos and the elven techniques that give the living the appearance of death. Depending on the purse and the desires of the client, the effects of either procedure can be permanent or temporary.
 
 ## NPCs
-
-### Councilor Maza Thadian (elf F LN) 
-* Councilor of Upper Northedge. A venerable elf and owner of one of the finest restaurants in Sharn, the Oaks, she fights to maintain tradition but definitely puts the needs of the wealthy ahead of the poor. 
-* She is both very rich and very old, and as such is highly respected in Sharn's elven community. She is a major conservative voice in Sharn, working to uphold the status quo and tradition, and she tends to favor the wealthy over the poor. These tendencies are said to be especially strong in regards to those from the worst of the lower wards, and specifically goblins. Though a law abiding citizen for the most part, she is said to engage in subterfuge to defend her political ideals.
