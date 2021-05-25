@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Upper Tavick's.md",
+            "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/City of the Dead.md",
             "mode": "source"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Ashaya d'Lyrandar.md",
+            "file": "NPCs/Gath.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Upper Tavick's.md",
+                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/City of the Dead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Upper Tavick's.md"
+                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/City of the Dead.md"
               }
             }
           }
@@ -123,15 +123,15 @@
   },
   "active": "224abf1a96ecf91f",
   "lastOpenFiles": [
-    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Upper Tavick's.md",
-    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Tavick's Landing/Tavick's Landing.md",
-    "NPCs/Ashaya d'Lyrandar.md",
-    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Skyway.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/City of the Dead.md",
+    "NPCs/Gath.md",
     "NPCs/Untitled.md",
-    "NPCs/Hass ir'Tain.md",
-    "NPCs/Celyria ir’Tain.md",
-    "NPCs/Kathya Morn.md",
-    "NPCs/Councilor Evix ir’Marasha.md",
-    "NPCs/Ravvan Mollac.md"
+    "NPCs/Gaia Sotharr.md",
+    "NPCs/Councilor Nolan Toranak.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Ciffside.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Untitled.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/The Cogs.md",
+    "NPCs/Calderus.md",
+    "NPCs/Sasca.md"
   ]
 }

@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** N
+- **Allignment:** CN
 
-- **Gender & Race:** M human
+- **Gender & Race:** changeling
 
 - **Age:** 
 
@@ -15,19 +15,18 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Tavick's]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+Councilor of Lower Tavick’s Landing. Whispered rumors suggest that the changeling has ties to the mysterious Tyrants. Some insist that Kilk is actually an identity shared by a group of changelings.
 
 ## Relationships
 - 
 
 ## Affiliations
-- [[Cannith]]
+- 
 
 ## Stats
-artificer 12/dragonmarked
 - **AC:** 
 - **HP:** 
 - **Speed:** 

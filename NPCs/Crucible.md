@@ -3,7 +3,7 @@
 
 - **Allignment:** N
 
-- **Gender & Race:** M human
+- **Gender & Race:** F warforged
 
 - **Age:** 
 
@@ -15,19 +15,20 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[The Cogs]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+Helps run The Red Hammer.
 
 ## Relationships
-- 
+- [[Blue]] (co-owner of inn)
+- [[Smith]] (friend)
 
 ## Affiliations
-- [[Cannith]]
+- 
 
 ## Stats
-artificer 12/dragonmarked
+artificer 5
 - **AC:** 
 - **HP:** 
 - **Speed:** 

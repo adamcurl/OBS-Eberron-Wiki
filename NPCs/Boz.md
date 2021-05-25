@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** N
+- **Allignment:** NG
 
-- **Gender & Race:** M human
+- **Gender & Race:** M shifter
 
 - **Age:** 
 
@@ -15,19 +15,18 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Tavick's]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+Runs the Tooth and Nail.
 
 ## Relationships
 - 
 
 ## Affiliations
-- [[Cannith]]
+- 
 
 ## Stats
-artificer 12/dragonmarked
 - **AC:** 
 - **HP:** 
 - **Speed:** 

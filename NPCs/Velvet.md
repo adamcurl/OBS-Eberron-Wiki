@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** N
+- **Allignment:** CN
 
-- **Gender & Race:** M human
+- **Gender & Race:** F changeling
 
 - **Age:** 
 
@@ -15,19 +15,19 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Tavick's]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+Owns Velvet's.
 
 ## Relationships
 - 
 
 ## Affiliations
-- [[Cannith]]
+- 
 
 ## Stats
-artificer 12/dragonmarked
+illusionist 5
 - **AC:** 
 - **HP:** 
 - **Speed:** 

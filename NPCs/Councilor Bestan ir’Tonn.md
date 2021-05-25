@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** N
+- **Allignment:** CN
 
-- **Gender & Race:** M human
+- **Gender & Race:** M halfling
 
 - **Age:** 
 
@@ -15,19 +15,18 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Tavick's]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+Councilor of Upper Tavick’s Landing and has been for thirty years, and largely views his ward as a separate city within the city. He has a reputation for stirring up conflict and setting the other councilors against one another.
 
 ## Relationships
 - 
 
 ## Affiliations
-- [[Cannith]]
+- 
 
 ## Stats
-artificer 12/dragonmarked
 - **AC:** 
 - **HP:** 
 - **Speed:** 

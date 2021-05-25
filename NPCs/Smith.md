@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** N
+- **Allignment:** LN
 
-- **Gender & Race:** M human
+- **Gender & Race:** M warforged
 
 - **Age:** 
 
@@ -15,19 +15,19 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[The Cogs]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+Priest for the Pool of Onatar's Tears.
 
 ## Relationships
 - 
 
 ## Affiliations
-- [[Cannith]]
+- 
 
 ## Stats
-artificer 12/dragonmarked
+paladin 5
 - **AC:** 
 - **HP:** 
 - **Speed:** 

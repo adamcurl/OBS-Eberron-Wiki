@@ -3,7 +3,7 @@
 
 - **Allignment:** N
 
-- **Gender & Race:** M human
+- **Gender & Race:** F gnome
 
 - **Age:** 
 
@@ -15,19 +15,18 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Tavick's]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+Zilargo agent in Twelve Pillars
 
 ## Relationships
 - 
 
 ## Affiliations
-- [[Cannith]]
+- 
 
 ## Stats
-artificer 12/dragonmarked
 - **AC:** 
 - **HP:** 
 - **Speed:** 

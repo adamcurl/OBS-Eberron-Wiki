@@ -1,5 +1,5 @@
 ## Description
-- **Appearance:** 
+- **Appearance:** A set of cruelly spiked full plate armor seems almost empty, as though little more than a skeleton were strapped inside. Bright pinpoints of blood-red light gleam inside the skull-shaped helmet. The figure hefts a black morningstar in its left hand, while its right hand seems to crackle with black energy.
 
 - **Allignment:** NE
 
@@ -27,7 +27,7 @@
 - 
 
 ## Stats
-cleric 7/lich
+cleric 14/lich
 - **AC:** 
 - **HP:** 
 - **Speed:** 
@@ -38,7 +38,7 @@ cleric 7/lich
 - **Int:** 
 - **Wis:** 
 - **Cha:** 
-- **Languages:** 
+- **Languages:** Common, Draconic, Elven.
 - **Saving Throws:** 
 - **Skill Proficiencies:** 
 - **Expertise:** 

@@ -3,7 +3,7 @@
 
 - **Allignment:** N
 
-- **Gender & Race:** M human
+- **Gender & Race:** M dwarf
 
 - **Age:** 
 
@@ -15,19 +15,19 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[The Cogs]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+Runs the Grave Diggers
 
 ## Relationships
 - 
 
 ## Affiliations
-- [[Cannith]]
+- 
 
 ## Stats
-artificer 12/dragonmarked
+rogue 2/barbarian 3
 - **AC:** 
 - **HP:** 
 - **Speed:** 

@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** N
+- **Allignment:** NE
 
-- **Gender & Race:** M human
+- **Gender & Race:** M half-orc
 
 - **Age:** 
 
@@ -15,19 +15,19 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Tavick's]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+
 
 ## Relationships
-- 
+- [[Myssian]] (wife)
 
 ## Affiliations
-- [[Cannith]]
+- 
 
 ## Stats
-artificer 12/dragonmarked
+barbarian 5
 - **AC:** 
 - **HP:** 
 - **Speed:** 

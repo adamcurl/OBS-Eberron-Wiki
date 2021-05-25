@@ -1,7 +1,7 @@
 ## Summary
-The elite wand adepts of House Cannith.
 
 ## Locations
+[[Sharn]]
 
 ## NPCs
 

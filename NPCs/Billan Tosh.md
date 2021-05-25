@@ -1,11 +1,11 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** N
+- **Allignment:** LN
 
-- **Gender & Race:** M human
+- **Gender & Race:** M dwarf
 
-- **Age:** 
+- **Age:** old
 
 - **Agenda:** 
 
@@ -15,19 +15,18 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Tavick's]] in [[Sharn]], [[Breland]]
 
 ## Bio
-Marrix leads House Cannith’s Sharn enclave.
+Primary clerk at Twelve Pillars
 
 ## Relationships
 - 
 
 ## Affiliations
-- [[Cannith]]
+- [[The Aurum]]
 
 ## Stats
-artificer 12/dragonmarked
 - **AC:** 
 - **HP:** 
 - **Speed:** 
