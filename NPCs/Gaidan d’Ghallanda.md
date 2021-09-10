@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Lower Northedge]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Northedge]] in [[Sharn]]
 
 ## Bio
 Operates The Horse and Hearth. Gaidan possesses the Lesser Mark of Hospitality (purify food and drink, Leomund’s secure shelter), and two of his daughters have the Least Mark (prestidigitation and purify food and drink).

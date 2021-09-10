@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "224abf1a96ecf91f",
+        "id": "dde37ea0c9aea315",
         "type": "leaf",
-        "dimension": 57.27762803234501,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/City of the Dead.md",
-            "mode": "source"
+            "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Lower Dura.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "de3672a74c111121",
+        "id": "9b07e5a570c8dcc5",
         "type": "leaf",
-        "dimension": 42.72237196765499,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Gath.md",
-            "mode": "source"
+            "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Central Plateau/Middle Central.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Plane",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/City of the Dead.md",
+                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Lower Dura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/City of the Dead.md"
+                "file": "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Lower Dura.md"
               }
             }
           }
@@ -121,17 +119,17 @@
     "width": 231.5,
     "collapsed": true
   },
-  "active": "224abf1a96ecf91f",
+  "active": "dde37ea0c9aea315",
   "lastOpenFiles": [
-    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/City of the Dead.md",
-    "NPCs/Gath.md",
-    "NPCs/Untitled.md",
-    "NPCs/Gaia Sotharr.md",
-    "NPCs/Councilor Nolan Toranak.md",
-    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Ciffside.md",
-    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Untitled.md",
-    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/The Cogs.md",
-    "NPCs/Calderus.md",
-    "NPCs/Sasca.md"
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Lower Dura.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Middle Dura.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Central Plateau/Middle Central.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Dura/Upper Dura.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Central Plateau/Upper Central.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Central Plateau/Lower Central.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Central Plateau/Central Plateau.md",
+    "Organizations/Gatekeepers.md",
+    "Continents/Khorvaire/Countries/Breland/Cities/Sharn/Sharn.md",
+    "NPCs/Vvaraak.md"
   ]
 }

@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Tavick's]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Tavick's]] in [[Sharn]]
 
 ## Bio
 Lady Jesel Tarra’az is a spy for the Order of the Emerald Claw. Raised and trained at the Crimson Monastery, she is a deadly undead warrior. However, she rarely takes an active part in Order operations in Sharn. Her role is to provide visiting operatives with information and equipment; she takes no actions that could compromise her position in Sharn, even if it means that a particular operation fails. Jesel has concealed her true nature from the Karrnath embassy, and does her best to avoid all contact with embassy staff. She does deal with Lan Hazal of Graywall, who provides her with blood, potions, and magic weapons for visiting agents of the Order.

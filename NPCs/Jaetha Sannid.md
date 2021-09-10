@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Sharn]], [[Breland]]
+- **Location:** [[Sharn]]
 
 ## Bio
 

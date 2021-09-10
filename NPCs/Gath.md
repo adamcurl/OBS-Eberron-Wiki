@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** City of the Dead in [[Sharn]], [[Breland]]
+- **Location:** City of the Dead in [[Sharn]]
 
 ## Bio
 

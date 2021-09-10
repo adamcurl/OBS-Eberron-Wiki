@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Sharn]], [[Breland]]
+- **Location:** [[Sharn]]
 
 ## Bio
 Skakan prefers to deal with actual customers, so the PCs have a better time gaining his help if they purchase something from his market.

@@ -1,8 +1,11 @@
 #AdventurersGuild
-* **Location: **[[Sharn]]
-* **Founder: **???
-* **Established: **???
-* **Current Leader: ???**
+* **Location:**[[Sharn]]
+* **Founder:** Kassh "Blackaxe" Droranath (M elf)
+* **Established:** ???
+* **Current Leader:** Kassh "Blackaxe" Droranath
+
+## Summary
+Adventurers who are willing to take on any job and to do whatever it takes to triumph might find themselves suited for membership in the Deathsgate Guild. Named for its proximity to the City of the Dead, the district of Deathsgate prides itself on being a haven for those who challenge death on a daily basis. The guild’s founder, Kassh “Blackaxe” Droranath, doesn’t care how his members do their jobs, as long as they don’t fail.
 
 ## Features
 

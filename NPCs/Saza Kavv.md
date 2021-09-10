@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Dura]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Dura]] in [[Sharn]]
 
 ## Bio
 Saza and Taji Kavv are from Xen'drik and own Kavv's. They still have many friends and relatives in Stormreach, and if the party befriends the Kavvs these contacts could prove to be useful during trips to Xen’drik.

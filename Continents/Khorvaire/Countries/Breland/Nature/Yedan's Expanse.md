@@ -1,0 +1,6 @@
+[[Breland]]
+1. **Type:** Nature
+
+The heartland of Breland, Yedan’s Expanse encompasses nearly a third of the nation, reaching more than a thousand miles from the Dagger River to the edge of the Mournland. While the Dagger River is the industrial heart of the nation, the countless villages that dot the expanse are the source of its vast reserve of food and small crafts. Huge tracts of the expanse are still untamed wilderness. In general, the creatures that wander into the farming communities are well within the abilities of the local militia to fend off. If not, help is often only a day or two away, with adventurers arriving swiftly by lightning rail to collect the bounties placed on more dangerous predators. The expanse is divided into over a dozen counties, and these lands form the basis of power for many of Breland’s most infl uential noble families.
+
+The political concerns of the growing Cyran presence and renewed raids coming out of Darguun have made the expanse a favorite of young adventurers hoping to earn money and reputation.

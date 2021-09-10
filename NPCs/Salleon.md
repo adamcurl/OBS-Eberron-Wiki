@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Lower Dura]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Dura]] in [[Sharn]]
 
 ## Bio
 An illusionist who fascinates audiences with bizarre and compelling hypnotic patterns.

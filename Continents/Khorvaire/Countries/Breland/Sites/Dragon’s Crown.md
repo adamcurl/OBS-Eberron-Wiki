@@ -1,2 +1,6 @@
 [[Breland]]
 1. **Type:** Site
+
+A ring of jutting stones rises from the earth within the heart of Breland’s farm country. The ring consists of ten stone monoliths, each more than fi fteen feet high, that sit slightly askew in a circle around a patch of uneven ground some thirty feet across. The ring of stones resembles a massive crown of jagged rock. Known far and wide as the Dragon’s Crown, the place has long been the subject of speculation, outlandish legends, and the occasional dark ritual. Some believe that giant hands built the Dragon’s Crown in ages past.
+
+Nothing much grows within or near the Crown. On some nights, especially when one or more moon is full and bright, the monoliths glow with an eerie inner light. It is said that on these nights, the monoliths sing, but not many are willing to visit the site after dark to prove this tale one way or another. It is also said that cultists use the site to conduct dark rituals, especially members of the various sects devoted to the Dragon Below; except for the occasional carcass discovered lying in the center of the Crown, no evidence of such activities has ever been gathered.

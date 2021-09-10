@@ -24,7 +24,7 @@
 10. **Last War Enemies: **
     - Aundair
     - Karrnath
-
+11. **Pre-Galifar Name:** Daskara
 
 ## History
 

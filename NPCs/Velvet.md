@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Lower Tavick's]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Tavick's]] in [[Sharn]]
 
 ## Bio
 Owns Velvet's.

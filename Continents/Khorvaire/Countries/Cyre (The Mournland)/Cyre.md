@@ -5,7 +5,7 @@
     - **Current: **Destruction, ruins
 3. **Ruler(s): **
     - Queen Dannel ir’Wynarn (presumed dead)
-    - Prince Oargev ir’Wynarn (now in New Cyre)
+    - [[Prince Oargev ir'Wynarn]] (now in New Cyre)
 4. **Population:** 1.5 million (old) 1,000 (now)
     - Variety
     - Now: 98% warforged, 2% other
@@ -31,10 +31,20 @@
     - Breland (Early)
 11. **Last War Allies: **
     - Breland (Later)
+12. **Pre-Galifar Name:** Metrol
+
+## Summary
+Destroyed at the end of the Last War, Cyre now exists only in the hearts of the refugees scattered across Khorvaire.
+
+Before the war, Cyre was the seat of the kings and queens of Galifar. The wealth of the kingdom flowed through Cyre, and it was a nexus for commerce and culture. By tradition, Cyre’s Princess Mishann had the rightful claim to the throne of Galifar. Cyrans take pride that they alone were in the right in the Last War, but they unquestionably lost more to the war than any other nation. As a Cyran, you stand on the moral high ground, but that may offer little comfort.
+
+Cyrans like to say that their culture represented the best that Galifar had to offer, which is to say a little bit of everything. Cyrans value diversity and versatility, both in talents and thought. Cyre couldn’t match Karrnath in martial discipline or Aundair in the arcane arts, but the flexibility of its forces reflected the nation’s ideals.
+
+Although the Sovereign Host was the dominant faith of Cyre, the Silver Flame had a significant following. Many survivors question their faith in the wake of the Mourning, but some believe that their anguish at the loss of their homeland is a divine trial, prompting them to cling to their faith more than ever.
+
+Queen Dannel ir’Wynarn was in Metrol on the Day of Mourning and is presumed dead. Her son, Prince Oargev ir’Wynarn, holds court in New Cyre, a massive refugee camp set up in Breland. Some refugees support Oargev and the dream of a restored Cyre, while others prefer to focus on the future instead of trying to reclaim the past. As a Cyran, you should decide whether you hold tight to your national identity, or instead consider yourself to be an expatriate without a nation.
 
 ## History
-
-
    **-2,000 YK:** Lhazaar leads humans from the continent of [Sarlona](https://eberron.fandom.com/wiki/Sarlona) to the eastern shores of Khorvaire. The humans land in the pre-[Galifar](https://eberron.fandom.com/wiki/Galifar) [Lhazaar Principalities](https://eberron.fandom.com/wiki/Lhazaar_Principalities), and have little or no contact with the fractious goblin states.
 
 

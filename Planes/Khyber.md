@@ -63,3 +63,12 @@ Shadow realms may hold important resources that can be used or harvested—but t
     *   **Effects:**
 		*   [[Risia#^30e1a0|Risia’s Stillness of Flesh]]
         *   [[Irian#^160f3e|Irian’s Light of Life]]
+    - **Locations**
+		- Shae Tarai, [[Aerenal]]: A crystal tower occupied by a thousand members of an Aereni Cult of the Dragon Below. Followers of the deathless elf Saerdun Taral, a mad councilor of the Undying Court, who escaped the inevitable doom of Eberron when she succumbs to wounds suffered from binding Khyber.
+		- The Jaggeds: A set of obsidian spires above a crimson river. The surrounding caves are occupied by violent mutated orcs, humans, half-orcs, and dwarves from the Mror Holds and the Shadow Marches locked in a perpetual ritual of battle.
+		- Transient Villages: Impermanent and short-lived communities made up of mortals and monsters drawn to the Vale by visions.
+     - **Manifest Zones:**
+		 - King's Forest, [[Breland]]
+		 - [[Mror Holds]]
+		 - [[Shadow Marches]]
+

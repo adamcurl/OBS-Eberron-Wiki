@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Menthis]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Menthis]] in [[Sharn]]
 
 ## Bio
 A former wanderer, the old man has settled down and opened the Golden Horn inn to help support the Circle of Song.

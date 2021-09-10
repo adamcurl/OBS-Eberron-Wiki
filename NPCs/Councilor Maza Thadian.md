@@ -5,7 +5,7 @@
 
 - **Gender & Race:** F elf
 
-- **Age:** 
+- **Age:** old
 
 - **Agenda:** 
 
@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Northedge]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Northedge]] in [[Sharn]]
 
 ## Bio
 Councilor of Upper Northedge. A venerable elf and owner of one of the finest restaurants in Sharn, the Oaks, she fights to maintain tradition but definitely puts the needs of the wealthy ahead of the poor. 

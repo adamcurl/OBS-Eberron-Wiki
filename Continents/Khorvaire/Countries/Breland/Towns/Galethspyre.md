@@ -1,2 +1,9 @@
 [[Breland]]
 1. **Type:** Town
+2. **Population:** 3,900
+
+With buildings surrounding the Galethspyre, a narrow sliver of blue stone jutting up over 600 feet from the bank of the Dagger River, this town is a major hub for barges and ferries landing on the west bank of the mighty river. Ferries run to Wroat on the other side of the Dagger River four times a day. The dock area is always bustling with activity, even at night, as Citadel agents check all goods going into Wroat at Galethspyre before issuing a permit to sail on the Howling River.
+
+Galethspyre specializes in textiles, with both bolts of cloth and fi nished garments fi lling the marketplace. The town is also home to the nation’s largest dyer. The distinctive “Breland Blue” dye seen throughout the country is crafted here in huge copper cauldrons. The smell can be overwhelming for the new visitor, as boiling dyes reek of fi sh, herbs, and rare earths. The city also has several major lumberyards; timber cutters at Woodhelm lash together rafts of logs and ride them down the river to Galethspyre to be milled or carved.
+
+House Deneith maintains a large Defenders Guild enclave in Galethspyre, because the town is a major staging area for caravans journeying into Droaam. The town also boasts an enormous outdoor amphitheater, and House Phiarlan promotes grand festivals three times a year as the Artisans Guild fills the streets with song and color. These festivals have become a large enough part of Breland’s social calendar that thousands make the short journey from Wroat to attend, with more spectators coming from Sharn or even as far away as Starilaskur.

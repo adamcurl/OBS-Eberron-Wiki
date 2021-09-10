@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Menthis]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Menthis]] in [[Sharn]]
 
 ## Bio
 

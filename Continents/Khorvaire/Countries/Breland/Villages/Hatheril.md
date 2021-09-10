@@ -1,2 +1,6 @@
 [[Breland]]
 1. **Type:** Village
+
+Druids living in the Greenhaunt (a forest in northern Breland) were the first to create and sell goodberry wine, which is often packaged for travel in small clay jugs. Famous for being the original birthblace for goodberry wine, Hatheril is a hamlet in northern Breland. It lies on a major transportation crossroad, linking Orien caravan trade roads and the northern lightning rail line which goes from Nowhere to Aundair. Hatheril lies on the southern edge of the Greenhaunt, near Lake Brey.
+
+Goodberry wine has gained popularity since the formation of the Mournland and can now be purchased throughout the Five Nations. Unlike normal curative potions, goodberry wine functions in the Mournland. A jug of the wine contains fi ve doses, and each dose cures 8 points of damage as well as provides nourishment as if it was a normal meal for a Medium creature. An imbiber benefi ts from only one dose in a single 8-hour period; drinking additional doses of goodberry wine or eating additional goodberries during this time has no effect.

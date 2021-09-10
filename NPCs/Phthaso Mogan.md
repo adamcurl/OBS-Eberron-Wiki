@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Central]] in [[Sharn]]
 
 ## Bio
 High Priest Phthaso Mogan, leads most of these rituals and sacrifi ces.

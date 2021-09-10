@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Lower Dura]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Dura]] in [[Sharn]]
 
 ## Bio
 

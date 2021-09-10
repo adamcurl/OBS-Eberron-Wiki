@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Sharn]], [[Breland]]
+- **Location:** [[Sharn]]
 
 ## Bio
 Meira despises “guard duty” and yearns to be back in the fi eld. She shares Khandan’s hatred for Thranes, and is more likely to let her emotions override her better judgment.

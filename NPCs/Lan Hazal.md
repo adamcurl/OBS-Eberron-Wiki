@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Tavick's]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Tavick's]] in [[Sharn]]
 
 ## Bio
 Lan’s wife died recently, and there is a great deal of interest in the community as to who might become the next Lady Hazal. Lan is a charismatic and wealthy man, and he is very careful to conceal his impressive mystical powers from the world at large. Unless there is no other alternative, he only performs magic in the depths of the temple. He takes the use of magic very seriously, and rarely uses spells even to help his parishioners. He believes that people should be able to solve their own problems, and while he offers spiritual advice and even fi nancial assistance to other members of the community, he only uses magic for the most serious situations.

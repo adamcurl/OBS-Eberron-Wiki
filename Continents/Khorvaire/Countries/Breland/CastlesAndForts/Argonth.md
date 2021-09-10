@@ -1,0 +1,17 @@
+[[Breland]]
+1. **Type:** Castle/Fort
+2. **Population:** 1,600
+
+The floating fortress of Breland, Argonth is one of the marvels of the Last War. The product of House Cannith ingenuity and Brelish industrial might, Argonth is the largest engine of war ever built. This moving city is home to thousands of soldiers. Currently Argonth patrols the edge of the Mournland, but if tensions rise with Droaam or Darguun, the fortress can be deployed to reinforce a threatened border.
+
+Once, the mighty forges of Sharn churned out new and amazing weapons of war. With the help of Cannith makers and other arcane crafters, the great forges crafted various types of warforged, powerful vehicles, and the wondrous moving cities. Of these latter creations, only two remain active to the current day. The most famous of these is Argonth, the mobile fortress.
+
+Argonth, a massive structure that appears to be part fortress, part cliffside, and part cityscape, floats above the ground and slowly moves from place to place. The town might be along the shore of Silver Lake one day and sliding beside the Droaam border the next time someone tries to fi nd it. The fl oating town was designed as a mobile fortress to help defend Breland during the Last War. Now it serves as a border patrol, circumnavigating the Brelish borders as it moves north, then east, then south, and back again, tracing a slow but steady path along the lines that divide Breland from Droaam, the Eldeen Reaches, Aundair, Thrane, the Mournland, and Darguun.
+
+The Captain of Argonth is Alain ir’Ranek (LG male human, paladin 4). He leads the troops and support personnel that make up Argonth’s citizenry. The mobile fortress moves at a steady two miles per hour as it traces its patrol route, but its speed can be increased to as much as ten miles per hour when the need arises. The increased speed requires a lot of power and puts a strain on the fortress’s resources, and thus such speed is called upon only in emergency situations.
+
+The citizens of Argonth are all in the Breland military, and the town operates under military protocols. In the past, it has served as a base of operations for enemy engagements, as a support center for stationary castles, and as an attack platform when Brelish troops crossed into enemy territory. Now its role is to patrol and protect Breland from raiders, marauders, and the potential threat of hostile armies from neighboring nations. It also spends a lot of time near the border with the Mournland, using its offensive and defensive capabilities to deal with creatures emerging from the obscuring mists.
+
+Every few weeks, Argonth stops to take on supplies. When this occurs, a market grows up around the town where those nearby can come to trade and share news with the soldiers harbored within the mobile fortress. Visitors rarely receive permission to enter Argonth, so the next best thing for them is to interact with the soldiers and support personnel at a market festival.
+
+Argonth has become home to a number of warforged veterans who have pledged their swords to the Brelish crown. Two of the more influential warforged are Big Bara (LN female personality warforged, ranger 3), who commands a company of scouts known as Bara’s Breakers, and Finias Wandhand (CG male personality warforged, wizard 2), who never fought in the Last War but instead became fascinated with the arcane arts. Currently, Finias is under the tutelage of Eera ir’Jalon (LN female human, wizard 9), Argonth’s master of magic.

@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Northedge]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Northedge]] in [[Sharn]]
 
 ## Bio
 Flamebearer of the Coldflame Keep.

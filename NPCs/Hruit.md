@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Dura]], [[Sharn]], [[Breland]]
+- **Location:** [[Middle Dura]], [[Sharn]]
 
 ## Bio
 Hruit is a giant owl who can assume human form. A former aerial racer, he’s a clever negotiator who fights for the good of the Bazaar and Middle Dura, often opposing the Boromar Clan and its allies.

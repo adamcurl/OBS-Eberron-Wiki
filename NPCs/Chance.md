@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Lower Tavick's]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Tavick's]] in [[Sharn]]
 
 ## Bio
 Chance owns Chance, and is also a powerful priest of the Traveler. Almost nothing is known about Chance; the doppelganger wears a different guise every night, and the only way to recognize Chance is by the distinctive amulet it wears.

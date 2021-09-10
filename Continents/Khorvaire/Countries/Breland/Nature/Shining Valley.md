@@ -1,0 +1,6 @@
+[[Breland]]
+1. **Type:** Nature
+
+Strongly connected to Irian, the realm of Eternal Day, this valley hidden within the foothills of the Graywall Mountains is bathed in a light that fades to a luminous dusk for only a few hours each night, despite the high cliffs that should cast shade most of the day. A secret tunnel leads through a series of caverns to a small cave on the Droaam side of the mountain range.
+
+When the Haunting Song, a flight of harpies living in Droaam, refused to bow to the Daughters of Sora Kell, the Carrion Callers and Stormsingers harpies combined forces to make an example of them. Decimated, the survivors fl ed into the mountain caves and eventually discovered Shining Valley. Tending their wounded, they quickly discovered the curative properties of the Irian manifest zone. The fl ight has remained in the valley ever since. The fl ight bides its time, raising a new generation in the valley’s endless light and planning for the day when the Haunting Song will have revenge on the Daughters of Sora Kell and their treacherous kin.

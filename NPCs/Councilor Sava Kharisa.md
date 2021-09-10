@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Sharn]], [[Breland]]
+- **Location:** [[Lower Central]] in [[Sharn]]
 
 ## Bio
 *   The outspoken councilor from Lower Central. Since taking her seat, she has fought to improve conditions for the lower classes of Sharn, and she has made many enemies on the council and beyond. 

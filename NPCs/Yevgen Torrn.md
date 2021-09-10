@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Central]] in [[Sharn]]
 
 ## Bio
  Leads the Tharashk Enclave in Sharn, and operates as a very expensive inquisitive-for-hire.

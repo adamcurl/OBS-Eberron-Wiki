@@ -59,7 +59,7 @@ Neither the best nor worst Sharn has to offer, Olladra’s Kitchen is home to a 
 **Olladra Temple**
 
 ##### Ellfate’s Eatery
-Ellfate’s is a small restaurant at the base of Skysedge Tower. It specializes in omelets, with a menu including the Blood of Vol (an omelet made with Karrnathi sausage and red pepper sauce), the Skyway Special (a very light and fl uffy dessert omelet served atop whipped cream), and the Eldeen Banquet (loaded with vegetables).
+Ellfate’s is a small restaurant at the base of Skysedge Tower. It specializes in omelets, with a menu including the Blood of Vol (an omelet made with Karrnathi sausage and red pepper sauce), the Skyway Special (a very light and fluffy dessert omelet served atop whipped cream), and the Eldeen Banquet (loaded with vegetables).
 It is also a favorite meeting place for zealous mercantilists, a group of political revolutionaries who would like to see the king overthrown and replaced by a governing council of merchant-princes. Though their ideals are similar to the secret agenda of the Aurum, this group is all bluster and no action, and has no connection to the Aurum.
 
 ### Vallia Towers

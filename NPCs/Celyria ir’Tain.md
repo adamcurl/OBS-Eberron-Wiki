@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Skyway]] in [[Sharn]], [[Breland]]
+- **Location:** [[Skyway]] in [[Sharn]]
 
 ## Bio
 Matriarch of the Sharn family

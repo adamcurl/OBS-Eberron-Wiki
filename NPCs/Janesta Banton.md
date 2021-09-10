@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Tavick's]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Tavick's]] in [[Sharn]]
 
 ## Bio
 Zilargo agent in Twelve Pillars

@@ -60,7 +60,7 @@ A small but significant number of people who trace their origin to Cyre have mad
 - Olladra temple
 
 ##### The Atrium
-The Atrium, a recital hall in Kashik Tower, features an acoustically resonant open performance space with seating for about 300. For performers on the move in Menthis’s entertainment scene, the Atrium is a defi nite step up from most of the dinner theaters in the district, and many of its performers are only a few years away from being ready for the Kavarrah Concert Hall.
+The Atrium, a recital hall in Kashik Tower, features an acoustically resonant open performance space with seating for about 300. For performers on the move in Menthis’s entertainment scene, the Atrium is a definite step up from most of the dinner theaters in the district, and many of its performers are only a few years away from being ready for the Kavarrah Concert Hall.
 
 ##### Classic Theater
 A small and inexpensive theater, the Classic performs only works written before the start of the Last War. While the Grand Stage in the University District also performs more recent works echoing the classical style, the Classic has a stated policy of not even considering new works. Every performance in the Classic features archaic language, outmoded social customs, and the idealistic outlook of a world that has utterly vanished from Khorvaire, yet its thousand seats fill up every night.
@@ -69,13 +69,20 @@ A small and inexpensive theater, the Classic performs only works written before 
 Mizano Rupa’s is one of three important dinner theater venues in Smoky Towers that give rising stars a stop on their ascent between Gailan’s and Upper Menthis. Self-consciously named and styled in imitation of Gailan’s in the Torchfire district below, Rupa’s offers decent food and highquality entertainment in a variety of styles. [[Mizano Rupa]] is hardly a connoisseur of fine music, but he knows what he likes and—fortunately—his tastes seem to compare with those of many in Middle Menthis, making his establishment quite popular. Reservations are recommended.
 
 ##### Starfire Dragon
-The Starfi re Dragon offers a steady diet of entertainment accompanied by exquisite meals. In this case, however, the entertainment clearly takes a back seat to the food. Trying to compete in a crowded market, the Starfire Dragon’s owner, [[Amman Todav]], has hired excellent cooks, and the restaurant’s menu offerings reflect the trouble he has gone to. Todav’s choice in entertainers is less discriminating, however; he lost a good portion of his hearing fi ghting in the Last War, and judges performers more on their looks than the quality of their performances. On a good night, the entertainment ranks with the best Middle Menthis has to offer. But the Starfi re Dragon is gaining a reputation for showcasing a great number of beautiful women with mediocre singing voices.
+The Starfire Dragon offers a steady diet of entertainment accompanied by exquisite meals. In this case, however, the entertainment clearly takes a back seat to the food. Trying to compete in a crowded market, the Starfire Dragon’s owner, [[Amman Todav]], has hired excellent cooks, and the restaurant’s menu offerings reflect the trouble he has gone to. Todav’s choice in entertainers is less discriminating, however; he lost a good portion of his hearing fighting in the Last War, and judges performers more on their looks than the quality of their performances. On a good night, the entertainment ranks with the best Middle Menthis has to offer. But the Starfire Dragon is gaining a reputation for showcasing a great number of beautiful women with mediocre singing voices.
 
 ##### Thovanic Hall
-Similar to the Atrium, Thovanic Hall is a former theater converted to use as a recital hall. It is still very new (the renovation was completed only two years ago), and is still trying to build its reputation as a place for fi ne music to compete with the Atrium. As a distinguishing point, Thovanic presents a signifi cant number of non-Brelish and even nonhuman performers, who bring diversity to the musical offerings that the residents of Middle Menthis fi nd sorely lacking in the district’s other offerings.
+Similar to the Atrium, Thovanic Hall is a former theater converted to use as a recital hall. It is still very new (the renovation was completed only two years ago), and is still trying to build its reputation as a place for fine music to compete with the Atrium. As a distinguishing point, Thovanic presents a significant number of non-Brelish and even nonhuman performers, who bring diversity to the musical offerings that the residents of Middle Menthis fi nd sorely lacking in the district’s other offerings.
 
 ### Warden Towers
+
+^a2070d
+
 This district is the primary garrison of the Sharn Watch in Menthis. It’s home to a community of Lhazaar immigrants, and the Broken Anchor is a tavern catering to Lhazaar travelers.
+
+[[Commander Silaena Cazal]] leads the Warden Towers Garrison
+
+This district also contains the headquarters for the Blackened Book.
 
 **Desc:** Some guards of the Watch march to and fro in groups, while others stand at attention, and still others drill for combat. Shouted commands and marching songs fill the air.
 

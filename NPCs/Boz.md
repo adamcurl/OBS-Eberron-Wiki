@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Tavick's]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Tavick's]] in [[Sharn]]
 
 ## Bio
 Runs the Tooth and Nail.

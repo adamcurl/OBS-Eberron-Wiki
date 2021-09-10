@@ -15,10 +15,12 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Central]] in [[Sharn]]
 
 ## Bio
 Solirion is the head of the enclave in Sharn, and supervises the Speakers’ Guild operations in Sharn.
+
+His cheerful exterior hides a sharp and ruthless mind. Solirion has to deal with constant challenges to his authority, and he may employ adventurers to deal with a particularly dangerous rival.
 
 ## Relationships
 - 

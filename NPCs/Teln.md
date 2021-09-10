@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Lower Northedge]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Northedge]] in [[Sharn]]
 
 ## Bio
 

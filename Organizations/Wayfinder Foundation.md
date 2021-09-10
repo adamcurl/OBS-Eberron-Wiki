@@ -1,6 +1,7 @@
 #AdventurersGuild
 * **Location: **
     * Fairhaven, [[Aundair]]
+    * [[Sharn]], [[Breland]]
     * Stormreach, Xen’drik
 * **Founder: **Lord Boroman ir’Dayne
 * **Established: **748 YK (250 years ago)

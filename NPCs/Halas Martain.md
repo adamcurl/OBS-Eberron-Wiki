@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Sharn]], [[Breland]]
+- **Location:** [[Sharn]]
 
 ## Bio
 Halas Martain is a member of the Wayfi nder Foundation. While he is quite intelligent and erudite, he is an unscrupulous individual who has no compunctions about using treachery and deception to steal the accomplishments of others. Despite his faults, he knows more about Xen’drik than many sages, and he has contacts among groups of drow and giants. Recently, he has been approached by agents of the Order of the Emerald Claw; there are artifacts that Vol herself wishes to recover from Xen’drik, and Halas may be the man for the job.

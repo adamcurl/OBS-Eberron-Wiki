@@ -15,10 +15,10 @@
 
 - **Hook:** 
 
-- **Location:** [[Sharn]], [[Breland]]
+- **Location:** [[Sharn]]
 
 ## Bio
-
+Leader of the Darkwood Watch in Sharn
 
 ## Relationships
 - 
@@ -38,7 +38,7 @@ artificer 12
 - **Int:** 
 - **Wis:** 
 - **Cha:** 
-- **Languages:** 
+- **Languages:** Common, Gnome, Orc.
 - **Saving Throws:** 
 - **Skill Proficiencies:** 
 - **Expertise:** 

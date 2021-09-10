@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Dura]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Dura]] in [[Sharn]]
 
 ## Bio
 Hascal d’Ghallanda owns the Drunken Dragon and is a cheerful middle-aged halfling. Hascal began his life as an explorer, but gave up the trade after losing his lower left leg and his right eye in a particularly disastrous trip to Xen’drik, and returned to pick up the family business. He has an assortment of beautifully carved artifi cial limbs and colorful eye patches that correspond to his fl amboyant outfi ts. Hascal is an extremely knowledgeable and talented fellow who, given an opportunity, can spend hours talking about his adventures.

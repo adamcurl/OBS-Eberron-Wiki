@@ -28,7 +28,7 @@ The seat of city government, this district is also where airships arrive and dep
 - **Boldrei temple**
 
 ##### City Archive
-This enormous edifice holds the historical and legal records of Sharn and the surrounding regions. Copies of birth records, marriage rolls, and death certifi cates are kept in the archives, as well as property records, copies of letters of marque, and records of identifi - cation papers issued in the city. Agents of the Citadel have unrestricted access to the records, and other characters with contacts in the government or in a dragonmarked house might be able to gain access to a specific set of records for a single use by calling in a favor.
+This enormous edifice holds the historical and legal records of Sharn and the surrounding regions. Copies of birth records, marriage rolls, and death certificates are kept in the archives, as well as property records, copies of letters of marque, and records of identification papers issued in the city. Agents of the Citadel have unrestricted access to the records, and other characters with contacts in the government or in a dragonmarked house might be able to gain access to a specific set of records for a single use by calling in a favor.
 
 
 ##### Council Hall
@@ -50,22 +50,35 @@ Named for the great temple of Kol Korran that lies at its center, this district 
 ##### The Korranath
 The temple of Kol Korran is an ostentatious display of wealth and a popular tourist attraction, since many believe praying at the Korranath ensures success in business.
 
-Surrounded by a grand colonnade, the interior of the temple rises in a grand dome a hundred feet across covered with gold leaf and studded with precious gems. The tiles in the mosaic fl oor are made of precious stones as well, and all the sacral objects inside the temple are solid gold.
+Surrounded by a grand colonnade, the interior of the temple rises in a grand dome a hundred feet across covered with gold leaf and studded with precious gems. The tiles in the mosaic floor are made of precious stones as well, and all the sacral objects inside the temple are solid gold.
 
 ##### Kundarak Bank of Sharn
 This is the largest bank in Sharn and the center of House Kundarak urban operations in the city.
 
 [[Daphanë d’Kundarak]] is the leader of the Kundarak Enclave in Sharn and the president of the bank. She divides her time between the house enclave in Dragon Towers (in Middle Central) and the bank, but favors the bank.
 
+**Accounts**
+- **Crown Account:** 50 gp/year
+	- 1 bank
+- **Sovereign Account:** 100 gp/year
+	- All House Kundarak banks
+	- Free bank transfers
+- **Dragon Account:** 200 gp/year
+	- Extradimensional vaults
+	- Highest security
+
+**Interest Rates:** 5% annual
+**Transfer Fees:** 25 gp
+
 ##### The Vaults
 Located below the Kundarak Bank, the Vaults are Kundarak’s heavily guarded storage facility.
 
-House Kundarak offers storage space for small- to mediumsized items of great value with the highest possible security, at a cost of 15 gp per month (which includes insurance against theft). This is for long-term storage.
+House Kundarak offers storage space for small to medium sized items of great value with the highest possible security, at a cost of 15 gp per month (which includes insurance against theft). This is for long-term storage.
 
-##### Wayfinder Foundation
+##### [[Wayfinder Foundation]]
 The guildhall for this legendary association of explorers.
 
-The Foundation liaison in Sharn is [[Hendra ir’Kavay]], a wealthy socialite whose interest in ancient history is largely fi nancial.
+The Foundation liaison in Sharn is [[Hendra ir'Kavay]], a wealthy socialite whose interest in ancient history is largely financial.
 
 ### Platinum Heights
 Catering to Sharn’s elite, this district provides a wide range of shops and services of wealthy to aristocratic quality.
@@ -211,7 +224,14 @@ The cuisine is mostly spicy Brelish fare, with selected entrées representing th
 ### Mithral Tower
 Where some of Sharn’s wealthiest citizens live.
 
-**Desc:** The homes in this district are large and well kept, showing clear signs of great wealth. True to the district’s name, many of the houses boast mithral fi ligree.
+**Desc:** The homes in this district are large and well kept, showing clear signs of great wealth. True to the district’s name, many of the houses boast mithral filigree.
+
+#### Places of Interests
+
+##### Unicorn Estate
+Unicorn Estate has a grand unicorn statue and unicorn-shaped topiaries adorning the yard beyond an open, wrought-iron gate. Flanking this gate are two guards in House Orien livery. Each wears a beautiful helm shaped like the head of a unicorn.
+
+The magnificent marble home is clearly owned by one of the city’s wealthiest dragonmarked families. Seated on a patio couch are two figures engaged in quiet conversation: a haggard man in his late thirties and an attentive kalashtar who holds a rose-colored crystal in his hands. Two more guards dressed like the ones at the gates stand nearby.
 
 ### Skysedge Park
 Home to three sprawling rooftop parks, this district provides a touch of wilderness in the heart of the city. A small community of immigrants from the Eldeen Reaches maintains these groves and gardens.
@@ -229,10 +249,11 @@ Skysedge Park is Sharn’s only park district, though Shae Lias (in Upper Northe
 The largest of the three parks in this district gave its name to the whole district. Skysedge Tower stands near Highest Towers and Mithral Tower, and contains upscale businesses just below the park. The park is beautifully landscaped, with gently sloping earth and well-tended grass, small fruit trees, and three small ponds. At the entrance to the park, a 100-foot-tall iron statue stands watch. Called the Iron Guardian, it was crafted centuries ago by the artisans of House Cannith. Legends tell that it is a construct crafted for use in the War of the Mark, but it has not been seen to move in the recorded history of the modern city.
 
 ##### The Gatehouse
-In Carosten Park, near the edge of the plateau, stands a small stone building. Passersby generally assume the building belongs to the park caretakers and pay it no heed, but it is actually a sacred site to the sect of druids known as the Gatekeepers. From this small shrine in the midst of a “natural” site in the City of Towers, the Gate keepers monitor the manifest zone, the sewers and ruins below, and the activity of powerful spellcasters in Sharn to ensure that no dangerous planar breach appears in the city. They are not overly concerned with ordinary summoning spells and have little worry that the angels of Syrania are planning an invasion of the Material Plane, but they are deeply worried about recent events in the Depths.
+In Carosten Park, near the edge of the plateau, stands a small stone building. Passersby generally assume the building belongs to the park caretakers and pay it no heed, but it is actually a sacred site to the sect of druids known as the [[Gatekeepers]]. From this small shrine in the midst of a “natural” site in the City of Towers, the Gatekeepers monitor the manifest zone, the sewers and ruins below, and the activity of powerful spellcasters in Sharn to ensure that no dangerous planar breach appears in the city. They are not overly concerned with ordinary summoning spells and have little worry that the angels of Syrania are planning an invasion of the Material Plane, but they are deeply worried about recent events in the Depths.
+
+This site is run by Uhzod Khash'tel (LG M orc) along with his aprentice Xyrlee Celest (NG F elf) and 5 other druids.
 
 ## NPCs
 
 - [[Councilor Javan Tomollan]]
 - [[Lord Mayor Cathan ir’Demell]]
-- [[Ruken ir'Clarn]]

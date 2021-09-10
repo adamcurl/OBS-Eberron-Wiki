@@ -15,13 +15,13 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Northedge]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Northedge]] in [[Sharn]]
 
 ## Bio
 Despite his appearance, Mayne is not undead. For generations, elves of the line of Jhaelian have used magical and alchemical treatments to mimic the appearance of the dead.
 
 ## Relationships
-- 
+- [[Lady Taelira]]
 
 ## Affiliations
 - 

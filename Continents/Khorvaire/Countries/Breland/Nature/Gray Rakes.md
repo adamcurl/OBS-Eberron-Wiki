@@ -1,0 +1,6 @@
+[[Breland]]
+1. **Type:** Nature
+
+These high, foreboding cliffs guard Breland’s western shores, discouraging any landing on the edges of the Tilorn Expanse west of Moonwatch. While the area is unoccupied now, remnants of old Dhakaani towns cling to the cliffs in several places. The most striking remains of the lost empire are the sacrifi cial platforms jutting out from the cliffs over the sea. Twenty-six such platforms remain (along with the ruins where three more have collapsed into the sea), each exactly four miles from the next. The shelves are quite uniform, seemingly molded by magic out of the stone of the cliffs. Each has a single low stone bier molded into it. Channels for blood connect the biers to the edges of each shelf, causing the spilled blood to fall into the sea at twenty-nine points around the edge of the platform. While only rainwater fi lls the channels these days, the platforms have not lost all of their power. Undead are unable to set foot upon a platform or pass over one. This has saved the lives of more than one adventurer, as the region is infested with the drowned.
+
+The cliffs are gray, with narrow beaches at their bases that appear only at low tide. Gray sand covers these beaches, but small patches of rusty red sand (called bloodsand) accumulate near the platforms.

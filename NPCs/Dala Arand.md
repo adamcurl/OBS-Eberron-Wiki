@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Menthis]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Menthis]] in [[Sharn]]
 
 ## Bio
 A friendly scholar active in planning expeditions to Xen’drik, while also secretly serving as a spy for the Order of the Emerald Claw.

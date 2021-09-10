@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Sharn]], [[Breland]]
+- **Location:** [[Sharn]]
 
 ## Bio
 In battle, Keshta prefers to hang back and use his bow while his soldiers engage the opponents in melee. He despises wizards, and tries to bring them down as quickly as possible.

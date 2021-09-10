@@ -32,8 +32,8 @@
 
 ## 	The Inner Sun
 
-*   **Power: **Katashka
-*   **Structure: **Traditional
+*   **Power:** Katashka
+*   **Structure:** Traditional
 *   This cult can be found across the west coast of Khorvaire, from the [[Shadow Marches]] to the [[Demon Wastes]]. Cultists believe that there is a paradise within [[Khyber]]: the Vale of the Inner Sun. To earn passage to the Vale, a champion must defeat a host of worthy foes, dedicating their souls to the Gatekeeper. Cults vary on the criteria for “worthy foe”—while some cultists are serial killers, others only consider monsters or evildoers as qualifying for their passage.
 
 

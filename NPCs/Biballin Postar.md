@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Menthis]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Menthis]] in [[Sharn]]
 
 ## Bio
 Biballin Postar runs Postar’s Jewelry Art Gallery and is absent-minded and keeps completely irregular hours, but can be counted on to pay the best price for jewelry related to either the drow or the giants of the ancient and mostly forgotten kingdoms.

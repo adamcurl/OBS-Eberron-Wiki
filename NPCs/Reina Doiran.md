@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Menthis]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Menthis]] in [[Sharn]]
 
 ## Bio
 Reina Doiran runs Cloud Antiquities and is flamboyant and eccentric, she judges items quickly based on her own aesthetic sense rather than their historic value, and pays more for items that intrigue and appeal to her than for dusty trinkets of more scholarly worth.

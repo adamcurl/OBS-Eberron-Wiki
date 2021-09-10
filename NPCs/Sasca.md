@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] in [[Sharn]], [[Breland]]
+- **Location:** [[The Cogs]] in [[Sharn]]
 
 ## Bio
 Runs The Rats.

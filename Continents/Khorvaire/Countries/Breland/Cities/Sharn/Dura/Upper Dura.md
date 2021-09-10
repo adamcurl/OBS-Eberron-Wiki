@@ -44,7 +44,10 @@ The district provides a number of services adventurers may fi nd useful. A wide 
 ##### The Augury
 This shop, located in the section of Clifftop known as the mystic market, features a circle of magewrights who possess the ability to cast divinatory spells, including augury, clairaudience/clairvoyance, detect magic, detect scrying, divination, identify, locate creature, locate object, and scrying.
 
-The master magewright of The Augury is a 334- year-old elf named [[Kestia]]. As it sells sending, locate, and alarm spells, The Augury cuts into the profi ts of a number of the dragonmarked houses, notably Tharashk, Sivis, and Kundarak. Some believe that Kestia uses blackmail to protect herself from the retribution of the houses, while others say that she appeases the houses with a share of her profi ts. She has refused to join the Esoteric Order of Aureon or the Guild of Starlight and Shadows, preferring to remain independent.
+The master magewright of The Augury is a 334- year-old elf named [[Kestia]]. As it sells sending, locate, and alarm spells, The Augury cuts into the profits of a number of the dragonmarked houses, notably Tharashk, Sivis, and Kundarak. Some believe that Kestia uses blackmail to protect herself from the retribution of the houses, while others say that she appeases the houses with a share of her profits. She has refused to join the Esoteric Order of Aureon or the Guild of Starlight and Shadows, preferring to remain independent.
+
+##### Artisan's Guild
+This guild houses various smaller guilds revolving around a certain trade, such as painting, pottery, caligraphy, etc.
 
 ##### [[Clifftop Adventurers' Guild]]
 An institution that provides adventurers with camaraderie and profitable work.
@@ -59,14 +62,14 @@ A tavern frequented by members of the Clifftop Adventurer’s Guild. The food is
 
 A bizarre assortment of odds and ends cover the walls of the Drunken Dragon tavern, including the trophies of a hundred expeditions to Xen’drik, the Demon Wastes, and other strange lands. Among the oldest pubs in Upper Dura, the Drunken Dragon is a long-time favorite of explorers, adventurers, and privateers. Slow service and poor food aside, the Drunken Dragon has one of the widest selections of exotic alcoholic beverages in Sharn. From Mror ale and Lhazaar mead to the orcish hrak of the Shadow Marches and fermented honey-milk brewed by the shifters of the Eldeen Reaches, if it’s strong and strange it can be found at the Drunken Dragon.
 
-The Dragon has become one of the main places to hire adventurers; if a party has no specifi c agenda and simply hopes to fi nd work, it could do worse than to have a few drinks at the Drunken Dragon. The Dragon is a tavern as opposed to an inn, but it does have two private rooms that parties can use when discussing secret business or important deals.
+The Dragon has become one of the main places to hire adventurers; if a party has no specific agenda and simply hopes to find work, it could do worse than to have a few drinks at the Drunken Dragon. The Dragon is a tavern as opposed to an inn, but it does have two private rooms that parties can use when discussing secret business or important deals.
 
-The Drunken Dragon is owned by [[Hascal d’Ghallanda]], a cheerful middle-aged halfling. Hascal began his life as an explorer, but gave up the trade after losing his lower left leg and his right eye in a particularly disastrous trip to Xen’drik, and returned to pick up the family business. He has an assortment of beautifully carved artifi cial limbs and colorful eye patches that correspond to his fl amboyant outfi ts. Hascal is an extremely knowledgeable and talented fellow who, given an opportunity, can spend hours talking about his adventures.
+The Drunken Dragon is owned by [[Hascal d’Ghallanda]], a cheerful middle-aged halfling. Hascal began his life as an explorer, but gave up the trade after losing his lower left leg and his right eye in a particularly disastrous trip to Xen’drik, and returned to pick up the family business. He has an assortment of beautifully carved artificial limbs and colorful eye patches that correspond to his flamboyant outfits. Hascal is an extremely knowledgeable and talented fellow who, given an opportunity, can spend hours talking about his adventures.
 
 Hascal possesses the Least Mark of Hospitality and has the power to cast refuge; while he generally saves this for personal protection, for enough gold he could be convinced to cast it on behalf of a group of favored customers. Though he no longer actively adventures, Hascal remains a member of the Clifftop Adventurers’ Guild. Members of the guild get a +1 circumstance bonus on all Knowledge (local) and Gather Information checks made in the Drunken Dragon.
 
 
-##### [[The Esoteric Order of Aureon]]
+##### [[Esoteric Order of Aureon]]
 The guildhall of one of Sharn’s most prestigious arcane orders. A reliable source for arcane spellcasting services.
 
 The larger of Sharn’s wizard circles, the Esoteric Order of Aureon has its headquarters in Clifftop. The Order’s tower is built of white marble, and glamers have been woven into the stone that cause the tower to shimmer and glow so that it seems as if it has been crafted of solid light.
@@ -79,7 +82,7 @@ In addition to the local message station, House Sivis maintains an enclave in Cl
 
 
 ##### House Tharashk
-The House of Finding has a great interest in Xen’drik and the mineral wealth that can be found there, as well as an interest in the other dark lands of Eberron—Q’barra, the Demon Wastes, Khyber, and the Mournland. The Tharashk enclave in Clifftop is primarily concerned with exploration and prospecting. The house sells the services of guides, and many of its members have fi rsthand experience in Xen’drik and Khyber. In addition to the powers of their dragonmarks, these guides can provide invaluable information about the threats lurking in these regions. When the house plans expeditions to Xen’drik, these are usually arranged at the Clifftop enclave. Due to the rivalry with Tharashk and Deneith, the house often recruits adventurers to protect an expedition instead of hiring Deneith mercenaries.
+The House of Finding has a great interest in Xen’drik and the mineral wealth that can be found there, as well as an interest in the other dark lands of Eberron—Q’barra, the Demon Wastes, Khyber, and the Mournland. The Tharashk enclave in Clifftop is primarily concerned with exploration and prospecting. The house sells the services of guides, and many of its members have firsthand experience in Xen’drik and Khyber. In addition to the powers of their dragonmarks, these guides can provide invaluable information about the threats lurking in these regions. When the house plans expeditions to Xen’drik, these are usually arranged at the Clifftop enclave. Due to the rivalry with Tharashk and Deneith, the house often recruits adventurers to protect an expedition instead of hiring Deneith mercenaries.
 
 
 ##### Kavv’s
@@ -109,19 +112,23 @@ Dura is easily the most dangerous quarter of the city, and during the Last War r
 **Desc:** This may be the cleanest and quietest district in Dura. The walls of the towers are heavily reinforced, as if to withstand siege weaponry. The streets are fi lled with guards of the Watch, both patrols and off-duty guards; it looks like a bad place to start a fight.
 
 #### Places of Interest
-- **Dol Doron temple**
+- **Dol Dorn temple**
 - **Training grounds**
 
 ##### Daggerwatch Garrison
-The eponymous garrison in the district is the home to over 600 members of the Sharn Watch. In addition to the regular offi - cers of the Watch, Daggerwatch Garrison houses the Goldwings and includes facilities for maintaining the unit’s 25 hippogriffs.
 
+^2a9e00
+
+The eponymous garrison in the district is the home to over 600 members of the Sharn Watch. In addition to the regular officers of the Watch, Daggerwatch Garrison houses the Goldwings and includes facilities for maintaining the unit’s 25 hippogriffs. 
+
+[[Commander Lian Halamar]] leads the Daggerwatch Garrison.
 
 ##### The Gold & White
 This tavern offers fare of comfortable quality at modest prices. It caters to members of the Sharn Watch and Brelish veterans, but others will receive a cold welcome.
 
 
 ##### Talain Garrison
-This fortress houses both the Sharn Watch and the elite Redcloak Battalion. While slightly smaller than the Daggerwatch Garrison, it is far more heavily fortifi ed and could withstand an extended siege.
+This fortress houses both the Sharn Watch and the elite Redcloak Battalion. While slightly smaller than the Daggerwatch Garrison, it is far more heavily fortified and could withstand an extended siege.
 
 
 ### Highhold
@@ -168,10 +175,10 @@ A relatively new temple district, with shrines and churches that have relocated 
 ##### The Citadel of the Sun
 A temple devoted to Dol Arrah, noteworthy for the three blessed griffons that reside there. The tallest tower in Hope’s Peak is the Citadel of the Sun, a temple dedicated to Dol Arrah, the Sovereign lady of Sun and Sword. The stone of the tower has been enchanted to shine like gold, but it is still stone—something that has proven to be a grave disappointment to many a beggar who has sought to scrape a shaving from the wall. [[Aerela Tal]], a devoted priest who served with distinction in the war before retiring, maintains the temple. Aerela does not sell divine spells, but she may provide assistance in exchange for services; she is distressed by the darkness in Sharn, and would like to see light shed on the shadows of the city.
 
-This large and beautiful temple’s tower rises far above the other districts of Upper Dura. At the top lies a garden, where three golden griffons—halfcelestial creatures said to have been touched by the lady of the sun—reside. The griffons rarely stray from the tower, but an oracle has said that they will rise and fi ght at the time of Sharn’s greatest peril. Killing one of these creatures would be a heinous crime that would outrage the devotees of the goddess.
+This large and beautiful temple’s tower rises far above the other districts of Upper Dura. At the top lies a garden, where three golden griffons—halfcelestial creatures said to have been touched by the lady of the sun—reside. The griffons rarely stray from the tower, but an oracle has said that they will rise and fight at the time of Sharn’s greatest peril. Killing one of these creatures would be a heinous crime that would outrage the devotees of the goddess.
 
 ##### Olladra’s Arms
-This restaurant, one of the brightest spots in Dura, is considered to be one of the fi nest restaurants in the city. In addition to a few private rooms, it features a vast central hall suitable for enormous parties or feasts. The menu consists of traditional Brelish cuisine, but choices are limited. The master chef, [[Halean Doss]], chooses a single menu each night. However, quantities are generous and the quality of the food is outstanding.
+This restaurant, one of the brightest spots in Dura, is considered to be one of the finest restaurants in the city. In addition to a few private rooms, it features a vast central hall suitable for enormous parties or feasts. The menu consists of traditional Brelish cuisine, but choices are limited. The master chef, [[Halean Doss]], chooses a single menu each night. However, quantities are generous and the quality of the food is outstanding.
 
 
 ### Overlook
@@ -194,6 +201,6 @@ The Adarans and kalashtar are concentrated on the northern edge of Overlook. Ada
 Hidden away in the shadows of one of the gray towers, the Hilatashka restaurant serves Adaran cuisine. Meals are reasonably priced, around 6 cp per person, but the quality is exceptional. Providing vegetarian fare that mostly consists of cold dishes and soups prepared with a range of subtle spices. Kalashtar have an exceptionally well-developed sense of taste, and it can take some time for members of other races to learn to appreciate the delicate blends of spices and herbs used in Adaran meals.
 
 ##### The Shrine of il-Yannah
-The kalashtarconstructed shrine of il-Yannah, the Path of Light, occupies a small parapet at the top of a tall tower. From the breathtaking views to the Sarlonan incense that scents the air, the shrine radiates a calm, otherworldly peace. Tapestries with intricate, labyrinthine patterns cover the walls and fl oor, adding to the exotic nature of the place. The enlightened [[Havakhad]], a powerful psion whose frail body is beginning to fail, tends the shrine and rarely wanders far from this location. Havakhad gladly offers advice and spiritual guidance to any follower of the Light who comes to meditate at the shrine, and he sometimes uses precognition on behalf of those he considers to be champions.
+The kalashtar-constructed shrine of il-Yannah, the Path of Light, occupies a small parapet at the top of a tall tower. From the breathtaking views to the Sarlonan incense that scents the air, the shrine radiates a calm, otherworldly peace. Tapestries with intricate, labyrinthine patterns cover the walls and floor, adding to the exotic nature of the place. The enlightened [[Havakhad]], a powerful psion whose frail body is beginning to fail, tends the shrine and rarely wanders far from this location. Havakhad gladly offers advice and spiritual guidance to any follower of the Light who comes to meditate at the shrine, and he sometimes uses precognition on behalf of those he considers to be champions.
 
 ## NPCs

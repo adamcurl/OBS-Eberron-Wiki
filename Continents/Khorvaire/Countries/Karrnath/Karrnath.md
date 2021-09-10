@@ -17,6 +17,7 @@
     - [[Jorasco]] (Vedkyar Enclave - Vedykar, Karrnath)
     - [[Cannith]] (Korth Enclave - Karrnath)
     - [[Deneith]] (Sentinel Tower - Karrlakton, Karrnath)
+10. **Pre-Galifar Name:** Karrnath
 
 ## History
 

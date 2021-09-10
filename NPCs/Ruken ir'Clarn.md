@@ -15,10 +15,10 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Wroat]], [[Breland]]
 
 ## Bio
-Prime minister of Brelish parliament.
+Prime minister of Brelish parliament. Wants to remove the current monarchy.
 
 ## Relationships
 - 

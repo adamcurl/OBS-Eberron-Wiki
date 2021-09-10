@@ -1,2 +1,7 @@
 [[Breland]]
 1. **Type:** Castle/Fort
+2. **Population:** 80
+
+Little more than a heavy stockade around a collection of homes, barracks, and a single fortifi ed tower, Torch Keep began as a simple lighthouse to aid sailors in navigating the Hilt. The isolated location required the addition of homes and some services to maintain the lighthouse. Attacks by wild creatures forced the construction of more elaborate defenses and the addition of a garrison. The garrison’s small magical arsenal prompted raids by brigands, forcing the keep to enlarge yet again until the site has become something between a lighthouse and a true fortress. Assignment to the keep is viewed as a six-month sentence by most posted there. The location is not far from Sharn, but leaves to visit the city are granted only rarely. The keep is reputedly haunted, and the glare from the powerful beacon atop the keep’s only tower ensures that no night’s sleep is entirely restful.
+
+The proximity of the Tilorn Jungle provides danger and sometimes welcome relief from boredom, with garrison members occasionally mounting expeditions to capture rare and valuable birds to supplement their military pay. Officially, visitors are unwelcome, but in practice a few small bribes can quickly convert the keep into an excellent base camp for expeditions into the jungles of the Tilorn Reach from its eastern edge

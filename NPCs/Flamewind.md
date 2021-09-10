@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Menthis]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Menthis]] in [[Sharn]]
 
 ## Bio
 The sphinx Flamewind isn’t officially affiliated with the university, but she lives there and spends much of her time in its libraries and museums. As a scholar of the Draconic Prophecy, Flamewind often poses strange questions and sends adventurers on obscure missions.

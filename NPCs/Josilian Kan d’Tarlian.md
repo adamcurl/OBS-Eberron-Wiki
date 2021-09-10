@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Dura]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Dura]] in [[Sharn]]
 
 ## Bio
 Josilian Kan d’Tarlian works out of this office at the House Sivis enclave in the Clifftop district, and is widely considered to be one of the best barristers in Sharn—though at a base price of 25 gp/day (and possibly more, depending on the nature of the case), he is certainly one of the most expensive.

@@ -14,11 +14,14 @@ The Sovereign Towers district has the grandest temples in Sharn. The Pavilion of
 ## Districts
 
 ### Ambassador Towers
+
+^1941d5
+
 This district contains the embassies to the Thronehold nations, along with Aerenal and Riedra. It’s also the seat of the Citadel and home to the Brelish Museum of Fine Art.
 
 Ambassador Towers, Sharn’s embassy district, is home to embassies and consulates from eleven foreign nations: Aundair, Cyre, Karrnath, the Lhazaar Principalities, the Mror Holds, the Talenta Plains, Thrane, Valenar, Zilargo, Aerenal, and Riedra. Cyre’s embassy was established here long before the Last War, and its staff continues to advocate for the interests of the villagers of New Cyre, in eastern Breland.
 
-**Desc:** The fl ags of most of Khorvaire’s nations fly in this district, hanging in front of monumental embassy blocks in this district. The crowds include people of all races and many different ethnic backgrounds.
+**Desc:** The flags of most of Khorvaire’s nations fly in this district, hanging in front of monumental embassy blocks in this district. The crowds include people of all races and many different ethnic backgrounds.
 
 #### Places of Interest
 - **Embassies and consulates**
@@ -29,6 +32,9 @@ The museum displays work produced by Brelish artists and relics recovered from X
 Breland’s national museum is located in Farhaven Tower, near the Bazaar Bridge leading to Middle Dura. It has two main areas of emphasis: art representing the Brelish spirit (which primarily means any artwork created by a Brelish artist) and antiquities from Xen’drik, which certain people in the Brelish government would like to view as a colony of Breland. Its Brelish art collection is unequalled, and includes some world-famous works by great masters of antebellum Galifar. Its collection of antiquities is also impressive, though it is small in comparison to that of the Dezina Museum at Morgrave University.
 
 ##### The Citadel
+
+^f5d6c4
+
 The headquarters of the King’s Citadel, Breland’s elite military and intelligence service. The Citadel is also a high-security prison holding Sharn’s most dangerous criminals.
 
 An imposing, fortified structure near the middle levels of Andith Tower, the Citadel is both the headquarters of the local Knights of the Citadel and the city jail. A great balcony on the outside of the fortress is guarded by knights but allows easy access to this seat of Brelish law in Sharn. Unexpected visitors to the Citadel rarely receive a warm welcome.
@@ -47,7 +53,7 @@ Enclaves belonging to the thirteen dragonmarked houses can be found in this dist
 - **Dragonmarked house enclaves**
 
 ##### Tharashk Enclave
-The sprawling complex of Tharashk Enclave occupies several levels of three towers near the Sword Point district. A signifi cant percentage of Sharn’s half-orc population lives in this complex. [[Yevgen Torrn]] leads the enclave, and operates as a very expensive inquisitive-for-hire.
+The sprawling complex of Tharashk Enclave occupies several levels of three towers near the Sword Point district. A significant percentage of Sharn’s half-orc population lives in this complex. [[Yevgen Torrn]] leads the enclave, and operates as a very expensive inquisitive-for-hire.
 
 ##### Globe Information Agency
 This inquisitive agency run by [[Kava Velderan]], a dragonmarked heir of the House of Finding, has ties to House Tharashk. Kava prides herself on her ability to find anyone, anywhere. Her agents escalate cases to her attention only when they prove to be nearly impossible to solve.
@@ -88,13 +94,13 @@ A district filled with a vast assortment of temples and shrines. It is home to t
 ##### Cathedral of the Cleansing Flame
 The central temple of the Church of the Silver Flame serves both as a templar garrison and the site of grand rituals and celebrations.
 
-Sharn’s most important temple to the Silver Flame, named in honor of the church’s role in cleansing Khorvaire of the stain of evil, ironically may also be its most corrupt holy institution. The Archierophant of the region, Ythana Morr, helps foster this corruption, while many of the clergy and other staff simply covet privilege, power, and material wealth. The Archierophant, however, actively cooperates with the rakshasa Zathara, who lives in the Central Cogs district of Khyber’s Gate.
+Sharn’s most important temple to the Silver Flame, named in honor of the church’s role in cleansing Khorvaire of the stain of evil, ironically may also be its most corrupt holy institution. The Archierophant of the region, [[Ythana Morr]], helps foster this corruption, while many of the clergy and other staff simply covet privilege, power, and material wealth. The Archierophant, however, actively cooperates with the rakshasa [[Zathara]], who lives in the Central Cogs district of Khyber’s Gate.
 
 
 ##### Pavilion of the Host
 The center for worship of the Sovereign Host is a grand open tower surrounded by nine temples, each dedicated to one of the Sovereigns.
 
-In the central pavilion, sacrifi ces offered in major festivals and on important holy days honor the pantheon as a whole. The ranking priest in Sharn, High Priest [[Phthaso Mogan]], leads most of these rituals and sacrifi ces. Homes for the many clergy working here occupy several tower levels below the Pavilion.
+In the central pavilion, sacrifices offered in major festivals and on important holy days honor the pantheon as a whole. The ranking priest in Sharn, High Priest [[Phthaso Mogan]], leads most of these rituals and sacrifices. Homes for the many clergy working here occupy several tower levels below the Pavilion.
 
 
 ### Sword Point
@@ -106,6 +112,9 @@ This garrison district houses the forces that police and defend Central Plateau 
 - **Dol Arrah temple**
 
 ##### Sword Point Garrison
+
+^7e206a
+
 This sprawling complex links five adjacent towers into an enormous fortress-like structure. Thick walls crowned with battlements connect the towers along the periphery, while a huge platform connects all five towers to form an open yard for drills, all a half-mile above the ground. The ranking officer at Sword Point, [[Commander Belew Yorgan]] is a harsh but effective leader. He tries to curry favor with the Citadel, the dragon marked houses, the city council, and the temple leadership all at the same time. As a direct result, he commits most of his resources and attention to the Upper and Middle Central districts, leaving Lower Central under protected and Northedge practically ignored.
 
 ### Tradefair

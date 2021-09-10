@@ -1,9 +1,9 @@
 ## Description
 - **Appearance:** 
 
-- **Allignment:** LE
+- **Allignment:** NE
 
-- **Gender & Race:** F aranea (spider shapeshifter)
+- **Gender & Race:** F aranea (spider shapeshifter) (appears human)
 
 - **Age:** 
 
@@ -15,10 +15,10 @@
 
 - **Hook:** 
 
-- **Location:** [[Skyway]] in [[Sharn]], [[Breland]]
+- **Location:** [[Skyway]] in [[Sharn]]
 
 ## Bio
-Owns the Cloud Dragon Restaurant.
+Owns the Cloud Dragon Restaurant. She has no far-reaching evil agenda; she just wants to run her restaurant in peace. She does engage in shady business deals and has ties to at least one of Sharn’s criminal organizations, but those take a back seat to her interest in her establishment.
 
 ## Relationships
 - 

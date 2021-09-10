@@ -1,2 +1,6 @@
 [[Breland]]
 1. **Type:** Nature
+
+Travelers generally avoid this sizable stretch of woodland between Yedan’s Expanse and the Howling Peaks. The trees have pale bark and leaves so dark they appear almost black. The ground slopes gently down to the southeast, until the forest drops into the bogs of Mistmarsh. The last 20 miles is made up of trees that have drowned in the slowly expanding mash, and their skeletal remains thrust into the sky in a strange parody of bones. The forest would probably lie completely undisturbed except for the presence of a handful of dragonseye oaks in the interior. The forest is also home to the equally rare ghost oak. Gathering the acorns from these magical trees is a major source of income for the villagers of Mistmarsh.
+
+In the center of the drowned trees, a huge arch has been constructed of rough bleached wood. This portal becomes a gate to [[Mabar]] on the tenth night of each month. The entire region becomes a Mabar manifest zone throughout the month of Sypheros. Who constructed the arch is unknown, but the markings hacked into the wood suggest it was built during the Daelkyr War. Those who attack the arch fall sick within minutes, and none have returned from the effort, though their companions who did not participate went unscathed.

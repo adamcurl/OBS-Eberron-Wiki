@@ -1,2 +1,5 @@
 [[Breland]]
 1. **Type:** Town
+2. **Population:** 1,600
+
+Halfway between Droaam and the Dagger River, Ardev is the main gathering place for farmers and ranchers working the Ardev Expanse. Ardev was built to take advantage of Chalice Lake, which collects the water of several small creeks fl owing across the plains. The town also sits astride a major Orien trade road, making it an important rest stop for caravans traveling to the west. Ardev markets provide the supplies for the king’s private dwellings at Castle Arakhain, and the city has more than the usual share of Citadel agents to ensure the safety of the king. As the main jumping-off point for prospectors using the old western road to travel to the Graywalls, Ardev always has miners in town, as well as those offering maps to “lost mines” and other ancient ruins.

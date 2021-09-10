@@ -41,6 +41,14 @@
     3. Something about the weather
     4. The virtues of democracy
     5. The wisdom of Beggar Dane (A newspaper author)
+17. **Pre-Galifar Name:** Wroat
+
+## Summary
+In the wake of the Last War, Breland is one of the most powerful nations in Khorvaire. Possessing a large population and abundant resources, Breland leads the continent in industry.
+
+The Brelish are known for their pragmatism and independence. They lack the discipline of Karrns and the faith of the Thranes, but they excel at finding innovative solutions to problems. The Brelish also have a talent for intrigue and subterfuge. The King’s Dark Lanterns is one of the finest intelligence agencies in Khorvaire, rivaled only by House Phiarlan and the Trust of Zilargo. The dark side of these aptitudes is a strong streak of cynicism, which allows crime and corruption to flourish in Brelish cities and temples. The Sovereign Host is the dominant religion of Breland, but in general the Brelish aren’t as devout as citizens of other nations.
+
+King Boranel ir’Wynarn rules Breland in conjunction with an elected parliament. Boranel is a popular leader celebrated for his exploits during the Last War, but his children have yet to prove themselves, and a growing movement advocates for abandoning royal rule when Boranel passes.
 
 ## History
    **-38,00 YK: **The first of the [goblinoid](https://eberron.fandom.com/wiki/Goblinoids) kingdoms rises in the area that will one day become [Breland](https://eberron.fandom.com/wiki/Breland) and [Darguun](https://eberron.fandom.com/wiki/Darguun).

@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Sharn]], [[Breland]]
+- **Location:** [[The Cogs]] in [[Sharn]]
 
 ## Bio
 The Sharn Daask cell is led by the ogre mage Cavallah. Cunning and exceptionally charismatic, Cavallah has gained considerable infl uence among the goblinoids of Malleon’s Gate and the Cogs. Cavallah is far more concerned with order and discipline than many of her soldiers, and she is personally responsible for planning Daask’s campaign against the Boromars. She is a scholar, and in her free time she studies the effects of the manifest zone of Sharn; she is fascinated by the ways that the city has incorporated the magic of fl ight and may attempt to obtain artifacts or magic items that relate to the manifest zone.

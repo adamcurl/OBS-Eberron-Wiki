@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Dura]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Dura]] in [[Sharn]]
 
 ## Bio
 

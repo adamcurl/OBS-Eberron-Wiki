@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Sharn]], [[Breland]]
+- **Location:** [[Sharn]]
 
 ## Bio
 Dolom always does his best to see that justice prevails in Sharn. Unfortunately, he’s a poor inquisitive and usually accepts what he sees at face value. He’s a good person for the adventurers to get on their side. Conversely, he’s a terrible enemy for low-level characters to have.

@@ -31,35 +31,15 @@
     3. A bit about horses
     4. Several “add-a-verse” songs
     5. The Epic of the Valiant and Vigilant
+16. **Pre-Galifar Name:** Thaliost
 
 
+## Summary
+Fertile farmlands surround the grand cities of Aundair. The floating towers of Arcanix are the finest institute for mystical study in Khorvaire, and magic is deeply ingrained in Aundairian culture. The nation produces more magewrights and wandslingers than any other in Khorvaire.
 
-**<span style="text-decoration:underline;">DC Key</span>**
+From the nobles lounging in the towers of Fairhaven to the common folk working the vast vineyards of Bluevine, Aundairians value wit and wisdom. Aundairians prefer finesse to brute force and appreciate cunning wordplay and fine fashions. The Sovereign Host is the dominant faith of Aundair, with a particular devotion to Aureon. However, the Silver Flame also maintains a devoted following—some might say overzealous.
 
-General Knowledge (Freebie)
-
-Easy (10 Investigation) (14 History)
-
-Moderate (15 Investigation) (18 History)
-
-Hard (20 Investigation) (22 History)
-
-Very Hard (25 Investigation) (28 History)
-
-   * Investigation checks are done via a library, a research facility, books, etc. and are considered to be easier since the player has information directly available to them
-
-<sup>★</sup> DC is lowered by 2 if player is a Wizard
-
-<sup>🕇 </sup>DC is lowered by 2 if player has the Acolyte background
-
-
-   <sup>▲</sup> DC is lowered by 2 if player has the House Agent background or belongs to a Dragonmarked House
-
-
-   <sup>⛊ </sup>DC is lowered by 2 if player has a military-related background
-
-
-   <sup>♛ </sup>DC is lowered by 2 if player has a Noble background
+Although Aundair is a small nation, its arcane superiority allowed it retain its dominion during the Last War. The people of Aundair know that knowledge is power, and they take pride in their nation’s magical advancements. To ensure her nation’s prosperity and dominance, Queen Aurala ir’Wynarn instituted the Arcane Initiative, an aggressive series of programs intended to forward the development of mystical infrastructure and battle magic.
 
 
 ## History

@@ -15,10 +15,12 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Northedge]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Northedge]] in [[Sharn]]
 
 ## Bio
 He represents the Middle Northedge ward of Sharn on the Council. Doran is a devout follower of Boldrei, and is by all accounts an honest, dedicated, and charismatic figure.
+
+He obtained his position largely through charisma and dedication, and the support of the priests of High Hope. He has a deep and abiding faith in the goddess Boldrei, and attributes all of his successes to the good will of the goddess. However, his honesty is often a hindrance in Council intrigues.
 
 ## Relationships
 - [[Daca]] (mentor)
@@ -27,6 +29,7 @@ He represents the Middle Northedge ward of Sharn on the Council. Doran is a devo
 - 
 
 ## Stats
+cleric 2
 - **AC:** 
 - **HP:** 
 - **Speed:** 

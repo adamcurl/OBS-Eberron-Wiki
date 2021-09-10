@@ -2,8 +2,8 @@
 
 - **Population:** 7,800
 - **Social Class:** Upper middle class
-- **Character:** Wealthy and educated, strongly infl uenced by the presence of Morgrave University.
-- **Districts:** University, fi ne shops, wealthy residences, average residences, gnome neighborhood
+- **Character:** Wealthy and educated, strongly influenced by the presence of Morgrave University.
+- **Districts:** University, fine shops, wealthy residences, average residences, gnome neighborhood
 - **Business:** Upscale and specialized, including many literate trades; gold piece limit: 70,000 gp
 
 ## About
@@ -35,7 +35,7 @@ In addition to being the city councilor representing Upper Menthis, the gnome [[
 ##### Khavish Theater
 Established by and for gnomes, the Khavish has ample seating for small creatures, and its shows make extensive use of illusions. Two stage troupes share the theater—the Khavish Players, made up mostly of human actors, and the Zilargo Repertoire Group, consisting entirely of gnome performers.
 
-The Khavish Players present more contemporary and widely appealing acts than the performers at the other Upper Menthis theaters, incorporating music, sex, and comedy—though not to the extent of the burlesque found in Lower Menthis. The Zilargo Repertoire Group generally performs works that only interest gnomes, full of intricate histories and a level of detail that audiences of other races fi nd excessive (and mostly boring). Occasionally, they stage a comedy aimed at mixed-race audiences, generally featuring acrobatics and pratfalls. Recently, the famous gnome bard Kessler agreed to play with the Zilargo Repertoire Group, and that has brought more mixed crowds to their performances.
+The Khavish Players present more contemporary and widely appealing acts than the performers at the other Upper Menthis theaters, incorporating music, sex, and comedy—though not to the extent of the burlesque found in Lower Menthis. The Zilargo Repertoire Group generally performs works that only interest gnomes, full of intricate histories and a level of detail that audiences of other races find excessive (and mostly boring). Occasionally, they stage a comedy aimed at mixed-race audiences, generally featuring acrobatics and pratfalls. Recently, the famous gnome bard Kessler agreed to play with the Zilargo Repertoire Group, and that has brought more mixed crowds to their performances.
 
 
 ### Ivy Towers
@@ -52,7 +52,7 @@ A shopping district, with restaurants and goods of comfortable to wealthy qualit
 #### Places of Interest
 
 ##### Galdin’s Garden
-By general consensus, one of the fi nest restaurants in Sharn is Galdin’s Garden. An elegant setting for a fi ne meal situated at the top of Seventh Tower, a garden of exotic and fragrant fl owers, particularly roses and orchids, surrounds the establishment. Both indoor and outdoor seating is available, and some of the tables offer views of the distant ocean to the south on (the relatively rare) clear days. The menu consists of spicy Brelish offerings, while the wine list includes the best vintages from the Eldeen Reaches and Aundair.
+By general consensus, one of the finest restaurants in Sharn is Galdin’s Garden. An elegant setting for a fine meal situated at the top of Seventh Tower, a garden of exotic and fragrant flowers, particularly roses and orchids, surrounds the establishment. Both indoor and outdoor seating is available, and some of the tables offer views of the distant ocean to the south on (the relatively rare) clear days. The menu consists of spicy Brelish offerings, while the wine list includes the best vintages from the Eldeen Reaches and Aundair.
 
 ##### Little Xen’drik
 This area of small shops deals in antiquities and relics recovered from Xen’drik and the ruins below Sharn.
@@ -72,7 +72,7 @@ This area of small shops deals in antiquities and relics recovered from Xen’dr
 ### University
 This district is dominated by Morgrave University. It’s also a nexus for sophisticated entertainment, including the Art Temple, the Grand Stage, and the Great Hall of Aureon.
 
-From Morgrave itself to the businesses that have sprung up around it, love of learning coexists with love of earning and the two feed happily off each other. If scholarly interest can lead to great profi t, or thirst for gold to historical discovery, then the residents of the University District are doubly satisfi ed.
+From Morgrave itself to the businesses that have sprung up around it, love of learning coexists with love of earning and the two feed happily off each other. If scholarly interest can lead to great profit, or thirst for gold to historical discovery, then the residents of the University District are doubly satisfied.
 
 **Desc:** Students carrying armloads of scrolls and books hustle to classes, while others sit or stand in circles, discussing the day’s lessons.
 
@@ -80,9 +80,12 @@ From Morgrave itself to the businesses that have sprung up around it, love of le
 - Path of Light shrine
 
 ##### Art Temple
-One of Upper Menthis’ four theaters, the Art Temple is famous for cutting-edge, avant-garde plays. It has no resident playwright; instead, the theater solicits submissions from across Khorvaire, though residents of Sharn pen most of its productions. The theater’s owner, [[Cassa Faer]], prides herself on discovering new talent, but she defi nitely gives preferential treatment to her personal acquaintances, and tends to become romantically involved with each new playwright whose play she produces.
+One of Upper Menthis’ four theaters, the Art Temple is famous for cutting-edge, avant-garde plays. It has no resident playwright; instead, the theater solicits submissions from across Khorvaire, though residents of Sharn pen most of its productions. The theater’s owner, [[Cassa Faer]], prides herself on discovering new talent, but she definitely gives preferential treatment to her personal acquaintances, and tends to become romantically involved with each new playwright whose play she produces.
 
 ##### Golden Horn
+
+^2e2fa9
+
 This wealthy inn includes a library, a few large meeting rooms, and a small concert hall. Performing at the Horn is an excellent opportunity for aspiring bards.
 
 This upscale inn is the local outpost of the [[Circle of Song]]. It has a considerable area set aside for members of the Circle, including a library, meeting hall, and even a small concert hall. The proprietor of the Horn is a man named [[Mandyran]]. A former wanderer, the old man has settled down and opened the inn to help support the Circle.
@@ -93,10 +96,10 @@ This stage hosts grand performances of the beloved classics of Galifar, along wi
 Another of the theaters in Upper Menthis, the Grand Stage generally produces a more conservative and traditional repertoire than the others, including a mixture of classic works and more modern plays echoing the style and conventions of the classics. The well-beloved The *Changeling’s Prophecy*, by the ancient playwright Duthic Olan, appears on the Grand Stage’s docket every two to three years. This is not the place to see avant-garde productions that wrestle with existential concerns in the wake of the Last War, but rather the Grand Stage presents a constant selection of the great cultural heritage of Galifar.
 
 ##### Kavarrah Concert Hall
-The grand auditorium near the University, Kavarrah Concert Hall hosts the fi nest musical performances in Sharn. Residents of Upper Central, Upper Northedge, and Upper Menthis’s Platinate district attend shows in Kavarrah dressed in their fi nest glamerweave garments, often arriving by skycoach after dining in Skyway restaurants.
+The grand auditorium near the University, Kavarrah Concert Hall hosts the finest musical performances in Sharn. Residents of Upper Central, Upper Northedge, and Upper Menthis’s Platinate district attend shows in Kavarrah dressed in their finest glamerweave garments, often arriving by skycoach after dining in Skyway restaurants.
 
 ##### Haftak’s Books and Binding
-[[Haftak ir’Clarn]] runs this bookstore and bindery, and uses its facilities to publish the Sharn Inquisitive, the city’s local chronicle. A minor member of one of Breland’s noble families, Haftak has a prominent cousin in the parliament and a signifi cant fortune at his disposal, which allowed him to start the Inquisitive as a sideline to his marginally profi table main business.
+[[Haftak ir’Clarn]] runs this bookstore and bindery, and uses its facilities to publish the Sharn Inquisitive, the city’s local chronicle. A minor member of one of Breland’s noble families, Haftak has a prominent cousin in the parliament and a significant fortune at his disposal, which allowed him to start the Inquisitive as a sideline to his marginally profitable main business.
 
 ##### Sharn Opera House
 Breland has a long heritage of operatic composition, and the Sharn Opera House is committed to regular performances of classic Brelish works, as well as newer material from across Khorvaire. The opera house consists of a grand auditorium in Dalannan Tower, with comfortable seating for 3,000 people. As with the Kavarrah Concert Hall, attending performances in the Sharn Opera House usually become very formal affairs, but the opera house also offers standing-room galleries for those of less wealthy means.
@@ -120,20 +123,20 @@ Pleasantly situated atop Breland Spire, the Commons is a large open-air plaza wi
 **Dezina Museum of Antiquities**
 Attached to Morgrave University, this building displays the relics recovered on the university’s many expeditions.
 
-Dezina Museum fi lls many of the mid-levels of Dalannan Tower. Its collection would be even more impressive were it not for the strong tendency the University has to sell valuable artifacts rather than put them on display, not to mention the steady stream of items routinely stolen from the museum. More interesting (at least to some) than the museum’s displayed collection are its vaults, vast rooms below the publicly accessible areas of the museum that contain unopened crates of treasures waiting to be cataloged, shelves of artifacts deemed uninteresting, and a few secret rooms holding items too important or dangerous to put on public display.
+Dezina Museum fills many of the mid-levels of Dalannan Tower. Its collection would be even more impressive were it not for the strong tendency the University has to sell valuable artifacts rather than put them on display, not to mention the steady stream of items routinely stolen from the museum. More interesting (at least to some) than the museum’s displayed collection are its vaults, vast rooms below the publicly accessible areas of the museum that contain unopened crates of treasures waiting to be cataloged, shelves of artifacts deemed uninteresting, and a few secret rooms holding items too important or dangerous to put on public display.
 
 **Great Hall of Aureon**
 Sharn’s largest temple to the Sovereign Aureon, the Great Hall celebrates knowledge and learning. The clergy are sages and savants in a wide variety of fields.
 
-The grand temple to the god of knowledge at Morgrave University, the Great Hall of Aureon is an architectural marvel as well as a sacred site often visited by pilgrims. Scholars, scientists and artifi cers, and any others who seek knowledge have made a practice of spending the night in the Great Hall. They believe that inspiration will visit them while they sleep on the marble fl oor of the majestic temple. Some of Breland’s greatest minds through the ages have claimed that their greatest breakthroughs came after a night in the temple. [[Merrix d’Cannith]] (the grandfather of the current head of House Cannith in Sharn) attributed the invention of living constructs (the fi rst warforged) to stay in the Great Hall of Aureon.
+The grand temple to the god of knowledge at Morgrave University, the Great Hall of Aureon is an architectural marvel as well as a sacred site often visited by pilgrims. Scholars, scientists and artificers, and any others who seek knowledge have made a practice of spending the night in the Great Hall. They believe that inspiration will visit them while they sleep on the marble floor of the majestic temple. Some of Breland’s greatest minds through the ages have claimed that their greatest breakthroughs came after a night in the temple. [[Merrix d’Cannith]] (the grandfather of the current head of House Cannith in Sharn) attributed the invention of living constructs (the first warforged) to stay in the Great Hall of Aureon.
 
-The Great Hall also provides a place to fi nd experts in all fi elds. The temple staff represents the broad spectrum of scientifi c study, and if they do not know the answer to a question they can almost certainly fi nd someone who does. The ordained clergy of the Great Hall include experts, wizards, loremasters, and bards, as well as clerics, and position in the hierarchy of the temple has nothing to do with character class or fi eld of expertise.
+The Great Hall also provides a place to find experts in all fields. The temple staff represents the broad spectrum of scientific study, and if they do not know the answer to a question they can almost certainly find someone who does. The ordained clergy of the Great Hall include experts, wizards, loremasters, and bards, as well as clerics, and position in the hierarchy of the temple has nothing to do with character class or field of expertise.
 
 **Lareth Hall**
-Named after the founder of Morgrave University, Lareth Hall holds the University’s administrative and faculty offi ces. This large domed structure at the center of the campus, situated at the top of Dalannan Tower, contains the office of president [[Larrian ir’Morgrave]], along with the bursar’s and registrar’s offices, and—in a large chamber at the top of the dome—the abode of [[Flamewind]], a gynosphinx.
+Named after the founder of Morgrave University, Lareth Hall holds the University’s administrative and faculty offices. This large domed structure at the center of the campus, situated at the top of Dalannan Tower, contains the office of president [[Larrian ir’Morgrave]], along with the bursar’s and registrar’s offices, and—in a large chamber at the top of the dome—the abode of [[Flamewind]], a gynosphinx.
 
 **Morgrave University Library**
-Centrally located on the University campus near the top of Dalannan Tower (just below the dome of Lareth Hall), the Morgrave University Library has the most extensive collection of books in all of Breland. It pales in comparison to the great library at Korranberg, but a signifi cant number of Zilargo expatriates live in Den’iyas and work to make the Morgrave Library the best resource it can be.
+Centrally located on the University campus near the top of Dalannan Tower (just below the dome of Lareth Hall), the Morgrave University Library has the most extensive collection of books in all of Breland. It pales in comparison to the great library at Korranberg, but a significant number of Zilargo expatriates live in Den’iyas and work to make the Morgrave Library the best resource it can be.
 
 History is clearly a specialty of the University, and those using the Morgrave Library for research into the history of Sharn or Xen’drik gain advantage on history or investigation checks.
 

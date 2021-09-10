@@ -27,11 +27,9 @@
 *   **Constant Change.** Nothing remains exactly the same in Kythri. Whenever a creature finishes a short or long rest, it finds that something changed about it or its possessions. Each player should describe what’s changed about their character; this could be as simple as your cloak changing color or your sword now having a stylish Aundairian design when it was originally Karrnathi. You could choose for the change to be physical—your skin, hairstyle, or sex—or mental—you suddenly hate olives or no longer believe in the Sovereign Host. These changes have no mechanical impact: the coins in your pocket may change in design, but copper coins won’t turn into platinum. If you want a change to have mechanical impact—for example, if your cleric’s faith or race changes and you want your character sheet to reflect that—discuss the possibility with your DM.
 
 
-*   **Chaotic Time. **Time is fluid in Kythri, inconsistent both with the Material Plane and within its own islands. Adventurers who spend a day in Kythri could find that a year has passed in Eberron, or they could be trapped in Kythri for a year and find that only an hour has passed when they return.
+*   **Chaotic Time.** Time is fluid in Kythri, inconsistent both with the Material Plane and within its own islands. Adventurers who spend a day in Kythri could find that a year has passed in Eberron, or they could be trapped in Kythri for a year and find that only an hour has passed when they return.
 
 ## Denizens
-
-
 
 *   **Wild Things**
 
@@ -111,7 +109,7 @@
 
 
 
-*   **Shiftweave Fibers **are harvested from plants in Kythrian zones to make shiftweave.
+*   **Shiftweave Fibers** are harvested from plants in Kythrian zones to make shiftweave.
 
 
 *   **Random magical items** sometimes appear. These can be normal items, but with a small twist that adds some random effect.

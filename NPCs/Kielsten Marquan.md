@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Lower Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Central]] in [[Sharn]]
 
 ## Bio
 The owner and sole employee, no longer keeps the place up as well as he used to. This is because Kielsten runs a small cult devoted to a radiant idol, and his attention to his business has slipped as his activity and responsibilities within the cult have increased.

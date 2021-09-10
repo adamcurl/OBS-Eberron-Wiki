@@ -12,6 +12,8 @@
 
 ## Xoriat and the Maze of Reality
 
+^67afcd
+
 
    Time sometimes moves at different rates in different planes, but it always moves forward . . . except in Xoriat. Imagine time as a maze and the Material Plane as a rat moving through it, with the other planes worn as a crown. This is how the Draconic Prophecy works. It doesn’t tell you what will happen, because that hasn’t been decided yet. It’s a roadmap to the maze, revealing that if you take a left turn at “Queen Aurala is assassinated” and then turn right at “Breland becomes a democracy,” you’ll reach “Sul Khatesh is released from her prison.” The Prophecy shows the path you need to take to achieve the outcome you desire—a map to the many possibilities of the future.
 

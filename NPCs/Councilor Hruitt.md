@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Dura]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Dura]] in [[Sharn]]
 
 ## Bio
 Councilor of Middle Dura. He is actually a giant owl who can assume human form. A former aerial racer, he’s a clever negotiator who fights for the good of the Bazaar and Middle Dura, often opposing the Boromar Clan and its allies.

@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Upper Northedge]] in [[Sharn]], [[Breland]]
+- **Location:** [[Upper Northedge]] in [[Sharn]]
 
 ## Bio
 Owns the Winding Root.

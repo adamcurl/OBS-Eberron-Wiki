@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Lower Menthis]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Menthis]] in [[Sharn]]
 
 ## Bio
 Councilor of Lower Menthis and a bordello owner. Because she is the owner of a brothel, her appointment to the Council of Sharn enraged many of the more conservative council members. Though this brothel is a key to her success, it also forces her to pay money to the Boromar Clan and the Tyrants, two of Sharn's most dangerous gangs.  She hopes to reduce the influence of organized crime in her district, but it’s a dangerous game.

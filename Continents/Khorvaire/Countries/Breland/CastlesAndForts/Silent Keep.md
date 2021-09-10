@@ -1,0 +1,5 @@
+[[Breland]]
+1. **Type:** Castle/Fort
+2. **Population:** 100
+
+Unmarked on any offi cial map, Silent Keep is a name whispered only by the most knowledgeable of Breland’s nobles. Tucked back in the Howling Peaks, hidden from view until one is virtually at the gates, this small fortress is one of the King’s Citadel’s best-kept secrets. Silent Keep is the main training ground for the Dark Lanterns, the Citadel’s division of scouts and spies. It is standard practice to dump these capable spies into the adjacent portion of the King’s Forest and see if they can fi nd their way back unaided. The fort also houses a private archive for the King’s Wands, and a repository for cursed and dangerous items the Wands have collected in the course of their duties. Most important, the fort conceals the entrance to a small but very rich gold mine, which has provided the Citadel with a steady supply of funds.

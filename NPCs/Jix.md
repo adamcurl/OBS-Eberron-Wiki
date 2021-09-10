@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Lower Dura]] in [[Sharn]], [[Breland]]
+- **Location:** [[Lower Dura]] in [[Sharn]]
 
 ## Bio
 A changeling who uses her natural powers to perform unusual one-woman ballets and operas.

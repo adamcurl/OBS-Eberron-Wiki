@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Central]] in [[Sharn]]
 
 ## Bio
 Solia d’Lyrandar oversees the Sharn enclave and supervises the operations of all the smaller offices, as well.

@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[Middle Central]] in [[Sharn]], [[Breland]]
+- **Location:** [[Middle Central]] in [[Sharn]]
 
 ## Bio
 Thora, a female human, has the ability to sense mystical energies—a gift that enables her to identify others with aberrant marks. She founded the organization and serves as its leader. While she uses the name Thora Tarkanan among her compatriots, she has established herself as Thora Tavin among the wealthy elite of Sharn and has cultivated relationships with many influential people.
