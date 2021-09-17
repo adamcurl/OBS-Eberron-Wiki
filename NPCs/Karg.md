@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** Morgrave University in [[Sharn]]
+- **Location:** [[Upper Menthis#^ec8d59|Morgrave University]] in [[Sharn]]
 
 ## Bio
 Karg an exceptionally intelligent ogre (Intelligence 10) who stumbled upon a cache of Dhakaani treasure a few years ago. Knowing that one of the more powerful monsters would take this prize away from him if he stayed in Droaam, Karg came to Sharn. He has spent the last four years studying at Morgrave University; he wants to become a master sage, and he is particularly fascinated by the history of Xen’drik and the empire of the giants. Karg is afraid of Daask, and does not venture into Lower Dura or the Cogs.

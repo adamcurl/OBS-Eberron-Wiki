@@ -5,7 +5,7 @@ The Guild of Starlight and Shadows emerged in a form of rebellion against the st
 
 Members of the Guild of Starlight and Shadows usually want to know the details before casting a spell, but they have no traditions requiring that they obtain this knowledge, and for an extra 25% fee no questions are asked. In addition to straightforward spellcasting services and item creation, many members of the Guild work for dream parlors—cabarets that use exotic displays of illusion to entertain customers. The forces of the law are often suspicious of members of the Guild, and a character who belongs to the Guild of Starlight and Shadows must deal with this prejudice if he ever runs afoul of the law.
 
-The Guild of Starlight and Shadows currently has 152 members spread across Breland. Approximately 48 of these are sorcerers of 1st to 4th level, with 27 artifi cers and 27 wizards in the same level range. The Guild includes 22 5th-level characters, 11 6th-level characters, 5 7th-level characters, 3 8th-level characters, and 2 9th-level characters. At any given time there are usually 25 to 35 members in Sharn. Humans, half-elves, and gnomes are the largest racial groups in the Guild, which includes a fair number of changelings and elves, and a handful of shifters.
+The Guild of Starlight and Shadows currently has 152 members spread across Breland. Approximately 48 of these are sorcerers of 1st to 4th level, with 27 artificers and 27 wizards in the same level range. The Guild includes 22 5th-level characters, 11 6th-level characters, 5 7th-level characters, 3 8th-level characters, and 2 9th-level characters. At any given time there are usually 25 to 35 members in Sharn. Humans, half-elves, and gnomes are the largest racial groups in the Guild, which includes a fair number of changelings and elves, and a handful of shifters.
 
 Wizards and sorcerers associated with the Guild of Starlight and Shadows usually focus on spells from the conjuration, enchantment, illusion, transmutation, and universal schools. Specialist wizards who join the Guild must focus on one of these schools.
 
@@ -13,13 +13,17 @@ Wizards and sorcerers associated with the Guild of Starlight and Shadows usually
 - [[Sharn]]
 
 ## NPCs
-**Thyron Fable (M tiefling - Archfey warlock)** is a Thelanis manifest zone born tiefling, whose parents were a human and an elf. He is very playful and sarcastic. He is a dark purple tiefling with a heart at the end of his tail and two curling horns.
+**Thyron Fable (M tiefling - Archfey warlock)** is a Thelanis manifest zone born tiefling, but not of natural, or even supernatural means. He is of House Flae from the Venomous Demesne. His parents were great warlocks of an Anchor Baron. While playing out the story of this baron, they asked for their son to be free of their infernal curse. So, a Thelanis manifest zone opened up when he was born, ridding him of the infernal tiefling blood. However, the manifest zone still made him a tiefling of fey magic.
+
+Thyron keeps his origin a secret and claims to be born of two human parents in a Thelanis manifest zone. If someone from the demesne sees through his lie, he claims to have left the demesne in search of stories and trickery. However, he is really on an espionage mission to find out why House Xarmir, and some of his house have begun to act strangely.
+
+He is very playful and sarcastic. He is a dark purple tiefling with a heart at the end of his tail and two curling horns.
 
 **Valbar Dazzletwist (F gnome - Draconic sorcerer)** is a blue scale-covered gnome, who is puzzled about his draconic blood. He is very curious.
 
 **Vine (M earth genasi - Genie warlock)** always leaves, well, leaves wherever he walks. He is very stubborn and petty.
 
-**Misis (F kalashtar - Shadow sorcerer)** is a an odd kalashtar with an extremely deep connection to her quori. She is not very socially adept, but is good-hearted.
+**Misis (F kalashtar - Aberrant Mind sorcerer)** is a an odd kalashtar with an extremely deep connection to her quori. She is not very socially adept, but is good-hearted.
 
 **Elavia Chaos (F tiefling - Wild magic sorcerer)** is an odd tiefling with a right blue horn that twists like a goat and left red horn that drapes backwards. The skin around her joints extend into a hardened chitin for a few inches, and her tail is split into three towards the end. She was born in a Kythri manifest zone, and has no idea where her parents are. She has very little control over her magic.
 

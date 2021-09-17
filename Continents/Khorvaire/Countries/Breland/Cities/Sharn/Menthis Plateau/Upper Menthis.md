@@ -108,6 +108,9 @@ Breland has a long heritage of operatic composition, and the Sharn Opera House i
 Another of Upper Menthis’s four theaters, the Stargazer Theater is located on the top of Kelsa Spire, open to the sky. A grassy park surrounds the open-air amphitheater, allowing audience members to picnic on the lawn if they prefer. Once confined to the summer months, its performance season was extended to the whole year thanks to the weather-controlling powers of House Lyrandar. Now, audiences can enjoy the warmth of a spring or summer day whenever they visit the Stargazer. Its repertoire focuses on classics with family appeal.
 
 ##### Morgrave University
+
+^ec8d59
+
 The University itself fills Dalannan Tower, which is crowned by the enormous dome of Lareth Hall. Five slender spires ring Dalannan Tower, representing and named after the Five Nations, and they house most of Morgrave’s students. The university library is located just below Lareth Hall, and the Commons—atop Breland Spire—is a popular gathering spot for students and faculty alike.
 
 At the heart of Sharn’s Morgrave University is a sharp dichotomy: On the one hand, it is known as a nexus for scholars wishing to study Xen’drik, thanks in large part to Sharn’s proximity to the secret continent. Its collections of artifacts and scholarly works about ancient Xen’drik and the Dhakaan Empire are unparalleled. In many ways, it lives up to the shining vision of its founder, Lord Lareth ir’Morgrave, to be “a beacon of knowledge shining from the tallest towers of the city.”

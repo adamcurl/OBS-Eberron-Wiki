@@ -17,11 +17,13 @@ While wizards and sorcerers associated with the Esoteric Order can study all sch
 - [[Sharn]]
 
 ## NPCs
-**Agdhan Stonefist Valu-Naga (M goliath - Graviturgy wizard)** is a brash, confident, and intimidating goliath that exudes a strong aura around him. He is from a clan in Xen'drik that practices space-time magic.
+**Agdhan Stonefist Valu-Naga (M goliath - Graviturgy wizard)** is a brash, confident, and intimidating goliath that exudes a strong aura around him. He is from a clan in Titan's Teeth, Xen'drik that practices space-time magic.
 
 **Lindsey Joha (F human - Abjuration wizard)** is a meek and shy individual that seeks to further her research in abjuration magic to better protect people and their property.
 
-**Dulron Grullert (M dwarf - Battlesmith artificer)** is a crass and crude dwarf that loves creating defensive trinkets and machines for adventurers and military.
+**Ostorin Elderdew (M half-elf - Divination wizard)** is an arrogant and snobby wizard.
+
+**Dulron Grullert (M dwarf - Battlesmith artificer)** is a dwarf that loves creating defensive trinkets and machines for adventurers and military and is extremely confident and proud of his work.
 
 **Stone (M warforged - Armorer artificer)** is an obsessive warforged that enjoys tinkering with his own body to improve himself.
 
