@@ -3,7 +3,7 @@
 
 - **Allignment:** LE
 
-- **Gender & Race:** M rakshasa
+- **Gender & Race:** M rakshasa or F zakya
 
 - **Age:** 
 

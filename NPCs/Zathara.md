@@ -25,9 +25,11 @@
 - [[Nethatar]] (shares guise)
 
 ## Affiliations
-- 
+- [[The Lords of Dust]]
+- [[Royal Eyes]]
 
 ## Stats
+sorcerer 2
 - **AC:** 
 - **HP:** 
 - **Speed:** 

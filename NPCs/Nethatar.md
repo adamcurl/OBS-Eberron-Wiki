@@ -3,7 +3,7 @@
 
 - **Allignment:** LE
 
-- **Gender & Race:** F rakshasa
+- **Gender & Race:** F zakya rakshasa
 
 - **Age:** 
 
@@ -25,9 +25,11 @@
 - [[Zathara]] (shares guise)
 
 ## Affiliations
-- 
+- [[The Lords of Dust]]
+- [[Royal Eyes]]
 
 ## Stats
+fighter 3
 - **AC:** 
 - **HP:** 
 - **Speed:** 
