@@ -26,11 +26,11 @@ Droaam works closely with House Tharashk, selling the services of monstrous sold
 The monsters that inhabit Droaam retain their racial subcultures. Most worship the Dark Six, but other religious traditions flourish as well.
 
 ### The Daughters of Sora Kell
-**Sora Katra** is the voice of the Daughters. Charismatic and clever, she is an accomplished illusionist and shapeshifter who rarely wears the same face twice. Stories say that she weaves curses on her loom, and that she loves to match wits with heroes and champions. She speaks for Droaam, and is always interested in intrigues and plots.
+**Sora Katra** (green hag) is the voice of the Daughters. Charismatic and clever, she is an accomplished illusionist and shapeshifter who rarely wears the same face twice. Stories say that she weaves curses on her loom, and that she loves to match wits with heroes and champions. She speaks for Droaam, and is always interested in intrigues and plots.
 
-**Sora Maenya** is the commander of Droaam’s armies. It’s said that she can crush a giant with her bare hands, then eat the whole thing and still be hungry. She binds the souls of her victims to their skulls, which she keeps in her lair. Though many stories depict her as merely a brute, she is a clever strategist and a master of intimidation and terror.
+**Sora Maenya** (annis hag) is the commander of Droaam’s armies. It’s said that she can crush a giant with her bare hands, then eat the whole thing and still be hungry. She binds the souls of her victims to their skulls, which she keeps in her lair. Though many stories depict her as merely a brute, she is a clever strategist and a master of intimidation and terror.
 
-**Sora Teraza** is a mystery. Though blind, or perhaps because of her blindness, she possesses vast powers of divination. She is the most gifted oracle of the age, but her answers are often cryptic, even when dealing with her sisters; she might give vital advice even to her enemies. There is little that can be hidden from Sora Teraza, but the question is always whether she’ll share what she knows.
+**Sora Teraza** (dusk hag) is a mystery. Though blind, or perhaps because of her blindness, she possesses vast powers of divination. She is the most gifted oracle of the age, but her answers are often cryptic, even when dealing with her sisters; she might give vital advice even to her enemies. There is little that can be hidden from Sora Teraza, but the question is always whether she’ll share what she knows.
 
 ## History
 

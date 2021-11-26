@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] in [[Sharn]]
+- **Location:** [[Below]] in [[Sharn]]
 
 ## Bio
 Runs a small smithy in Ashblack, where he produces high-quality metal arms and armor.

@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] in [[Sharn]]
+- **Location:** [[Below]] in [[Sharn]]
 
 ## Bio
 Priest for the Pool of Onatar's Tears.

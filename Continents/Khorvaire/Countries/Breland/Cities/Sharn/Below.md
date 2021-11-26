@@ -1,12 +1,43 @@
 [[Sharn]]
 
+# Below
+
+## The Sewers
+The upper wards of Sharn use an ingeniously devised network of chutes to funnel garbage down into the sewers. Garbage and filth is channeled into cavernous midden chambers, where it is left to rot or be devoured by the vermin and oozes that inhabit the sewers. Smaller tunnels channel wastewater to purification centers, where magewrights employ stones of purity to cleanse the water. A special unit of the Sharn Watch protects the purification chambers. Beyond these small, vital areas, the sewers are completely lawless. The tunnels and midden chambers are unlit, and vermin and oozes are common throughout the region.
+
+While the sewers were never intended to support a population, over the centuries a subculture has evolved in this region that lies directly below the LowerCity. There are treasures to be found in the midden heaps—or if not treasure, at least objects that can be resold for a few coppers. A few tribes of people—mostly goblins, along with a few shifters, dwarves, and feral halflings and gnomes—live in the sewers, rummaging through the midden heaps and selling their goods in impromptu “rat’s markets” in the Lower-City. These sewer clans are constantly battling over territory, as control of midden chambers is critical to the survival of a clan. The sewer clans can pose a threat to adventurers who travel to the Depths, but they can also be valuable allies; there are no better guides to the sewers and the Depths than one of the cellar dwellers.
+
+**The Quiet Folk** are a goblin clan whose territory is located under Tavick’s Landing. They are generally a peaceful clan who rely on stealth and knowledge of the sewers as opposed to force, and they can be useful allies for a party of adventurers. Most Quiet Folk are 1st- or 2nd-level experts specializing in Hide, Stealth, Search, and Spot.
+
+**The Red Jackals** are one of the most violent clans. Most of the jackals are shifters, but there are a number of half-orcs in the clan. While they are based under Menthis Plateau, the Red Jackals spend as much time raiding the camps of other sewer clans as they do searching their own midden heaps, and as a result they can be found anywhere in the sewers. While they are a very chaotic clan, [[Hassht]] is the dominant Jackal warrior. Most Red Jackals are 2nd-level warriors or 1st-level barbarians.
+
+**The Grave Diggers** are a band of dwarves. They are one of the smaller clans, but they control the rich territory under Central Plateau, and they fight fiercely to defend their chambers. Grave Diggers are dour folk who talk as little as possible. The leader of the Grave Diggers is named [[Kandon]]; he has terrible acid burns due to a fight with an ochre jelly, but he is a fierce warrior and a cunning tactician. Most of the Grave Diggers are expert 1/warrior 1, but a handful are 1st-level barbarians.
+
+**The Rats** are a small clan of feral halflings and gnomes. Like the Red Jackals, the Rats spend more time raiding other clans than they do scavenging. While small, the Rats are surprisingly ferocious and prefer ambushes and theft to direct confrontations. Most Rats are 1st-level rangers; their leader [[Sasca]] has formed a close bond with a dire rat she calls Molarc.
+
+## The Depths/Old Sharn/UnderSharn
+Sharn was built on the foundations of an older city, which was itself built atop goblin ruins. This old city was destroyed by dark magic, courtesy of the elemental powers of the infamous Halas Tarkanan and his consort, the Lady of the Plague. It is said that vile powers still linger in these ruins, and for this reason King Galifar I had all the passages to this undercity sealed with gates of metal and magic. These portals remain sealed today, and it’s illegal to tamper with them. But it’s generally assumed that many treasures are hidden in the ruins of Old Sharn, along with untold secrets of the past.
+
+No one knows exactly what lurks in Old Sharn. The ruins could contain ghosts or other undead, the vengeful spirits of the aberrant-marked people who took refuge in the fallen city. In olden times, the Lady of the Plague had power over vermin and disease, and a fanciful tale says that even today the undercity is inhabited by swarms of sentient rats and beetles.
+
+The sewers are the bowels of Sharn. But there are older ruins that predate the great city. UnderSharn represents the remains of the great cities of old buried in the forgotten Depths between the LowerCity and the Sewers and the Cogs far below.
+
+When Galifar I ordered Sharn to be rebuilt, all passages to the Depths were bound with iron and magic, and traffic between the surface and the ruins was forbidden. Still, there are many things that could draw adventurers down to the Depths. The simplest is greed. A great deal of treasure must still be hidden in the ruins of UnderSharn. In addition, a number of the dragonmarked houses had enclaves that were abandoned during the War of the Mark and lost when the city was destroyed; a dragonmarked lord could hire a party to recover relics from the past.
+
+The Depths, or UnderSharn, is in essence a series of dungeons. The surviving sections of the city are scattered throughout the underworld, and each one may be sealed in a different manner and hold different threats.
+
+##### The Servants of Calderus
+Far beneath the towers of Sharn, in the lost regions of the Depths, lies the ancient psionic vampire [[Calderus]]. From within her hidden crypt, Calderus wields significant power in the City of Towers. Though she rarely leaves her sanctuary, she rules the Servants, a network of enslaved vampires and dominated pawns of various races. This network of spies and agents operates as her eyes, ears, and hands in the city, advancing her plots and gathering intelligence that adds to the vampire lord’s significant storehouse of information.
+
+## The Cogs
 - **Population:** 6,200
 - **Social Class:** Lower class
 - **Character:** Cramped and dirty industrial area
 - **Districts:** Industrial (2)
 - **Business:** Bare essentials for Cog workers; gold piece limit: 10,000 gp
+- **Sharn Watch:** The Cogs has no Watch garrison; on the rare occasion that a City Watch patrol enters the Cogs, it comes from one of the districts above.
 
-## About
+**About**
 The Cogs lie deep beneath Sharn, below the sewers and Old Sharn (described later in this chapter). Streams of Fernian lava flow through this area, and over the centuries, House Cannith has helped Breland establish vast foundries that tap this mystic resource. Ashblack and Blackbones are industrial districts, largely inhabited by warforged laborers and miserable workers of other races. It is said that House Cannith maintains a forgehold in the Ashblack district, and that this is where Baron Merrix d’Cannith conducts his experiments.
 
 The Sharn Watch maintains a presence in the Cogs, and overseers from House Cannith are stationed here to keep things in order. Beyond these industrial districts lies the deeper tunnels of Khyber’s Gate, a tenement district.
@@ -18,11 +49,6 @@ Most of the citizens of Sharn have never been to the Cogs. The area does house t
 The Upper Cogs are primarily devoted to industry. When Lord Tarkanan destroyed the old city during the War of the Mark, he opened channels to the lake of fire that lay deep beneath. This lava burns with a heat that is more than the laws of nature should allow, and it is ideal for working difficult metals such as adamantine. Over the centuries, House Cannith has helped Breland develop a massive array of foundries and forges in the Cogs, combining the powers of magic and nature to create a powerful industrial complex. In addition to the trades that rely on the heat and the fire, the Cogs are home to many businesses that the people on the surface don’t want to have to see, smell, or deal with—tanneries, slaughter houses, and other unpleasant trades.
 
 Much of Sharn’s warforged population can be found in the Cogs districts of Ashblack and Blackbones, laboring in these workhouses and forges. While they are technically free, most of the warforged don’t know what to do with freedom; they were made to follow orders and to work as part of an army. Unscrupulous businessmen have lured warforged into indentured servitude, and many are little better than slaves. Requiring neither food nor sleep, they toil unceasingly, day in and day out. Lord [[Merrix d’Cannith]] has been making efforts to improve the life of the warforged and to encourage the constructs to take more initiative. The warforged who work at the Cannith Enclave in Ashblack are treated as equals, and Merrix secretly helped establish the Red Hammer Inn in Blackbones to help the warforged there.
-
-## Sharn Watch
-The Cogs has no Watch garrison; on the rare occasion that a City Watch patrol enters the Cogs, it comes from one of the districts above.
-
-## Upper Cogs
 
 ### Ashblack
 The first foundries of Sharn were built here. The district is devoted to industry, and the environment here is sweltering and claustrophobic.
@@ -95,7 +121,7 @@ Despite the monstrous nature of its patrons, Shamukaar is one of the safest plac
 This shop is located in a small side tunnel behind Shamukaar. It has no windows, and the door is locked with seal of the magi. The only indication of its purpose is a small sign above the door, showing a stylized dragon with an injured leg; a few drops of blood fall from its raised foreleg. This is the abode of [[Cask]], a changeling artificer allied with Daask. Cask’s specialty is alchemy, and he provides Daask with wrath, noxious smokesticks, and other alchemical weapons. More importantly, he plays a key role in the dragon’s blood trade, selling from his shop. Dragon’s blood is smuggled into Sharn in an inert, unrecognizable solid form. Cask prepares a special salve; when this is applied to the dragon’s blood, it restores the drug to its proper consistency. Cask cannot create dragon’s blood on his own, and he does not know the ingredients of the drug.
 
 ##### The Temple of the Six
-Before the rise of the Silver Flame, it was not uncommon to find people who openly worshipped the Dark Six, either hungry for power or making sacrifices to placate the dark gods. Temples to the Six were usually built in hidden places, and when Sharn was created an enormous temple to the Dark Six was constructed beneath the city. In 484 YK, Flamekeeper Jalus Baine led a force of the faithful and exterminated the followers of the Six, and the temple was quickly ransacked. But it was not completely destroyed. Currently, it serves as the headquarters of Daask and the home of the ogre mage [[Cavallah]]. Cavallah respects the Mockery and the Shadow and has restored their altars, but for the most part the temple was simply a convenient base of operations. She has established a range of defenses in the temple, and brought a variety of unpleasant beasts from Droaam: gricks, displacer beasts, basilisks, and an assortment of other deadly creatures. The wealth gathered by Droaam lies in the vaults of this temple—but seizing it would be a dangerous task.
+Before the rise of the Silver Flame, it was not uncommon to find people who openly worshipped the Dark Six, either hungry for power or making sacrifices to placate the dark gods. Temples to the Six were usually built in hidden places, and when Sharn was created an enormous temple to the Dark Six was constructed beneath the city. In 484 YK, Flamekeeper Jalus Baine led a force of the faithful and exterminated the followers of the Six, and the temple was quickly ransacked. But it was not completely destroyed. Currently, it serves as the headquarters of Daask and the home of the oni mage [[Cavallah]]. Cavallah respects the Mockery and the Shadow and has restored their altars, but for the most part the temple was simply a convenient base of operations. She has established a range of defenses in the temple, and brought a variety of unpleasant beasts from Droaam: gricks, displacer beasts, basilisks, and an assortment of other deadly creatures. The wealth gathered by Droaam lies in the vaults of this temple—but seizing it would be a dangerous task.
 
 Many of the Dark Six have other worshippers in Khyber’s Gate, how have established hidden temples; these folk generally practice their faith in private and have little contact with Cavallah.
 
@@ -105,28 +131,6 @@ In the dawn of Sharn, there were three wizard’s circles: The Esoteric Order of
 ##### The Workshop of Tyrial Dashar
 A mighty conjurer created this underground workshop in order to carry out his experiments without placing the city at risk. He was eventually killed by a rakshasa that escaped its bonds, and ever since then his workshop has been a fortress of the Lords of Dust. Currently, the rakshasas [[Zathara]] and [[Nethatar]] reside in this dungeon keep.
 
-## The Sewers
-The upper wards of Sharn use an ingeniously devised network of chutes to funnel garbage down into the sewers. Garbage and filth is channeled into cavernous midden chambers, where it is left to rot or be devoured by the vermin and oozes that inhabit the sewers. Smaller tunnels channel wastewater to purification centers, where magewrights employ stones of purity to cleanse the water. A special unit of the Sharn Watch protects the purification chambers. Beyond these small, vital areas, the sewers are completely lawless. The tunnels and midden chambers are unlit, and vermin and oozes are common throughout the region.
-
-While the sewers were never intended to support a population, over the centuries a subculture has evolved in this region that lies directly below the LowerCity. There are treasures to be found in the midden heaps—or if not treasure, at least objects that can be resold for a few coppers. A few tribes of people—mostly goblins, along with a few shifters, dwarves, and feral halflings and gnomes—live in the sewers, rummaging through the midden heaps and selling their goods in impromptu “rat’s markets” in the Lower-City. These sewer clans are constantly battling over territory, as control of midden chambers is critical to the survival of a clan. The sewer clans can pose a threat to adventurers who travel to the Depths, but they can also be valuable allies; there are no better guides to the sewers and the Depths than one of the cellar dwellers.
-
-**The Quiet Folk** are a goblin clan whose territory is located under Tavick’s Landing. They are generally a peaceful clan who rely on stealth and knowledge of the sewers as opposed to force, and they can be useful allies for a party of adventurers. Most Quiet Folk are 1st- or 2nd-level experts specializing in Hide, Stealth, Search, and Spot.
-
-**The Red Jackals** are one of the most violent clans. Most of the jackals are shifters, but there are a number of half-orcs in the clan. While they are based under Menthis Plateau, the Red Jackals spend as much time raiding the camps of other sewer clans as they do searching their own midden heaps, and as a result they can be found anywhere in the sewers. While they are a very chaotic clan, [[Hassht]] is the dominant Jackal warrior. Most Red Jackals are 2nd-level warriors or 1st-level barbarians.
-
-**The Grave Diggers** are a band of dwarves. They are one of the smaller clans, but they control the rich territory under Central Plateau, and they fight fiercely to defend their chambers. Grave Diggers are dour folk who talk as little as possible. The leader of the Grave Diggers is named [[Kandon]]; he has terrible acid burns due to a fight with an ochre jelly, but he is a fierce warrior and a cunning tactician. Most of the Grave Diggers are expert 1/warrior 1, but a handful are 1st-level barbarians.
-
-**The Rats** are a small clan of feral halflings and gnomes. Like the Red Jackals, the Rats spend more time raiding other clans than they do scavenging. While small, the Rats are surprisingly ferocious and prefer ambushes and theft to direct confrontations. Most Rats are 1st-level rangers; their leader [[Sasca]] has formed a close bond with a dire rat she calls Molarc.
-
-## The Depths
-The sewers are the bowels of Sharn. But there are older ruins that predate the great city. UnderSharn represents the remains of the great cities of old buried in the forgotten Depths between the LowerCity and the Sewers and the Cogs far below.
-
-When Galifar I ordered Sharn to be rebuilt, all passages to the Depths were bound with iron and magic, and traffic between the surface and the ruins was forbidden. Still, there are many things that could draw adventurers down to the Depths. The simplest is greed. A great deal of treasure must still be hidden in the ruins of UnderSharn. In addition, a number of the dragonmarked houses had enclaves that were abandoned during the War of the Mark and lost when the city was destroyed; a dragonmarked lord could hire a party to recover relics from the past.
-
-The Depths, or UnderSharn, is in essence a series of dungeons. The surviving sections of the city are scattered throughout the underworld, and each one may be sealed in a different manner and hold different threats.
-
-##### The Servants of Calderus
-Far beneath the towers of Sharn, in the lost regions of the Depths, lies the ancient psionic vampire [[Calderus]]. From within her hidden crypt, Calderus wields significant power in the City of Towers. Though she rarely leaves her sanctuary, she rules the Servants, a network of enslaved vampires and dominated pawns of various races. This network of spies and agents operates as her eyes, ears, and hands in the city, advancing her plots and gathering intelligence that adds to the vampire lord’s significant storehouse of information.
 
 ## NPCs
 - [[Councilor Nolan Toranak]]

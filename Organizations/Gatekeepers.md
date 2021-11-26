@@ -7,6 +7,14 @@ The first of the Gatekeepers, orcs, were taught their magic by the dragon [[Vvar
 
 ## Locations
 
+### Sharn (Upper Central)
+
+#### Uhzod Khash'tel
+LG M orc
+
+#### Xyrlee Celest
+NG F elf
+
 ## NPCs
 
 ## Features

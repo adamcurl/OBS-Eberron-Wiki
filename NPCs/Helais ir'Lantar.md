@@ -28,6 +28,7 @@ Usually, one of the two rakshasa poses as Helais, while the other is disguised i
 - [[Alais ir’Lantar]] (brother)
 - [[Zathara]]
 - [[Nethatar]]
+- [[Ythana Morr]]
 
 ## Affiliations
 - [[Royal Eyes]]

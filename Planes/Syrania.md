@@ -75,7 +75,7 @@
     *   **The Hoard** is the storefront of the ancient gold dragon Halazaryx, who settled in Syrania after some differences of opinion with the Conclave of Argonnessen. Hal has a collection of interesting relics tied to historical figures in Khorvaire, and is always interested in trading for items that have fascinating stories.
     *   **Lady Ash** is a githyanki merchant who sells the plunder claimed by her city-ship, Zaeran’s Sword. Her goods depend on the Sword’s most recent target.
     *   **Bor’ob** is a slaadi merchant specializing in extradimensional spaces: bags of holding, handy haversacks, and the like. He’s usually a gray slaad, but it varies from week to week.
-    *   **Slade **is the Dominion of Music. They craft and play magical instruments, and may be willing to sell an instrument, a song, or a performance.
+    *   **Slade** is the Dominion of Music. He crafts and plays magical instruments, and may be willing to sell an instrument, a song, or a performance.
 
 
 ## Coterminous and Remote

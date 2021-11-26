@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] or [[Middle Central]] in [[Sharn]]
+- **Location:** [[Below]] or [[Middle Central]] in [[Sharn]]
 
 ## Bio
 Marrix leads House Cannith’s Sharn enclave and the Southern faction. Though he is the youngest of the three and has the weakest familial connection to Starrin, his rivals are wary of his incredible talents as an artificer and his driving ambition.

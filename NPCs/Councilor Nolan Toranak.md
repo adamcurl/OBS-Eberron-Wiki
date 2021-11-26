@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** [[The Cogs]] in [[Sharn]]
+- **Location:** [[Below]] in [[Sharn]]
 
 ## Bio
 Councilor for the Cogs, is largely seen as a tool of the industrialists who own the foundries there. Members of his family were killed by warforged during the Last War, and Toranak harbors a bitter grudge against House Cannith and the warforged. He has tried to have warforged reclassified as property, and seeks to suppress warforged activists in the Cogs.
