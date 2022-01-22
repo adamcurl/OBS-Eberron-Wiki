@@ -77,6 +77,28 @@
     *   **Bor’ob** is a slaadi merchant specializing in extradimensional spaces: bags of holding, handy haversacks, and the like. He’s usually a gray slaad, but it varies from week to week.
     *   **Slade** is the Dominion of Music. He crafts and plays magical instruments, and may be willing to sell an instrument, a song, or a performance.
 
+	**Payments**
+	- **Angel Tears.** These translucent coins are one of the only active currencies in the Immeasurable Market. They’re produced by the Throne of Commerce and honored by most dominions and virtues. For simplicity’s sake, they could be assigned a value in gold pieces, so a Dominion might pay adventurers 100 gp in angel tears for a minor service. These are useful when you want to buy a drink at the tavern without selling your soul. 
+	- **Dragonshards.** Dragonshards are unique to Eberron, and there are merchants who take a great interest in them— especially Khyber dragonshards, which can be used to bind spirits. 
+	- **Luck.** Some merchants literally let you spend your fortune. Luck is measured in “dice.” Each die you spend allows the DM to give you disadvantage on a future d20 roll of their choosing. So if you spend five dice to acquire an item, that’s five difficult rolls in your future. 
+	- **Trade Goods.** Many merchants are primarily interested in things they can resell. What’s valuable to an immortal may not seem valuable to a mortal; an item that is unique or has emotional significance may have value to an Immeasurable merchant even if it doesn’t do anything. So it’s possible a treasured trinket holds more trade value than a legendary magic item. 
+	- **Odd Organs.** Some merchants like to deal in the body parts of unusual creatures—unicorn horns, a dragon’s heart, a demon’s eye. They may be willing to sell something on the promise of future delivery, but there’s usually a fixed time to complete the transaction. 
+	- **Services.** Merchants may well barter goods in exchange for a promise of service, either immediately or to be performed in the future. Remember that oaths sworn in the Market carry great weight; those who break a vow can end up facing a tribunal in Daanvi. 
+	- **A Song.** This doesn’t have to literally be a song, but there are merchants who trade goods in exchange for a performance of some sort. Usually this is about quality; they’ll sell you the dagger for a song, but it needs to be an epic performance. Can you succeed on a DC 20 Charisma (Performance) check? 
+	- **A Soul.** These aren’t a common form of currency, but some immortals trade in souls . . . if not your own, this is usually about promising to kill someone! A soul traded in this way becomes the possession of the immortal upon death instead of it going to Dolurrh; this eliminates any possibility of resurrection unless the soul is reclaimed.
+
+| Payment      | Gp Conversion    |
+| ------------ | ---------------- |
+| Angel Tears  | 1/50 gp          | 
+| Dragonshards | 1 to 1           |
+| Luck         | 1/100gp*         |
+| Trade Goods  | --               |
+| Odd Organs   | --               |
+| Services     | --               |
+| Song         | DC 10 + 1/200 gp |
+| Soul         | --               |
+
+\* There is a 20% chance at every roll the character makes that they will have disadvantage on the roll. If they go 10+ rolls without bad luck, then add 5% to the chance.
 
 ## Coterminous and Remote
 

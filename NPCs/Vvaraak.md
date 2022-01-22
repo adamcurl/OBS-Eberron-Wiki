@@ -5,7 +5,7 @@
 
 - **Gender & Race:** F black dragon
 
-- **Age:** 
+- **Age:** 24,000
 
 - **Agenda:** 
 
@@ -15,7 +15,7 @@
 
 - **Hook:** 
 
-- **Location:** (deceased)
+- **Location:** On a Totem Fox in Lamannia (portal leading from Vvaraak's Cave, Shadow Marches)
 
 ## Bio
 Vvaraak was the black dragon who taught the first Gatekeepers and began the druidic tradition in western Khorvaire sixteen thousand years ago, during the Age of Monsters. She was also known as the Scaled Apostate. The Seren druids call her the Ebon Mother.
@@ -38,7 +38,7 @@ Vvaraak was a child of Eberron, the sovereign path of the draconic adherents of 
 - 
 
 ## Affiliations
-- 
+- [[Gatekeepers]]
 
 ## Stats
 - **AC:** 
